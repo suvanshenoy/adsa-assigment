@@ -1,0 +1,401 @@
+query_id,language,source_title,pattern,pattern_length,expected_match_positions,actual_match_positions,expected_match_status,actual_match_status,correctness_status,lps_array,lps_construction_time,kmp_search_time,kmp_character_comparisons,sample_size,pattern_category,pattern_type,time_unit
+KMP_english_10000_0001,english,The_Americans_with_Disabilites_Act_of_1990/Findings_and_Purposes,t_o,3,[33],[33],True,True,PASSED,"[0, 0, 0]",1.250000000e-06,5.458000000e-06,66,10000,short,matching,seconds
+KMP_english_10000_0002,english,Brit_Awards_1984,Awa,3,[5],[5],True,True,PASSED,"[0, 0, 0]",5.420000000e-07,1.542000000e-06,16,10000,short,matching,seconds
+KMP_english_10000_0003,english,Earles_(disambiguation),igu,3,[14],[14],True,True,PASSED,"[0, 0, 0]",4.160000000e-07,1.958000000e-06,25,10000,short,matching,seconds
+KMP_english_10000_0004,english,1974_The_Citadel_Bulldogs_football,Bul,3,[17],[17],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,2.292000000e-06,34,10000,short,matching,seconds
+KMP_english_10000_0005,english,Ghouls_'n_Ghosts_(series),ri,2,[20],[20],True,True,PASSED,"[0, 0]",2.920000000e-07,1.792000000e-06,25,10000,short,matching,seconds
+KMP_english_10000_0006,english,Domnell_mac_Aedh_O_Flaithbheartaigh,tai,3,[30],[30],True,True,PASSED,"[0, 0, 0]",1.083000000e-06,3.333000000e-06,36,10000,short,matching,seconds
+KMP_english_10000_0007,english,Blaklion,kl,2,[3],[3],True,True,PASSED,"[0, 0]",5.000000000e-07,9.590000000e-07,8,10000,short,matching,seconds
+KMP_english_10000_0008,english,Living_Conditions_(Buffy_episode),ffy,3,[21],[21],True,True,PASSED,"[0, 1, 0]",5.420000000e-07,2.375000000e-06,33,10000,short,matching,seconds
+KMP_english_10000_0009,english,Gmail_Custom_Time,l_C,3,[4],[4],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.375000000e-06,17,10000,short,matching,seconds
+KMP_english_10000_0010,english,Raymond_Nye,nd_,3,[5],[5],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.042000000e-06,11,10000,short,matching,seconds
+KMP_english_10000_0011,english,Austen_Deans,an,2,[9],[9],True,True,PASSED,"[0, 0]",2.500000000e-07,1.041000000e-06,12,10000,short,matching,seconds
+KMP_english_10000_0012,english,Algeria_in_1995,199,3,[11],[11],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.209000000e-06,15,10000,short,matching,seconds
+KMP_english_10000_0013,english,Pyrisitia_lisa,it,2,[5],[5],True,True,PASSED,"[0, 0]",2.500000000e-07,1.500000000e-06,17,10000,short,matching,seconds
+KMP_english_10000_0014,english,John_MacDonald_Badham,Bad,3,[15],[15],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.583000000e-06,21,10000,short,matching,seconds
+KMP_english_10000_0015,english,Fred_David_Gray,red,3,[1],[1],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.333000000e-06,16,10000,short,matching,seconds
+KMP_english_10000_0016,english,"Sperry_Township,_Clayton_County,_Iowa",ay,2,[19],[19],True,True,PASSED,"[0, 0]",2.910000000e-07,2.583000000e-06,37,10000,short,matching,seconds
+KMP_english_10000_0017,english,ASEAN_Flag,EA,2,[2],[2],True,True,PASSED,"[0, 0]",2.910000000e-07,9.170000000e-07,10,10000,short,matching,seconds
+KMP_english_10000_0018,english,1871_in_South_Africa,out,3,[9],[9],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.500000000e-06,20,10000,short,matching,seconds
+KMP_english_10000_0019,english,Maksim_Reznik,Rez,3,[7],[7],True,True,PASSED,"[0, 0, 0]",4.160000000e-07,1.208000000e-06,13,10000,short,matching,seconds
+KMP_english_10000_0020,english,Atma_Ram,_R,2,[4],[4],True,True,PASSED,"[0, 0]",2.910000000e-07,7.920000000e-07,8,10000,short,matching,seconds
+KMP_english_10000_0021,english,"Sheahan,_Paul",han,3,[4],[4],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.250000000e-06,14,10000,short,matching,seconds
+KMP_english_10000_0022,english,Sharifabad_Rural_District_(Tehran_Province),hra,3,[29],[29],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,3.042000000e-06,44,10000,short,matching,seconds
+KMP_english_10000_0023,english,"Blagodarnoye,_Armenia",en,2,[17],[17],True,True,PASSED,"[0, 0]",2.920000000e-07,1.625000000e-06,22,10000,short,matching,seconds
+KMP_english_10000_0024,english,Baoan_Highway_(Shanghai_Metro),an_,3,[3],[3],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,2.458000000e-06,34,10000,short,matching,seconds
+KMP_english_10000_0025,english,Maksim_Reznik,_R,2,[6],[6],True,True,PASSED,"[0, 0]",2.920000000e-07,1.125000000e-06,13,10000,short,matching,seconds
+KMP_english_10000_0026,english,Leopard_2A2,ar,2,[4],[4],True,True,PASSED,"[0, 0]",2.920000000e-07,1.000000000e-06,11,10000,short,matching,seconds
+KMP_english_10000_0027,english,Pizzeria_Dennis,nis,3,[12],[12],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.291000000e-06,16,10000,short,matching,seconds
+KMP_english_10000_0028,english,Vecheka,che,3,[2],[2],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,8.750000000e-07,7,10000,short,matching,seconds
+KMP_english_10000_0029,english,Mushgari,ari,3,[5],[5],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,7.920000000e-07,8,10000,short,matching,seconds
+KMP_english_10000_0030,english,Lag_la_Cauma,_l,2,[3],[3],True,True,PASSED,"[0, 0]",2.910000000e-07,1.125000000e-06,13,10000,short,matching,seconds
+KMP_english_10000_0031,english,Karsta,rs,2,[2],[2],True,True,PASSED,"[0, 0]",2.500000000e-07,6.660000000e-07,6,10000,short,matching,seconds
+KMP_english_10000_0032,english,Intention-to-treat_method,t_,2,[17],[17],True,True,PASSED,"[0, 0]",2.500000000e-07,2.208000000e-06,30,10000,short,matching,seconds
+KMP_english_10000_0033,english,Svyaznoy,vya,3,[1],[1],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,8.330000000e-07,8,10000,short,matching,seconds
+KMP_english_10000_0034,english,1929_Hebron_Massacre,ss,2,[14],[14],True,True,PASSED,"[0, 1]",3.330000000e-07,1.625000000e-06,21,10000,short,matching,seconds
+KMP_english_10000_0035,english,Lauma_(Genshin_Impact),a_(,3,[4],[4],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.834000000e-06,24,10000,short,matching,seconds
+KMP_english_10000_0036,english,The_Concise_History_of_Humanity_or_Chronicles,um,2,[24],[24],True,True,PASSED,"[0, 0]",2.500000000e-07,2.875000000e-06,45,10000,short,matching,seconds
+KMP_english_10000_0037,english,Lühesand,hes,3,[2],[2],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,9.590000000e-07,8,10000,short,matching,seconds
+KMP_english_10000_0038,english,Blessing_Edoho,Edo,3,[9],[9],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.166000000e-06,14,10000,short,matching,seconds
+KMP_english_10000_0039,english,Rameau,eau,3,[3],[3],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,7.500000000e-07,6,10000,short,matching,seconds
+KMP_english_10000_0040,english,1933_AHS,3_A,3,[3],[3],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,9.160000000e-07,9,10000,short,matching,seconds
+KMP_english_10000_0041,english,Badminton_at_the_2022_Asian_Games_-_Men's_singles,s_s,3,[40],[40],True,True,PASSED,"[0, 0, 1]",3.330000000e-07,3.583000000e-06,52,10000,short,matching,seconds
+KMP_english_10000_0042,english,Mexican_Rush,Me,2,[0],[0],True,True,PASSED,"[0, 0]",2.920000000e-07,1.125000000e-06,12,10000,short,matching,seconds
+KMP_english_10000_0043,english,Snake_River_Conspiracy,nak,3,[1],[1],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.667000000e-06,23,10000,short,matching,seconds
+KMP_english_10000_0044,english,Redundancy_problem,y_p,3,[9],[9],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.375000000e-06,18,10000,short,matching,seconds
+KMP_english_10000_0045,english,List_of_people_from_Los_Angeles,e_,2,[13],[13],True,True,PASSED,"[0, 0]",2.920000000e-07,2.416000000e-06,34,10000,short,matching,seconds
+KMP_english_10000_0046,english,Equatorial_mountain_blue,blu,3,[20],[20],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.750000000e-06,24,10000,short,matching,seconds
+KMP_english_10000_0047,english,Ribbon_eel,bo,2,[3],[3],True,True,PASSED,"[0, 0]",2.920000000e-07,1.084000000e-06,11,10000,short,matching,seconds
+KMP_english_10000_0048,english,List_of_shipwrecks_in_November_1845,wre,3,[12],[12],True,True,PASSED,"[0, 0, 0]",3.330000000e-07,2.375000000e-06,35,10000,short,matching,seconds
+KMP_english_10000_0049,english,Nebria_suturalis,ral,3,[11],[11],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.375000000e-06,17,10000,short,matching,seconds
+KMP_english_10000_0050,english,Qaleh_Ganj,anj,3,[7],[7],True,True,PASSED,"[0, 0, 0]",3.330000000e-07,1.000000000e-06,11,10000,short,matching,seconds
+KMP_english_10000_0051,english,The_Dangerous_Duo!!_Super_Warriors_Never_Rest,nt,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,2.958000000e-06,46,10000,short,non_matching,seconds
+KMP_english_10000_0052,english,Cryopreservation_of_semen,ETS,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,1.750000000e-06,25,10000,short,non_matching,seconds
+KMP_english_10000_0053,english,Babenhausen_railway_station,es_,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,1.958000000e-06,29,10000,short,non_matching,seconds
+KMP_english_10000_0054,english,Benwood,tow,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,6.660000000e-07,7,10000,short,non_matching,seconds
+KMP_english_10000_0055,english,Verticillomyces_thioluteus,MO,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.750000000e-06,26,10000,short,non_matching,seconds
+KMP_english_10000_0056,english,Benilde_Blazers_and_Lady_Blazers,_v,2,[],[],False,False,PASSED,"[0, 0]",2.920000000e-07,2.417000000e-06,36,10000,short,non_matching,seconds
+KMP_english_10000_0057,english,Covid_Symptom_Study,cop,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,1.375000000e-06,19,10000,short,non_matching,seconds
+KMP_english_10000_0058,english,Assetou_Foune_Samake_Migan,e-P,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,2.084000000e-06,29,10000,short,non_matching,seconds
+KMP_english_10000_0059,english,Big_Japan_Pro_Wrestling,ary,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,1.750000000e-06,25,10000,short,non_matching,seconds
+KMP_english_10000_0060,english,Cedar_Grove_Schools,Phy,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,1.292000000e-06,19,10000,short,non_matching,seconds
+KMP_english_10000_0061,english,Missouri_Highway_17,A_,2,[],[],False,False,PASSED,"[0, 0]",2.920000000e-07,1.333000000e-06,19,10000,short,non_matching,seconds
+KMP_english_10000_0062,english,馬融,in,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,5.420000000e-07,2,10000,short,non_matching,seconds
+KMP_english_10000_0063,english,2010_Team_Katusha_season,ng,2,[],[],False,False,PASSED,"[0, 0]",2.910000000e-07,1.625000000e-06,24,10000,short,non_matching,seconds
+KMP_english_10000_0064,english,Muqran_bin_Abdul_Aziz,lan,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,1.542000000e-06,22,10000,short,non_matching,seconds
+KMP_english_10000_0065,english,Rochelle_Saunders,odo,3,[],[],False,False,PASSED,"[0, 0, 1]",3.750000000e-07,1.291000000e-06,18,10000,short,non_matching,seconds
+KMP_english_10000_0066,english,Up_with_people,_ab,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,1.250000000e-06,16,10000,short,non_matching,seconds
+KMP_english_10000_0067,english,27th_Mohammad_Rasul_Allah_Brigade,ørk,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,2.083000000e-06,33,10000,short,non_matching,seconds
+KMP_english_10000_0068,english,Bo'zsuv,rre,3,[],[],False,False,PASSED,"[0, 1, 0]",4.170000000e-07,6.250000000e-07,7,10000,short,non_matching,seconds
+KMP_english_10000_0069,english,2007-08_PFC_Cherno_More_Varna_season,Rou,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,2.292000000e-06,36,10000,short,non_matching,seconds
+KMP_english_10000_0070,english,Zorawar_Ganj,lan,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,9.580000000e-07,12,10000,short,non_matching,seconds
+KMP_english_10000_0071,english,Muhammad_cartoon_crisis,R.,2,[],[],False,False,PASSED,"[0, 0]",2.920000000e-07,1.541000000e-06,23,10000,short,non_matching,seconds
+KMP_english_10000_0072,english,"Hales,_Mary",off,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,8.750000000e-07,11,10000,short,non_matching,seconds
+KMP_english_10000_0073,english,FAT_Cup,ida,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,6.250000000e-07,7,10000,short,non_matching,seconds
+KMP_english_10000_0074,english,This_Town_Needs_Guns_(Album),uc,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,2.084000000e-06,30,10000,short,non_matching,seconds
+KMP_english_10000_0075,english,Eli_Moon,pr,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,7.500000000e-07,8,10000,short,non_matching,seconds
+KMP_english_10000_0076,english,Cheilosia_barbata,ic,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.416000000e-06,19,10000,short,non_matching,seconds
+KMP_english_10000_0077,english,Stenokranio,boy,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,8.340000000e-07,11,10000,short,non_matching,seconds
+KMP_english_10000_0078,english,Rapid_transit_systems,be,2,[],[],False,False,PASSED,"[0, 0]",2.920000000e-07,1.416000000e-06,21,10000,short,non_matching,seconds
+KMP_english_10000_0079,english,"Grierson,_Mary",on_,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,1.208000000e-06,15,10000,short,non_matching,seconds
+KMP_english_10000_0080,english,Gortloney,uj,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,7.920000000e-07,9,10000,short,non_matching,seconds
+KMP_english_10000_0081,english,Scott_Forbes,ua,2,[],[],False,False,PASSED,"[0, 0]",2.920000000e-07,9.580000000e-07,12,10000,short,non_matching,seconds
+KMP_english_10000_0082,english,NBC_Sports_Gold,uns,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,1.167000000e-06,15,10000,short,non_matching,seconds
+KMP_english_10000_0083,english,Abner_Jay,WV_,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,7.500000000e-07,9,10000,short,non_matching,seconds
+KMP_english_10000_0084,english,Apona_frater,kok,3,[],[],False,False,PASSED,"[0, 0, 1]",3.340000000e-07,9.170000000e-07,12,10000,short,non_matching,seconds
+KMP_english_10000_0085,english,1925,e_,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,5.000000000e-07,4,10000,short,non_matching,seconds
+KMP_english_10000_0086,english,37th_National_Congress_of_Chile,1),2,[],[],False,False,PASSED,"[0, 0]",2.910000000e-07,2.042000000e-06,31,10000,short,non_matching,seconds
+KMP_english_10000_0087,english,Luzia_Inglês_Van-Dúnem,idz,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,1.750000000e-06,23,10000,short,non_matching,seconds
+KMP_english_10000_0088,english,"Alberta_Liquor_Importation_Plebiscite,_1920",uns,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,2.875000000e-06,44,10000,short,non_matching,seconds
+KMP_english_10000_0089,english,Diophantine_plane,ame,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,1.375000000e-06,19,10000,short,non_matching,seconds
+KMP_english_10000_0090,english,Azikin_Solthan,ta,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.166000000e-06,15,10000,short,non_matching,seconds
+KMP_english_10000_0091,english,Miles_the_Great,ho,2,[],[],False,False,PASSED,"[0, 0]",2.920000000e-07,1.208000000e-06,16,10000,short,non_matching,seconds
+KMP_english_10000_0092,english,Ikarus_Funflyer,",_R",3,[],[],False,False,PASSED,"[0, 0, 0]",4.170000000e-07,1.125000000e-06,15,10000,short,non_matching,seconds
+KMP_english_10000_0093,english,Immunological_memory,e_,2,[],[],False,False,PASSED,"[0, 0]",2.920000000e-07,1.459000000e-06,21,10000,short,non_matching,seconds
+KMP_english_10000_0094,english,Rex84,on,2,[],[],False,False,PASSED,"[0, 0]",2.090000000e-07,5.420000000e-07,5,10000,short,non_matching,seconds
+KMP_english_10000_0095,english,Injune_Branch_Railway,tal,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,1.416000000e-06,21,10000,short,non_matching,seconds
+KMP_english_10000_0096,english,AllOfMP3.com_legality,dou,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,1.458000000e-06,21,10000,short,non_matching,seconds
+KMP_english_10000_0097,english,Cold_drip,me,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,7.500000000e-07,9,10000,short,non_matching,seconds
+KMP_english_10000_0098,english,FK_Austria_Wien_II,s_L,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,1.334000000e-06,19,10000,short,non_matching,seconds
+KMP_english_10000_0099,english,Dr._Muhammad_Tahir_ul-Qadri,025,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,1.750000000e-06,27,10000,short,non_matching,seconds
+KMP_english_10000_0100,english,Navarra_Yes,lay,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,8.750000000e-07,11,10000,short,non_matching,seconds
+KMP_english_10000_0101,english,Clément_Vincent,Clém,4,[0],[0],True,True,PASSED,"[0, 0, 0, 0]",4.580000000e-07,1.291000000e-06,15,10000,medium,matching,seconds
+KMP_english_10000_0102,english,Gess_(disambiguation),ss_(d,5,[2],[2],True,True,PASSED,"[0, 1, 0, 0, 0]",6.250000000e-07,1.666000000e-06,22,10000,medium,matching,seconds
+KMP_english_10000_0103,english,Manhua,nhua,4,[2],[2],True,True,PASSED,"[0, 0, 0, 0]",4.170000000e-07,7.500000000e-07,6,10000,medium,matching,seconds
+KMP_english_10000_0104,english,Half_the_Blood_of_Brooklyn,lf_the,6,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,2.042000000e-06,28,10000,medium,matching,seconds
+KMP_english_10000_0105,english,Yalova_Province,va_Pro,6,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,1.417000000e-06,16,10000,medium,matching,seconds
+KMP_english_10000_0106,english,1936_Ohio_gubernatorial_election,rial_,5,[19],[19],True,True,PASSED,"[0, 0, 0, 0, 0]",4.160000000e-07,2.333000000e-06,33,10000,medium,matching,seconds
+KMP_english_10000_0107,english,Scratch_a_Tiger,tch_,4,[4],[4],True,True,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.250000000e-06,15,10000,medium,matching,seconds
+KMP_english_10000_0108,english,Roll_Tide_Roll,oll_Ti,6,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,1.208000000e-06,14,10000,medium,matching,seconds
+KMP_english_10000_0109,english,The_Vast_of_Night,ast_of,6,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,1.333000000e-06,17,10000,medium,matching,seconds
+KMP_english_10000_0110,english,Barkhausen–Kurz_tube,sen–K,5,[7],[7],True,True,PASSED,"[0, 0, 0, 0, 0]",5.840000000e-07,1.750000000e-06,20,10000,medium,matching,seconds
+KMP_english_10000_0111,english,René_Lopez_Escobar,Escob,5,[11],[11],True,True,PASSED,"[0, 0, 0, 0, 0]",5.420000000e-07,1.458000000e-06,18,10000,medium,matching,seconds
+KMP_english_10000_0112,english,Abdillahi_Omar,ahi_Om,6,[6],[6],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,1.334000000e-06,15,10000,medium,matching,seconds
+KMP_english_10000_0113,english,Paolo_Lebas_da_Silva,_Lebas,6,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,1.666000000e-06,22,10000,medium,matching,seconds
+KMP_english_10000_0114,english,Jerusalem_bombings_on_18_July_2003,8_Ju,4,[23],[23],True,True,PASSED,"[0, 0, 0, 0]",4.170000000e-07,2.375000000e-06,34,10000,medium,matching,seconds
+KMP_english_10000_0115,english,Savannah_(Georgia)_Fire_Department,part,4,[26],[26],True,True,PASSED,"[0, 0, 0, 0]",4.160000000e-07,2.375000000e-06,34,10000,medium,matching,seconds
+KMP_english_10000_0116,english,Leonberg_(Württemberg),ember,5,[15],[15],True,True,PASSED,"[0, 0, 0, 1, 0]",5.420000000e-07,1.833000000e-06,24,10000,medium,matching,seconds
+KMP_english_10000_0117,english,Czech_Airlines,h_Ai,4,[4],[4],True,True,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.167000000e-06,14,10000,medium,matching,seconds
+KMP_english_10000_0118,english,106.9,106.,4,[0],[0],True,True,PASSED,"[0, 0, 0, 0]",4.580000000e-07,7.080000000e-07,5,10000,medium,matching,seconds
+KMP_english_10000_0119,english,Flemming_Bamse_Jørgensen,ensen,5,[19],[19],True,True,PASSED,"[0, 0, 0, 1, 2]",4.580000000e-07,1.958000000e-06,26,10000,medium,matching,seconds
+KMP_english_10000_0120,english,Hong_Kong_rainstorm_warning_signals,ong_ra,6,[6],[6],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,2.583000000e-06,37,10000,medium,matching,seconds
+KMP_english_10000_0121,english,Fabiana_Luperini,Lupe,4,[8],[8],True,True,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.292000000e-06,16,10000,medium,matching,seconds
+KMP_english_10000_0122,english,2025_Suzuka_10_Hours,uka_,4,[8],[8],True,True,PASSED,"[0, 0, 0, 0]",3.750000000e-07,1.666000000e-06,22,10000,medium,matching,seconds
+KMP_english_10000_0123,english,Battle_of_the_Blarathon,of_t,4,[7],[7],True,True,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.834000000e-06,24,10000,medium,matching,seconds
+KMP_english_10000_0124,english,Deportivo_Champerico,peri,4,[14],[14],True,True,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.625000000e-06,21,10000,medium,matching,seconds
+KMP_english_10000_0125,english,Kuznetsoviana,netsov,6,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,1.250000000e-06,14,10000,medium,matching,seconds
+KMP_english_10000_0126,english,1978_All-Ireland_Senior_Club_Hurling_Championship_final,hip_fi,6,[46],[46],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,3.625000000e-06,56,10000,medium,matching,seconds
+KMP_english_10000_0127,english,Yuta_Matsumura_(disambiguation),isamb,5,[17],[17],True,True,PASSED,"[0, 0, 0, 0, 0]",5.420000000e-07,2.417000000e-06,33,10000,medium,matching,seconds
+KMP_english_10000_0128,english,"Candidates_of_the_New_South_Wales_state_election,_2011","on,_2",5,[46],[46],True,True,PASSED,"[0, 0, 0, 0, 0]",4.590000000e-07,3.667000000e-06,56,10000,medium,matching,seconds
+KMP_english_10000_0129,english,Milecastle_68,castle,6,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,1.125000000e-06,13,10000,medium,matching,seconds
+KMP_english_10000_0130,english,Iasky,Iasky,5,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0]",4.590000000e-07,6.250000000e-07,5,10000,medium,matching,seconds
+KMP_english_10000_0131,english,People's_Commissar_of_Finance,nanc,4,[24],[24],True,True,PASSED,"[0, 0, 1, 0]",5.000000000e-07,2.000000000e-06,29,10000,medium,matching,seconds
+KMP_english_10000_0132,english,Rajpal_singh_sirohi,gh_sir,6,[10],[10],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,1.459000000e-06,19,10000,medium,matching,seconds
+KMP_english_10000_0133,english,Carinobius,Carin,5,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0]",4.590000000e-07,9.580000000e-07,10,10000,medium,matching,seconds
+KMP_english_10000_0134,english,Bahna_River_(Bahlui),hna_,4,[2],[2],True,True,PASSED,"[0, 0, 0, 0]",4.160000000e-07,1.625000000e-06,21,10000,medium,matching,seconds
+KMP_english_10000_0135,english,Eli_Moon,i_Moon,6,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,7.910000000e-07,8,10000,medium,matching,seconds
+KMP_english_10000_0136,english,"Shatsk,_Ukraine",_Ukr,4,[7],[7],True,True,PASSED,"[0, 0, 0, 0]",4.160000000e-07,1.250000000e-06,15,10000,medium,matching,seconds
+KMP_english_10000_0137,english,Religious_of_the_Sacred_Heart_of_Mary,ious,4,[5],[5],True,True,PASSED,"[0, 0, 0, 0]",4.170000000e-07,2.542000000e-06,38,10000,medium,matching,seconds
+KMP_english_10000_0138,english,Habibganj-Dahod_Fast_Passenger,Passen,6,[21],[21],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,2.083000000e-06,30,10000,medium,matching,seconds
+KMP_english_10000_0139,english,Belfry_High_School,Belf,4,[0],[0],True,True,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.375000000e-06,18,10000,medium,matching,seconds
+KMP_english_10000_0140,english,Arif_Satria,if_Sat,6,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,1.125000000e-06,12,10000,medium,matching,seconds
+KMP_english_10000_0141,english,Heavy_Breathing_(disambiguation),mbig,4,[21],[21],True,True,PASSED,"[0, 0, 0, 0]",3.750000000e-07,2.167000000e-06,32,10000,medium,matching,seconds
+KMP_english_10000_0142,english,Palučci,lučci,5,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0]",5.410000000e-07,9.580000000e-07,7,10000,medium,matching,seconds
+KMP_english_10000_0143,english,Frenchs,French,6,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,8.330000000e-07,7,10000,medium,matching,seconds
+KMP_english_10000_0144,english,Aminacrine,minacr,6,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,9.170000000e-07,10,10000,medium,matching,seconds
+KMP_english_10000_0145,english,Gints_Meija,nts_Me,6,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,1.042000000e-06,11,10000,medium,matching,seconds
+KMP_english_10000_0146,english,January_(novel),nuar,4,[2],[2],True,True,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.375000000e-06,16,10000,medium,matching,seconds
+KMP_english_10000_0147,english,Zeami,Zeami,5,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0]",5.420000000e-07,6.660000000e-07,5,10000,medium,matching,seconds
+KMP_english_10000_0148,english,Constant_slope_barrier,arri,4,[16],[16],True,True,PASSED,"[0, 0, 0, 0]",3.750000000e-07,1.750000000e-06,23,10000,medium,matching,seconds
+KMP_english_10000_0149,english,Jaroslav_Volek,roslav,6,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,1.167000000e-06,14,10000,medium,matching,seconds
+KMP_english_10000_0150,english,The_Floating_Castle,Cast,4,[13],[13],True,True,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.458000000e-06,19,10000,medium,matching,seconds
+KMP_english_10000_0151,english,Egg_(food),Bagh,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,8.330000000e-07,10,10000,medium,non_matching,seconds
+KMP_english_10000_0152,english,Bugs_bunny_and_the_three_bears,C19H19,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,1.916000000e-06,30,10000,medium,non_matching,seconds
+KMP_english_10000_0153,english,830_(year),le_Car,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,8.750000000e-07,10,10000,medium,non_matching,seconds
+KMP_english_10000_0154,english,Women's_oversized_fashion_in_the_United_States_since_the_1920s,rn_I,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,3.791000000e-06,63,10000,medium,non_matching,seconds
+KMP_english_10000_0155,english,Haut-Madawaska,g_Co,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.084000000e-06,14,10000,medium,non_matching,seconds
+KMP_english_10000_0156,english,Dobriașul_Mic_River,Hughe,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,1.416000000e-06,19,10000,medium,non_matching,seconds
+KMP_english_10000_0157,english,Tarikhul_Hind_wal_Sind,Taca_d,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,1.667000000e-06,23,10000,medium,non_matching,seconds
+KMP_english_10000_0158,english,Krokodilopolis,_Sout,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,1.083000000e-06,14,10000,medium,non_matching,seconds
+KMP_english_10000_0159,english,゙゙,The_Ne,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,4.170000000e-07,2,10000,medium,non_matching,seconds
+KMP_english_10000_0160,english,Ubinski_Raion,d_Ca,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",3.750000000e-07,1.000000000e-06,13,10000,medium,non_matching,seconds
+KMP_english_10000_0161,english,Cuban_Championships_in_Athletics,sambig,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,2.250000000e-06,34,10000,medium,non_matching,seconds
+KMP_english_10000_0162,english,Veronika_Valentová,a_agat,6,[],[],False,False,PASSED,"[0, 0, 1, 0, 1, 0]",6.670000000e-07,1.500000000e-06,20,10000,medium,non_matching,seconds
+KMP_english_10000_0163,english,U_oluji,to_D,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.160000000e-07,6.660000000e-07,7,10000,medium,non_matching,seconds
+KMP_english_10000_0164,english,Purna-Akola_line,sunehi,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,1.125000000e-06,16,10000,medium,non_matching,seconds
+KMP_english_10000_0165,english,Archibald_Hector_McIndoe,onn_,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.160000000e-07,1.833000000e-06,26,10000,medium,non_matching,seconds
+KMP_english_10000_0166,english,Queensland_state_rugby_league_team_History,sylva,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.590000000e-07,2.875000000e-06,45,10000,medium,non_matching,seconds
+KMP_english_10000_0167,english,Ritual_in_Repeat,l_fold,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0]",6.250000000e-07,1.250000000e-06,17,10000,medium,non_matching,seconds
+KMP_english_10000_0168,english,Puthja_e_fundit,rosul,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,1.083000000e-06,15,10000,medium,non_matching,seconds
+KMP_english_10000_0169,english,Stonecoal_Lake_WMA,ist_of,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,1.250000000e-06,18,10000,medium,non_matching,seconds
+KMP_english_10000_0170,english,Saint-Lambert_station,rcyc,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.590000000e-07,1.584000000e-06,22,10000,medium,non_matching,seconds
+KMP_english_10000_0171,english,Catriscus,Sout,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.160000000e-07,7.920000000e-07,9,10000,medium,non_matching,seconds
+KMP_english_10000_0172,english,KMJB,aan_P,5,[],[],False,False,PASSED,"[0, 1, 0, 0, 0]",5.420000000e-07,4.580000000e-07,4,10000,medium,non_matching,seconds
+KMP_english_10000_0173,english,"Gnojno,_Lipno_County","n,_M",4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.792000000e-06,24,10000,medium,non_matching,seconds
+KMP_english_10000_0174,english,Disney's_Contemporary_Resort_(Walt_Disney_World_Monorail_station),Act_,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.160000000e-07,3.833000000e-06,65,10000,medium,non_matching,seconds
+KMP_english_10000_0175,english,Tahmasp_I's_Kakhetian_and_Kartlian_campaigns,um-23,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.170000000e-07,2.709000000e-06,44,10000,medium,non_matching,seconds
+KMP_english_10000_0176,english,Claude_de_La_Tremoille,n_Ind,5,[],[],False,False,PASSED,"[0, 0, 0, 1, 0]",5.420000000e-07,1.500000000e-06,22,10000,medium,non_matching,seconds
+KMP_english_10000_0177,english,Chris-Pin_Martin,comc,4,[],[],False,False,PASSED,"[0, 0, 0, 1]",4.170000000e-07,1.166000000e-06,16,10000,medium,non_matching,seconds
+KMP_english_10000_0178,english,UTA772,282),4,[],[],False,False,PASSED,"[0, 0, 1, 0]",5.000000000e-07,5.830000000e-07,6,10000,medium,non_matching,seconds
+KMP_english_10000_0179,english,Hes_Case,ian_le,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,6.670000000e-07,8,10000,medium,non_matching,seconds
+KMP_english_10000_0180,english,"Sir_Allan_Maclean,_Baronet_of_Brolas",ittee_,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,2.334000000e-06,37,10000,medium,non_matching,seconds
+KMP_english_10000_0181,english,Simply_Orange_Juice_Company,Cup_,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",3.750000000e-07,1.833000000e-06,28,10000,medium,non_matching,seconds
+KMP_english_10000_0182,english,Differential_signal,._Nyho,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,1.333000000e-06,19,10000,medium,non_matching,seconds
+KMP_english_10000_0183,english,Cozido_a_Portuguesa,illian,6,[],[],False,False,PASSED,"[0, 0, 0, 1, 0, 0]",5.840000000e-07,1.375000000e-06,20,10000,medium,non_matching,seconds
+KMP_english_10000_0184,english,Gabriella_Gatehouse,ct_(d,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,1.292000000e-06,19,10000,medium,non_matching,seconds
+KMP_english_10000_0185,english,Ōshū_province,ypnum_,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,1.083000000e-06,13,10000,medium,non_matching,seconds
+KMP_english_10000_0186,english,"Robert_John_Alston,_CMG,_QSO,_DL",towey_,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,2.292000000e-06,34,10000,medium,non_matching,seconds
+KMP_english_10000_0187,english,Simon_Jones_(footballer),Spain),6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,1.666000000e-06,25,10000,medium,non_matching,seconds
+KMP_english_10000_0188,english,Dow_Viran,zant,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",3.750000000e-07,7.500000000e-07,9,10000,medium,non_matching,seconds
+KMP_english_10000_0189,english,Deep_(song),jirou,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,8.750000000e-07,11,10000,medium,non_matching,seconds
+KMP_english_10000_0190,english,Degrees_of_certainty,hach,4,[],[],False,False,PASSED,"[0, 0, 0, 1]",4.160000000e-07,1.375000000e-06,20,10000,medium,non_matching,seconds
+KMP_english_10000_0191,english,Nicole_C._Mullen,_New_E,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0]",6.250000000e-07,1.375000000e-06,18,10000,medium,non_matching,seconds
+KMP_english_10000_0192,english,Kenyan_cricket_in_Scotland_in_2008,omic_f,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,2.209000000e-06,35,10000,medium,non_matching,seconds
+KMP_english_10000_0193,english,"Israeli_Embassy,_London",e_and_,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,1.666000000e-06,24,10000,medium,non_matching,seconds
+KMP_english_10000_0194,english,Cold_Piece_(Jerry_Cantrell_song),_witch,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,2.417000000e-06,36,10000,medium,non_matching,seconds
+KMP_english_10000_0195,english,Moscow_International_Indoor_Championships,oreve,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,3.083000000e-06,47,10000,medium,non_matching,seconds
+KMP_english_10000_0196,english,Fais_Discography,ative,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.590000000e-07,1.334000000e-06,18,10000,medium,non_matching,seconds
+KMP_english_10000_0197,english,Sinicization_of_the_Manchus,_Sizzl,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,2.042000000e-06,30,10000,medium,non_matching,seconds
+KMP_english_10000_0198,english,"Demirdöven,_Pasinler",obb_(d,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,1.375000000e-06,20,10000,medium,non_matching,seconds
+KMP_english_10000_0199,english,Miss_Niger,ceX_,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.590000000e-07,7.920000000e-07,10,10000,medium,non_matching,seconds
+KMP_english_10000_0200,english,Proteuxoa,omasis,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,9.590000000e-07,11,10000,medium,non_matching,seconds
+KMP_english_10000_0201,english,Eulimella_vanderlandi,_vanderl,8,[9],[9],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.583000000e-06,21,10000,long,matching,seconds
+KMP_english_10000_0202,english,Dzair_News,Dzair_News,10,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.000000000e-06,10,10000,long,matching,seconds
+KMP_english_10000_0203,english,Earth_lichen,Earth_li,8,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,1.084000000e-06,12,10000,long,matching,seconds
+KMP_english_10000_0204,english,Parque_Nacional_Copo,onal_Co,7,[11],[11],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 1]",6.250000000e-07,1.625000000e-06,21,10000,long,matching,seconds
+KMP_english_10000_0205,english,Trisomy_13_syndrome,my_13_synd,10,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.542000000e-06,20,10000,long,matching,seconds
+KMP_english_10000_0206,english,Anopheles,Anophel,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.840000000e-07,8.750000000e-07,9,10000,long,matching,seconds
+KMP_english_10000_0207,english,List_of_Initial_D_episodes,_of_Initi,9,[4],[4],True,True,PASSED,"[0, 0, 0, 1, 0, 0, 0, 0, 0]",8.330000000e-07,2.042000000e-06,28,10000,long,matching,seconds
+KMP_english_10000_0208,english,State_Route_169_(Alabama),Route_169_,10,[6],[6],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.833000000e-06,25,10000,long,matching,seconds
+KMP_english_10000_0209,english,Baerum_SK,aerum_SK,8,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,9.170000000e-07,9,10000,long,matching,seconds
+KMP_english_10000_0210,english,"Thubten_Gyatso,13th_Dalai_Lama",Thubten_Gy,10,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,2.125000000e-06,30,10000,long,matching,seconds
+KMP_english_10000_0211,english,MONTROSE_CHRISTIAN_SCHOOL_(MCS),OL_(MCS),8,[23],[23],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,2.417000000e-06,34,10000,long,matching,seconds
+KMP_english_10000_0212,english,Aus_tiefer_Not_schrei_ich_zu_dir_(Zahn_4438),Aus_tiefer,10,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,2.875000000e-06,44,10000,long,matching,seconds
+KMP_english_10000_0213,english,Act_1_adaptor_protein,or_protein,10,[11],[11],True,True,PASSED,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",8.330000000e-07,1.583000000e-06,21,10000,long,matching,seconds
+KMP_english_10000_0214,english,Falcon_Stadium_(California),Stadium_(,9,[7],[7],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",6.660000000e-07,1.917000000e-06,27,10000,long,matching,seconds
+KMP_english_10000_0215,english,Foxford_school_and_community_arts_college,mmunity_,8,[21],[21],True,True,PASSED,"[0, 1, 0, 0, 0, 0, 0, 0]",7.080000000e-07,2.709000000e-06,41,10000,long,matching,seconds
+KMP_english_10000_0216,english,Yadira_Esperanza_Bendaña_Flores,dira_Esper,10,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,2.292000000e-06,32,10000,long,matching,seconds
+KMP_english_10000_0217,english,MTV_Spain,MTV_Spai,8,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,9.580000000e-07,9,10000,long,matching,seconds
+KMP_english_10000_0218,english,Alyssa_Jones_(athlete),ones_(a,7,[8],[8],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.420000000e-07,1.625000000e-06,22,10000,long,matching,seconds
+KMP_english_10000_0219,english,Carlos_del_Cerro,del_Cer,7,[7],[7],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.410000000e-07,1.250000000e-06,16,10000,long,matching,seconds
+KMP_english_10000_0220,english,Harry_McDevitt,arry_McD,8,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,1.209000000e-06,14,10000,long,matching,seconds
+KMP_english_10000_0221,english,Emperor_Wenzong_of_Qing,r_Wenzong_,10,[6],[6],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,1.750000000e-06,24,10000,long,matching,seconds
+KMP_english_10000_0222,english,Elon_University_residence_halls,Universi,8,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",5.840000000e-07,2.125000000e-06,31,10000,long,matching,seconds
+KMP_english_10000_0223,english,State_Highway_629,State_Hig,9,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.333000000e-06,17,10000,long,matching,seconds
+KMP_english_10000_0224,english,November–December_1981_Palestinian_protests,ber–Dece,8,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,3.084000000e-06,44,10000,long,matching,seconds
+KMP_english_10000_0225,english,Mark_Ellsworth_Madsen,sworth_M,8,[8],[8],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,1.708000000e-06,22,10000,long,matching,seconds
+KMP_english_10000_0226,english,Sünching,Sünchin,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.420000000e-07,8.330000000e-07,8,10000,long,matching,seconds
+KMP_english_10000_0227,english,Imprimerie_Nationale,e_Nationa,9,[9],[9],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.090000000e-07,1.542000000e-06,21,10000,long,matching,seconds
+KMP_english_10000_0228,english,Move_It_Like_This,It_Like_Th,10,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.333000000e-06,17,10000,long,matching,seconds
+KMP_english_10000_0229,english,Exahenry,Exahenr,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,7.920000000e-07,8,10000,long,matching,seconds
+KMP_english_10000_0230,english,Steven_Kaplan,en_Kapla,8,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,1.167000000e-06,14,10000,long,matching,seconds
+KMP_english_10000_0231,english,Rhomboid_Tortrix,mboid_Tor,9,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.292000000e-06,16,10000,long,matching,seconds
+KMP_english_10000_0232,english,Queensway_Government_Offices,ent_Office,10,[17],[17],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",7.910000000e-07,2.417000000e-06,32,10000,long,matching,seconds
+KMP_english_10000_0233,english,Friedrich_Vieweg_&_Sohn,ch_Vieweg_,10,[7],[7],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.667000000e-06,23,10000,long,matching,seconds
+KMP_english_10000_0234,english,Digitalis_Purpurea,gitalis_,8,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,1.375000000e-06,18,10000,long,matching,seconds
+KMP_english_10000_0235,english,United_Palace_House_of_Inspiration,nited_Pal,9,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,2.416000000e-06,35,10000,long,matching,seconds
+KMP_english_10000_0236,english,Option_contract,n_contr,7,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 1, 0, 0]",6.670000000e-07,1.166000000e-06,15,10000,long,matching,seconds
+KMP_english_10000_0237,english,I.R._Iran_Weightlifting_Federation,R._Iran_,8,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",5.840000000e-07,2.292000000e-06,34,10000,long,matching,seconds
+KMP_english_10000_0238,english,Punctum_aequans,unctum_,7,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 1, 0, 0]",6.250000000e-07,1.334000000e-06,16,10000,long,matching,seconds
+KMP_english_10000_0239,english,Tri_core,ri_core,7,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 1, 0]",6.250000000e-07,7.910000000e-07,8,10000,long,matching,seconds
+KMP_english_10000_0240,english,Paulo_Mendes_Campos,s_Campo,7,[11],[11],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,1.416000000e-06,19,10000,long,matching,seconds
+KMP_english_10000_0241,english,Pole_Caraibes,le_Caraibe,10,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,1.083000000e-06,13,10000,long,matching,seconds
+KMP_english_10000_0242,english,Carl_Christian_Giegler,istian_Gi,9,[8],[8],True,True,PASSED,"[0, 0, 0, 1, 0, 0, 0, 0, 1]",7.500000000e-07,1.709000000e-06,23,10000,long,matching,seconds
+KMP_english_10000_0243,english,Sami_Al-Najei,Sami_Al-N,9,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",6.660000000e-07,1.083000000e-06,13,10000,long,matching,seconds
+KMP_english_10000_0244,english,McCabe_v_Atchison,Cabe_v_A,8,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,1.291000000e-06,17,10000,long,matching,seconds
+KMP_english_10000_0245,english,Marija_(film),Marija_,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,1.083000000e-06,13,10000,long,matching,seconds
+KMP_english_10000_0246,english,Paciocco,Paciocco,8,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,7.920000000e-07,8,10000,long,matching,seconds
+KMP_english_10000_0247,english,Nerisone,Nerisone,8,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,8.340000000e-07,8,10000,long,matching,seconds
+KMP_english_10000_0248,english,Bari_Kola_(Barī_Kolā),i_Kola_(B,9,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.090000000e-07,1.792000000e-06,21,10000,long,matching,seconds
+KMP_english_10000_0249,english,Daylight_saving_time_in_the_U.S.,n_the_U.,8,[22],[22],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,2.333000000e-06,33,10000,long,matching,seconds
+KMP_english_10000_0250,english,Romeo_and_Juliet_(swans),eo_and_,7,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,1.792000000e-06,25,10000,long,matching,seconds
+KMP_english_10000_0251,english,Michalina_Anna_Wisłocka,_station),9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,7.875000000e-06,25,10000,long,non_matching,seconds
+KMP_english_10000_0252,english,Sîrbeşti,theek_Rot,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 1]",7.500000000e-07,9.160000000e-07,9,10000,long,non_matching,seconds
+KMP_english_10000_0253,english,Choisel_internment_camp,"Cadell,_",8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,1.708000000e-06,24,10000,long,non_matching,seconds
+KMP_english_10000_0254,english,"Tuppers_Plains,_OH",ided_marke,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.417000000e-06,19,10000,long,non_matching,seconds
+KMP_english_10000_0255,english,Philip_Bobbitt,pper_Wa,7,[],[],False,False,PASSED,"[0, 1, 0, 0, 0, 0, 0]",7.500000000e-07,1.125000000e-06,15,10000,long,non_matching,seconds
+KMP_english_10000_0256,english,2009_All-Ireland_Under-21_Hurling_Championship_Final,Gynandromo,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,3.167000000e-06,52,10000,long,non_matching,seconds
+KMP_english_10000_0257,english,"Beloit,_Alabama",in_Soho,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.410000000e-07,1.167000000e-06,16,10000,long,non_matching,seconds
+KMP_english_10000_0258,english,TeraByte_InfraRed_Delivery,s_hybri,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.840000000e-07,1.709000000e-06,26,10000,long,non_matching,seconds
+KMP_english_10000_0259,english,Aunt_Jane's_Nieces_in_the_Red_Cross,ts_firs,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,2.375000000e-06,37,10000,long,non_matching,seconds
+KMP_english_10000_0260,english,Beit_Sur,na_Bill,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.420000000e-07,7.080000000e-07,8,10000,long,non_matching,seconds
+KMP_english_10000_0261,english,"Vince,_Robert",District,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,9.580000000e-07,13,10000,long,non_matching,seconds
+KMP_english_10000_0262,english,Kyburg_ZH,nia_State_,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,7.500000000e-07,9,10000,long,non_matching,seconds
+KMP_english_10000_0263,english,HJK,tical_Ar,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,4.160000000e-07,3,10000,long,non_matching,seconds
+KMP_english_10000_0264,english,James_George_Morris,l_I._Bolni,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",8.750000000e-07,1.291000000e-06,19,10000,long,non_matching,seconds
+KMP_english_10000_0265,english,U.S._Army_General_Hospital_No._1,Sepah_ai,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,2.125000000e-06,33,10000,long,non_matching,seconds
+KMP_english_10000_0266,english,Bosniaks_in_Kosovo,no_Vancin,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 1, 0, 0, 1]",7.910000000e-07,1.416000000e-06,20,10000,long,non_matching,seconds
+KMP_english_10000_0267,english,"The_Centre,_Cumbernauld",d_wattle_,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",6.660000000e-07,1.542000000e-06,23,10000,long,non_matching,seconds
+KMP_english_10000_0268,english,"Torre_del_Compte,_Spain",M._Dekker,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.542000000e-06,23,10000,long,non_matching,seconds
+KMP_english_10000_0269,english,Oreolais_pulcher,Graduados,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,1.125000000e-06,16,10000,long,non_matching,seconds
+KMP_english_10000_0270,english,Takht_Mahal_railway_station,_the_Mo,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0, 0]",6.670000000e-07,1.959000000e-06,30,10000,long,non_matching,seconds
+KMP_english_10000_0271,english,O-Aminophenol,nstituenc,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 1, 0]",7.920000000e-07,1.125000000e-06,15,10000,long,non_matching,seconds
+KMP_english_10000_0272,english,KGNE-FM,uercus_,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0, 0]",6.670000000e-07,6.670000000e-07,7,10000,long,non_matching,seconds
+KMP_english_10000_0273,english,Operation_Lone_Wolf,n_Conse,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0, 0]",6.660000000e-07,1.500000000e-06,21,10000,long,non_matching,seconds
+KMP_english_10000_0274,english,DCC_Compact_Classics,nd_Highe,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,1.416000000e-06,20,10000,long,non_matching,seconds
+KMP_english_10000_0275,english,Strijela_–_10CROA1,"ore,_Bol",8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0]",7.090000000e-07,1.375000000e-06,18,10000,long,non_matching,seconds
+KMP_english_10000_0276,english,List_of_administrators_of_Chandigarh,an_Kebu,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,2.667000000e-06,40,10000,long,non_matching,seconds
+KMP_english_10000_0277,english,Chrysler_300H,"rn,_Cincin",10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.167000000e-06,15,10000,long,non_matching,seconds
+KMP_english_10000_0278,english,Fengshen_AX7,t_Burges_,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.090000000e-07,9.170000000e-07,12,10000,long,non_matching,seconds
+KMP_english_10000_0279,english,Rail_transport_in_Senegal,rreadrada,9,[],[],False,False,PASSED,"[0, 1, 0, 0, 0, 1, 0, 0, 0]",8.330000000e-07,1.833000000e-06,27,10000,long,non_matching,seconds
+KMP_english_10000_0280,english,Wind_Shear,s_(Texa,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,8.330000000e-07,10,10000,long,non_matching,seconds
+KMP_english_10000_0281,english,1983_Australian_Masters,ions_Medal,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.090000000e-07,1.709000000e-06,24,10000,long,non_matching,seconds
+KMP_english_10000_0282,english,Thousand_Buddha_Grottoes,_PFWA_All,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 1, 0, 0, 0]",7.500000000e-07,1.792000000e-06,26,10000,long,non_matching,seconds
+KMP_english_10000_0283,english,Tom_Golsen,iubo_of_H,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,8.750000000e-07,10,10000,long,non_matching,seconds
+KMP_english_10000_0284,english,AAHPERD_Conferences,personal_,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.334000000e-06,19,10000,long,non_matching,seconds
+KMP_english_10000_0285,english,1999-2000_Idaho_Vandals_men's_basketball_season,h_Airlines,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,2.958000000e-06,48,10000,long,non_matching,seconds
+KMP_english_10000_0286,english,Zero-click_hack,do_Garc,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.840000000e-07,1.125000000e-06,15,10000,long,non_matching,seconds
+KMP_english_10000_0287,english,"San_Salvatore,_Bologna",H:TRANSCL,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,1.500000000e-06,22,10000,long,non_matching,seconds
+KMP_english_10000_0288,english,Hot_Mess_House,e_reduc,7,[],[],False,False,PASSED,"[0, 0, 0, 1, 0, 0, 0]",6.660000000e-07,1.167000000e-06,15,10000,long,non_matching,seconds
+KMP_english_10000_0289,english,Chhaganlal_Karamsi_Parekh,Fka_Twig,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.625000000e-06,25,10000,long,non_matching,seconds
+KMP_english_10000_0290,english,After_action_review,ya_Upris,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,1.334000000e-06,19,10000,long,non_matching,seconds
+KMP_english_10000_0291,english,Mount_Sarıçalı_National_Park,Constantin,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.910000000e-07,2.000000000e-06,28,10000,long,non_matching,seconds
+KMP_english_10000_0292,english,"Adomaitis,_Dainius",ery_Briga,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.292000000e-06,18,10000,long,non_matching,seconds
+KMP_english_10000_0293,english,MMOVSG,Betsy_Wets,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,6.250000000e-07,6,10000,long,non_matching,seconds
+KMP_english_10000_0294,english,FAT_Cup,-Eicoseno,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,6.660000000e-07,7,10000,long,non_matching,seconds
+KMP_english_10000_0295,english,Disorderly_Conduct_(film),d_time_be,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,1.916000000e-06,27,10000,long,non_matching,seconds
+KMP_english_10000_0296,english,2024_Winnipeg_National_Bank_Challenger_–_Doubles,by_(curat,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,3.167000000e-06,49,10000,long,non_matching,seconds
+KMP_english_10000_0297,english,"Sacred_Heart_Catholic_School,_Southwark",_Eugeni,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,2.833000000e-06,43,10000,long,non_matching,seconds
+KMP_english_10000_0298,english,Lanusungkum_Jamir,al_Insti,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,1.375000000e-06,19,10000,long,non_matching,seconds
+KMP_english_10000_0299,english,Scienceworks_Museum_(Melbourne),shop_of,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,2.125000000e-06,33,10000,long,non_matching,seconds
+KMP_english_10000_0300,english,Célula_Mariano_Sánchez_Añón,porus_cana,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.833000000e-06,27,10000,long,non_matching,seconds
+KMP_english_10000_0301,english,Company_of_young_canadians,_young_cana,11,[10],[10],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",9.170000000e-07,2.000000000e-06,27,10000,very_long,matching,seconds
+KMP_english_10000_0302,english,Robert_Hertzberg,obert_Hertzber,14,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.084000000e-06,1.292000000e-06,16,10000,very_long,matching,seconds
+KMP_english_10000_0303,english,Gartrell_Johnson,Gartrell_Joh,12,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.333000000e-06,16,10000,very_long,matching,seconds
+KMP_english_10000_0304,english,Nelson_Cole_(soldier),ole_(soldier,12,[8],[8],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0]",9.580000000e-07,1.625000000e-06,22,10000,very_long,matching,seconds
+KMP_english_10000_0305,english,Radiation_Science_&_Technology,ence_&_Technol,14,[13],[13],True,True,PASSED,"[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",1.125000000e-06,2.083000000e-06,30,10000,very_long,matching,seconds
+KMP_english_10000_0306,english,1926_Bowling_Green_Normals_football_season,als_football_,13,[23],[23],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0]",1.000000000e-06,2.792000000e-06,43,10000,very_long,matching,seconds
+KMP_english_10000_0307,english,Colona_moth,Colona_moth,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.910000000e-07,1.000000000e-06,11,10000,very_long,matching,seconds
+KMP_english_10000_0308,english,Pamela_Brind'Amour,ela_Brind'Amour,15,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.416000000e-06,18,10000,very_long,matching,seconds
+KMP_english_10000_0309,english,Callisher_v_Bischoffsheim,sher_v_Bischof,14,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",1.083000000e-06,1.916000000e-06,26,10000,very_long,matching,seconds
+KMP_english_10000_0310,english,Archer_(Fate_Stay_Night),_(Fate_Stay_,12,[6],[6],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]",9.580000000e-07,1.791000000e-06,25,10000,very_long,matching,seconds
+KMP_english_10000_0311,english,"East_Shenandoah,_Miami","enandoah,_M",11,[7],[7],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.910000000e-07,1.583000000e-06,22,10000,very_long,matching,seconds
+KMP_english_10000_0312,english,Martin_Privrel,artin_Privre,12,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.208000000e-06,14,10000,very_long,matching,seconds
+KMP_english_10000_0313,english,Fred_David_Gray,Fred_David_Gray,15,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.250000000e-06,15,10000,very_long,matching,seconds
+KMP_english_10000_0314,english,"William_""Jerry""_Henry","iam_""Jerry""",11,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.750000000e-06,22,10000,very_long,matching,seconds
+KMP_english_10000_0315,english,Philoktētēs,Philoktētēs,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.209000000e-06,11,10000,very_long,matching,seconds
+KMP_english_10000_0316,english,Philadelphia_Soul_Charitable_Foundation,le_Foundatio,12,[26],[26],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.340000000e-07,2.875000000e-06,42,10000,very_long,matching,seconds
+KMP_english_10000_0317,english,William_Day_(architect),William_Day_(ar,15,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.709000000e-06,23,10000,very_long,matching,seconds
+KMP_english_10000_0318,english,Ägypten._Theologie_und_Frömmigkeit_einer_frühen_Hochkultur,pten._Theolog,13,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,3.792000000e-06,58,10000,very_long,matching,seconds
+KMP_english_10000_0319,english,Deaths_in_October_1899,n_October_1,11,[8],[8],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.625000000e-06,22,10000,very_long,matching,seconds
+KMP_english_10000_0320,english,"Exmewe,_Thomas","Exmewe,_Thoma",13,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.167000000e-06,14,10000,very_long,matching,seconds
+KMP_english_10000_0321,english,Tinea_spuriella,Tinea_spuriel,13,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.250000000e-06,15,10000,very_long,matching,seconds
+KMP_english_10000_0322,english,Linda_Dillon,inda_Dillon,11,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",8.750000000e-07,1.084000000e-06,12,10000,very_long,matching,seconds
+KMP_english_10000_0323,english,Guy_Bartley_House,_Bartley_Hous,13,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",1.000000000e-06,1.334000000e-06,17,10000,very_long,matching,seconds
+KMP_english_10000_0324,english,The_battle_of_hastings,he_battle_of,12,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.666000000e-06,23,10000,very_long,matching,seconds
+KMP_english_10000_0325,english,Robert_Plager,obert_Plager,12,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.083000000e-06,13,10000,very_long,matching,seconds
+KMP_english_10000_0326,english,Elizabeth_Lilian_Fowler,h_Lilian_Fowler,15,[8],[8],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.042000000e-06,1.667000000e-06,23,10000,very_long,matching,seconds
+KMP_english_10000_0327,english,List_of_companies_of_Iran,of_companies_of,15,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2]",1.125000000e-06,1.875000000e-06,26,10000,very_long,matching,seconds
+KMP_english_10000_0328,english,Radio_Télévision_Gabonaise,sion_Gabona,11,[12],[12],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.340000000e-07,2.000000000e-06,27,10000,very_long,matching,seconds
+KMP_english_10000_0329,english,Eat_Bulaga_GMA-7_Kapuso,ulaga_GMA-7_K,13,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,1.750000000e-06,24,10000,very_long,matching,seconds
+KMP_english_10000_0330,english,Elon_University_residence_halls,ity_residenc,12,[12],[12],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",9.170000000e-07,2.208000000e-06,32,10000,very_long,matching,seconds
+KMP_english_10000_0331,english,Estadio_Centenario_Ciudad_de_Quilmes,dad_de_Quilme,13,[22],[22],True,True,PASSED,"[0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",1.042000000e-06,2.584000000e-06,37,10000,very_long,matching,seconds
+KMP_english_10000_0332,english,2013-14_Czech_2._Liga,_Czech_2._L,11,[7],[7],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]",9.170000000e-07,1.542000000e-06,21,10000,very_long,matching,seconds
+KMP_english_10000_0333,english,"Cowell,_California","owell,_Califo",13,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",9.170000000e-07,1.458000000e-06,19,10000,very_long,matching,seconds
+KMP_english_10000_0334,english,Agriculture_in_Iran,lture_in_Ira,12,[6],[6],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.417000000e-06,19,10000,very_long,matching,seconds
+KMP_english_10000_0335,english,Edouardo_Jordan,Edouardo_Jord,13,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,1.292000000e-06,15,10000,very_long,matching,seconds
+KMP_english_10000_0336,english,History_of_the_Belcher_Islands,lcher_Islands,13,[17],[17],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",9.170000000e-07,2.000000000e-06,30,10000,very_long,matching,seconds
+KMP_english_10000_0337,english,Regions_of_South_Korea,ions_of_Sout,12,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.583000000e-06,22,10000,very_long,matching,seconds
+KMP_english_10000_0338,english,Errinundra_National_Park,rinundra_Nat,12,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",8.750000000e-07,1.917000000e-06,26,10000,very_long,matching,seconds
+KMP_english_10000_0339,english,"Redland,_Oklahoma","dland,_Oklahoma",15,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.167000000e-06,1.375000000e-06,17,10000,very_long,matching,seconds
+KMP_english_10000_0340,english,Palindromes_and_Anagrams,romes_and_Anagr,15,[6],[6],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",1.000000000e-06,1.916000000e-06,25,10000,very_long,matching,seconds
+KMP_english_10000_0341,english,Democracy_For_America,cy_For_Ameri,12,[7],[7],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.833000000e-06,23,10000,very_long,matching,seconds
+KMP_english_10000_0342,english,"Mukwonago_(town),_WI",ukwonago_(town,14,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,1.500000000e-06,20,10000,very_long,matching,seconds
+KMP_english_10000_0343,english,Sinsheim-Hoffenheim_station,-Hoffenheim_st,14,[8],[8],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.917000000e-06,27,10000,very_long,matching,seconds
+KMP_english_10000_0344,english,Ricardo_Valderrama,ardo_Valderr,12,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",9.160000000e-07,1.458000000e-06,19,10000,very_long,matching,seconds
+KMP_english_10000_0345,english,Chase_Tatum,Chase_Tatum,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.910000000e-07,1.042000000e-06,11,10000,very_long,matching,seconds
+KMP_english_10000_0346,english,1997_BYU_Cougars_football_team,rs_football_,12,[14],[14],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,2.167000000e-06,30,10000,very_long,matching,seconds
+KMP_english_10000_0347,english,Qarqatu'iyeh,Qarqatu'iyeh,12,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.042000000e-06,12,10000,very_long,matching,seconds
+KMP_english_10000_0348,english,Screw_Machine,Screw_Machin,12,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.084000000e-06,13,10000,very_long,matching,seconds
+KMP_english_10000_0349,english,1987–88_Bahraini_Premier_League,aini_Premier_Le,15,[12],[12],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,2.583000000e-06,33,10000,very_long,matching,seconds
+KMP_english_10000_0350,english,Royal_Academy_of_Moral_and_Political_Sciences,of_Moral_and_,13,[14],[14],True,True,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,3.125000000e-06,47,10000,very_long,matching,seconds
+KMP_english_10000_0351,english,2026_Rama_II_Road_crane_collapse,neighbourhood,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,2.250000000e-06,33,10000,very_long,non_matching,seconds
+KMP_english_10000_0352,english,Říčky,endra_Pratap_Si,15,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,6.670000000e-07,5,10000,very_long,non_matching,seconds
+KMP_english_10000_0353,english,"Toyota_concept_vehicles,_2010-2019",Nelson_Ward,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,2.125000000e-06,34,10000,very_long,non_matching,seconds
+KMP_english_10000_0354,english,Jarabe_De_Palo,otocrambus_c,12,[],[],False,False,PASSED,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,1.083000000e-06,14,10000,very_long,non_matching,seconds
+KMP_english_10000_0355,english,Prosopis_tamarugo,ruptively_cam,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.458000000e-06,19,10000,very_long,non_matching,seconds
+KMP_english_10000_0356,english,Yimam_of_Yejju,Michael_Scheick,15,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.000000000e-06,14,10000,very_long,non_matching,seconds
+KMP_english_10000_0357,english,"Bonne_Esperance,_Saint_Thomas,_U.S._Virgin_Islands",ltimore_Oriol,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",9.160000000e-07,3.167000000e-06,51,10000,very_long,non_matching,seconds
+KMP_english_10000_0358,english,Noel_Cabangon,ailway_stati,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]",1.000000000e-06,1.125000000e-06,15,10000,very_long,non_matching,seconds
+KMP_english_10000_0359,english,Thomasism,r_Wardingto,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",8.750000000e-07,7.500000000e-07,9,10000,very_long,non_matching,seconds
+KMP_english_10000_0360,english,The_Hunger_Games_(film_project),distribution,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,2.000000000e-06,31,10000,very_long,non_matching,seconds
+KMP_english_10000_0361,english,Karasabai_Airport,t_Team_All-WN,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.250000000e-06,17,10000,very_long,non_matching,seconds
+KMP_english_10000_0362,english,Sulefjellet,rza_Kurtovi,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",8.750000000e-07,8.750000000e-07,11,10000,very_long,non_matching,seconds
+KMP_english_10000_0363,english,CMAI,t's_sapphire_g,14,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,4.580000000e-07,4,10000,very_long,non_matching,seconds
+KMP_english_10000_0364,english,Merrilliodendron,Jaclyn_Hamw,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.125000000e-06,16,10000,very_long,non_matching,seconds
+KMP_english_10000_0365,english,Legible_Prague,gerous_Liaison,14,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,1.250000000e-06,16,10000,very_long,non_matching,seconds
+KMP_english_10000_0366,english,Taiwenese,Gora_speech,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,7.500000000e-07,9,10000,very_long,non_matching,seconds
+KMP_english_10000_0367,english,Dustin's_Daily_News,andment_(dis,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.375000000e-06,20,10000,very_long,non_matching,seconds
+KMP_english_10000_0368,english,Niko_Pucic,ann's_Best_F,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,7.920000000e-07,10,10000,very_long,non_matching,seconds
+KMP_english_10000_0369,english,Spinal_Cord_Untethering,_Gracious_Ki,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",9.160000000e-07,1.750000000e-06,25,10000,very_long,non_matching,seconds
+KMP_english_10000_0370,english,2024–25_Coastal_Athletic_Association_men's_basketball_season,"Burlingame,_C",13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.160000000e-07,3.583000000e-06,60,10000,very_long,non_matching,seconds
+KMP_english_10000_0371,english,Otto_A._Boehler,ith_(disambigua,15,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]",1.250000000e-06,1.125000000e-06,15,10000,very_long,non_matching,seconds
+KMP_english_10000_0372,english,Engelsberg_Ironworks,Moris_river,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.416000000e-06,20,10000,very_long,non_matching,seconds
+KMP_english_10000_0373,english,Vale_Prados_(Macedo_de_Cavaleiros),e_Emmanuel_L,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",9.170000000e-07,2.584000000e-06,38,10000,very_long,non_matching,seconds
+KMP_english_10000_0374,english,Orc_(middle_earth),Lewis_Mountai,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,1.250000000e-06,18,10000,very_long,non_matching,seconds
+KMP_english_10000_0375,english,Drew_Harvell,g_(Apple_&_,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,9.170000000e-07,12,10000,very_long,non_matching,seconds
+KMP_english_10000_0376,english,SmartDrive,_British_radi,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",9.590000000e-07,7.920000000e-07,10,10000,very_long,non_matching,seconds
+KMP_english_10000_0377,english,Tangut_Components_(Unicode_block),eannie_bell,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]",8.750000000e-07,2.292000000e-06,35,10000,very_long,non_matching,seconds
+KMP_english_10000_0378,english,Belgium_-_Austria_relations,WF_Southern_H,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.792000000e-06,27,10000,very_long,non_matching,seconds
+KMP_english_10000_0379,english,Little_Wing_(disambiguation),lth_News_Servic,15,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.917000000e-06,29,10000,very_long,non_matching,seconds
+KMP_english_10000_0380,english,Supporting_characters_on_Will_&_Grace,habilitation_Ho,15,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.590000000e-07,2.417000000e-06,38,10000,very_long,non_matching,seconds
+KMP_english_10000_0381,english,"Broomfield,_Colorado,_United_States",atlantic_hurri,14,[],[],False,False,PASSED,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.167000000e-06,2.458000000e-06,37,10000,very_long,non_matching,seconds
+KMP_english_10000_0382,english,Europe_union,kelodeon_Gam,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,9.590000000e-07,12,10000,very_long,non_matching,seconds
+KMP_english_10000_0383,english,Mourad_Jabrane,Dawood_Chowrang,15,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.042000000e-06,14,10000,very_long,non_matching,seconds
+KMP_english_10000_0384,english,Ophelia_Speaks,andor_Szabó,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",8.750000000e-07,1.167000000e-06,16,10000,very_long,non_matching,seconds
+KMP_english_10000_0385,english,Portland_LRT,Wik_decision,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,8.750000000e-07,12,10000,very_long,non_matching,seconds
+KMP_english_10000_0386,english,Ångfartygs_AB_Strömma_Kanal,disambiguati,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.750000000e-06,27,10000,very_long,non_matching,seconds
+KMP_english_10000_0387,english,"Leander,_Mike",key-Fuller_test,15,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.160000000e-07,1.000000000e-06,13,10000,very_long,non_matching,seconds
+KMP_english_10000_0388,english,Al-Qassim_Region,le_Sounders_sea,15,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.209000000e-06,17,10000,very_long,non_matching,seconds
+KMP_english_10000_0389,english,Godebert,hi_V_Musinga,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,6.670000000e-07,8,10000,very_long,non_matching,seconds
+KMP_english_10000_0390,english,Trends_in_pharmacological_sciences,olniceni-Prajes,15,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,2.333000000e-06,36,10000,very_long,non_matching,seconds
+KMP_english_10000_0391,english,Olympic_Velodrome,urch_Street_S,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.167000000e-06,17,10000,very_long,non_matching,seconds
+KMP_english_10000_0392,english,Et_ux,_basketball,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,6.660000000e-07,6,10000,very_long,non_matching,seconds
+KMP_english_10000_0393,english,"Albert_Arnold_Gore,_Jr.",a-Liisa_Tiek,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",9.170000000e-07,1.542000000e-06,23,10000,very_long,non_matching,seconds
+KMP_english_10000_0394,english,Gerard_Meijer,ol_Bus_Gets_Ea,14,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,9.580000000e-07,13,10000,very_long,non_matching,seconds
+KMP_english_10000_0395,english,TCU_Horned_Frogs_men's_tennis,Hilderstone,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.910000000e-07,1.958000000e-06,30,10000,very_long,non_matching,seconds
+KMP_english_10000_0396,english,Beryllium_applications,rtsakh_COVID_19,15,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.542000000e-06,23,10000,very_long,non_matching,seconds
+KMP_english_10000_0397,english,DyE_(musician),he_American_Ad,14,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,1.000000000e-06,14,10000,very_long,non_matching,seconds
+KMP_english_10000_0398,english,Iglesia_Nuestra_Senora_de_Guadalupe,Case_of_the_A,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,2.208000000e-06,35,10000,very_long,non_matching,seconds
+KMP_english_10000_0399,english,Louis_Hesse_d'Alzon,-Refa`i_Mosque,14,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,1.291000000e-06,19,10000,very_long,non_matching,seconds
+KMP_english_10000_0400,english,SGB_Premiership_Knockout_Cup,r-a-Lago_sh,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.916000000e-06,30,10000,very_long,non_matching,seconds
