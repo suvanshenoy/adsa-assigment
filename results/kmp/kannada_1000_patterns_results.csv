@@ -1,0 +1,401 @@
+query_id,language,source_title,pattern,pattern_length,expected_match_positions,actual_match_positions,expected_match_status,actual_match_status,correctness_status,lps_array,lps_construction_time,kmp_search_time,kmp_character_comparisons,sample_size,pattern_category,pattern_type,time_unit
+KMP_kannada_1000_0001,kannada,ಹಕ್ಕಿಪಿಕ್ಕಿ,ಹಕ,2,[0],[0],True,True,PASSED,"[0, 0]",7.500000000e-07,1.708000000e-06,11,1000,short,matching,seconds
+KMP_kannada_1000_0002,kannada,ಪ್ರಚಂಡ_ಪುಟಾಣಿಗಳು_(ಚಲನಚಿತ್ರ),್ರ,2,"[1, 24]","[1, 24]",True,True,PASSED,"[0, 0]",4.170000000e-07,2.834000000e-06,27,1000,short,matching,seconds
+KMP_kannada_1000_0003,kannada,ಕಾಳಗಿ,ಳಗಿ,3,[2],[2],True,True,PASSED,"[0, 0, 0]",4.580000000e-07,8.750000000e-07,5,1000,short,matching,seconds
+KMP_kannada_1000_0004,kannada,ಪುಣ್ಯ_ಪುರುಷ_(ಚಲನಚಿತ್ರ),_(ಚ,3,[11],[11],True,True,PASSED,"[0, 0, 0]",4.170000000e-07,2.084000000e-06,23,1000,short,matching,seconds
+KMP_kannada_1000_0005,kannada,ಕೋಲಾರ_ಜಿಲ್ಲೆ,ೋಲ,2,[1],[1],True,True,PASSED,"[0, 0]",2.910000000e-07,1.375000000e-06,12,1000,short,matching,seconds
+KMP_kannada_1000_0006,kannada,ಬೆಳೆಗೆರೆ_ಕೃಷ್ಣ_ಶಾಸ್ತ್ರಿ,ಾಸ್,3,[16],[16],True,True,PASSED,"[0, 0, 0]",4.580000000e-07,2.250000000e-06,23,1000,short,matching,seconds
+KMP_kannada_1000_0007,kannada,ಸಾರಾ_ಅಬೂಬಕ್ಕರ್,ಾರಾ,3,[1],[1],True,True,PASSED,"[0, 0, 1]",4.580000000e-07,1.584000000e-06,15,1000,short,matching,seconds
+KMP_kannada_1000_0008,kannada,ಬಸವನ_ಹುಳು,ಹುಳ,3,[5],[5],True,True,PASSED,"[0, 0, 0]",4.170000000e-07,1.167000000e-06,9,1000,short,matching,seconds
+KMP_kannada_1000_0009,kannada,ಬಿ._ಎನ್._ಕಿರ್ಪಾಲ್‌,._ಕ,3,[7],[7],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.917000000e-06,19,1000,short,matching,seconds
+KMP_kannada_1000_0010,kannada,ಶ್ಯಾಮಲಾ_ಮಾಧವ,ಧವ,2,[10],[10],True,True,PASSED,"[0, 0]",2.500000000e-07,1.250000000e-06,12,1000,short,matching,seconds
+KMP_kannada_1000_0011,kannada,ವಿಂಡೋಸ್‌‌_೮,ಿಂ,2,[1],[1],True,True,PASSED,"[0, 0]",2.910000000e-07,1.167000000e-06,11,1000,short,matching,seconds
+KMP_kannada_1000_0012,kannada,ಇಂದಿನ_ಭಾರತ_(ಚಲನಚಿತ್ರ),ಲನಚ,3,[13],[13],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.833000000e-06,21,1000,short,matching,seconds
+KMP_kannada_1000_0013,kannada,ಮ್ಲೇಚ್ಛ,್ಲ,2,[1],[1],True,True,PASSED,"[0, 0]",2.910000000e-07,1.041000000e-06,8,1000,short,matching,seconds
+KMP_kannada_1000_0014,kannada,ವೈದ್ಯವಿಜ್ಞಾನ,್ಞ,2,[8],[8],True,True,PASSED,"[0, 0]",2.500000000e-07,1.416000000e-06,13,1000,short,matching,seconds
+KMP_kannada_1000_0015,kannada,ಕಳ್ಳರ_ಸಂತೆ_(ಚಲನಚಿತ್ರ),ಳರ,2,[3],[3],True,True,PASSED,"[0, 0]",2.500000000e-07,2.000000000e-06,22,1000,short,matching,seconds
+KMP_kannada_1000_0016,kannada,ನೃಪತುಂಗ,ುಂ,2,[4],[4],True,True,PASSED,"[0, 0]",3.340000000e-07,8.340000000e-07,7,1000,short,matching,seconds
+KMP_kannada_1000_0017,kannada,ಉತ್ತರಕ್ರಿಯೆ,ತ್,2,[1],[1],True,True,PASSED,"[0, 0]",2.920000000e-07,1.250000000e-06,12,1000,short,matching,seconds
+KMP_kannada_1000_0018,kannada,ಬಿ.ಎಸ್.ರಾಜಯ್ಯಂಗಾರ್,ಾಜಯ,3,[8],[8],True,True,PASSED,"[0, 0, 0]",4.160000000e-07,1.833000000e-06,19,1000,short,matching,seconds
+KMP_kannada_1000_0019,kannada,ಎಲೆಕ್ಟ್ರಿಕ್_ಫ಼್ಯೂಸ್,ಎಲೆ,3,[0],[0],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.792000000e-06,19,1000,short,matching,seconds
+KMP_kannada_1000_0020,kannada,ಸುಪ್ರಿಯಾ_ಪಾಠಕ್,ಪಾಠ,3,[9],[9],True,True,PASSED,"[0, 0, 0]",4.160000000e-07,1.500000000e-06,15,1000,short,matching,seconds
+KMP_kannada_1000_0021,kannada,ಕುದುರೆ_ತಳಿ_ಅಭಿವೃದ್ಧಿ,ದುರ,3,[2],[2],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.917000000e-06,21,1000,short,matching,seconds
+KMP_kannada_1000_0022,kannada,ಸತ್ತೂ,್ತೂ,3,[2],[2],True,True,PASSED,"[0, 0, 0]",4.160000000e-07,7.500000000e-07,5,1000,short,matching,seconds
+KMP_kannada_1000_0023,kannada,ಗಣಪತರಾವ್_ಮಹಾರಾಜ,ರಾವ,3,[4],[4],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.625000000e-06,16,1000,short,matching,seconds
+KMP_kannada_1000_0024,kannada,ಗುಪ್ತ_ಮತದಾನ,ದಾ,2,[8],[8],True,True,PASSED,"[0, 0]",4.170000000e-07,1.209000000e-06,11,1000,short,matching,seconds
+KMP_kannada_1000_0025,kannada,ಮಲೇಷ್ಯಾದ_ಜಾನಪದ,್ಯ,2,[4],[4],True,True,PASSED,"[0, 0]",2.920000000e-07,1.375000000e-06,14,1000,short,matching,seconds
+KMP_kannada_1000_0026,kannada,ಕಲ್ಲುಸಕ್ಕರೆ,್ಕ,2,[7],[7],True,True,PASSED,"[0, 0]",2.920000000e-07,1.250000000e-06,12,1000,short,matching,seconds
+KMP_kannada_1000_0027,kannada,ಕೆ.ಪಿ.ಎಂ.ಜಿ,ಂ.,2,[7],[7],True,True,PASSED,"[0, 0]",2.920000000e-07,1.125000000e-06,11,1000,short,matching,seconds
+KMP_kannada_1000_0028,kannada,ಆರ್ತೊಸಿಫೊನ್_ಸ್ಟಾಮಿನಿಯಸ್,ಯಸ,2,[20],[20],True,True,PASSED,"[0, 0]",2.920000000e-07,2.000000000e-06,23,1000,short,matching,seconds
+KMP_kannada_1000_0029,kannada,ಮಹಿಳಾ_ಟೆಸ್ಟ್_ಕ್ರಿಕೆಟ್,_ಟೆ,3,[5],[5],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.875000000e-06,22,1000,short,matching,seconds
+KMP_kannada_1000_0030,kannada,ಕಳ್ಳರ_ಸಂತೆ_(ಚಲನಚಿತ್ರ),ತ್ರ,3,[17],[17],True,True,PASSED,"[0, 0, 0]",4.170000000e-07,2.125000000e-06,22,1000,short,matching,seconds
+KMP_kannada_1000_0031,kannada,ಕಾಮನ್‍ವೆಲ್ತ್_ಕ್ರೀಡಾಕೂಟ,್ತ,2,[9],[9],True,True,PASSED,"[0, 0]",2.920000000e-07,2.625000000e-06,25,1000,short,matching,seconds
+KMP_kannada_1000_0032,kannada,ಮಲಯಾಳಂ_ಅ,ಮಲಯ,3,[0],[0],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.000000000e-06,8,1000,short,matching,seconds
+KMP_kannada_1000_0033,kannada,ಶಶಿ_ಪಂಜ,ಂಜ,2,[5],[5],True,True,PASSED,"[0, 0]",2.910000000e-07,8.750000000e-07,7,1000,short,matching,seconds
+KMP_kannada_1000_0034,kannada,ಕುಲಶೇಖರ_ಆಳ್ವಾರ್,ಕು,2,[0],[0],True,True,PASSED,"[0, 0]",2.920000000e-07,1.459000000e-06,15,1000,short,matching,seconds
+KMP_kannada_1000_0035,kannada,ವಿಕ್ರಮ್_(ನಟ),(ನ,2,[8],[8],True,True,PASSED,"[0, 0]",2.920000000e-07,1.292000000e-06,12,1000,short,matching,seconds
+KMP_kannada_1000_0036,kannada,ಭೂದೇವಿ,ೇವಿ,3,[3],[3],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,8.330000000e-07,6,1000,short,matching,seconds
+KMP_kannada_1000_0037,kannada,ಹಾವಸೆ_ಸಸ್ಯಗಳು,ಹಾ,2,[0],[0],True,True,PASSED,"[0, 0]",2.500000000e-07,1.291000000e-06,13,1000,short,matching,seconds
+KMP_kannada_1000_0038,kannada,ಕೆ೨,ಕೆ,2,[0],[0],True,True,PASSED,"[0, 0]",2.920000000e-07,6.250000000e-07,3,1000,short,matching,seconds
+KMP_kannada_1000_0039,kannada,ಎ.ಈಶ್ವರಯ್ಯ,ಎ.,2,[0],[0],True,True,PASSED,"[0, 0]",2.500000000e-07,1.042000000e-06,10,1000,short,matching,seconds
+KMP_kannada_1000_0040,kannada,"ಪಾರ್ಶ್ವನಾಥ_ಸ್ವಾಮಿ_ಅಬ್ಬಣಬೆಟ್ಟು_ಬಸದಿ,_ಮೂಡೂರು",ನಾ,2,[7],[7],True,True,PASSED,"[0, 0]",2.500000000e-07,3.292000000e-06,42,1000,short,matching,seconds
+KMP_kannada_1000_0041,kannada,ಸಂಗೀತ_ಕಛೇರಿ,ಸಂಗ,3,[0],[0],True,True,PASSED,"[0, 0, 0]",4.170000000e-07,1.125000000e-06,11,1000,short,matching,seconds
+KMP_kannada_1000_0042,kannada,ಮಾರ್ವೆಲ್_ಕಾಮಿಕ್ಸ್,ಾಮಿ,3,[10],[10],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.708000000e-06,18,1000,short,matching,seconds
+KMP_kannada_1000_0043,kannada,ಗಾರ್ಗಿ,ರ್ಗ,3,[2],[2],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,7.920000000e-07,6,1000,short,matching,seconds
+KMP_kannada_1000_0044,kannada,ಕಾಡಿನ_ರಹಸ್ಯ_(ಚಲನಚಿತ್ರ),ಹಸ,2,[7],[7],True,True,PASSED,"[0, 0]",2.910000000e-07,1.958000000e-06,22,1000,short,matching,seconds
+KMP_kannada_1000_0045,kannada,ಗ್ಲೋಬಲ್_ಡೇಟ,ಡೇಟ,3,[8],[8],True,True,PASSED,"[0, 0, 0]",4.170000000e-07,1.166000000e-06,11,1000,short,matching,seconds
+KMP_kannada_1000_0046,kannada,ಪದ್ಮವಿಭೂಷಣ,ಪದ್,3,[0],[0],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.125000000e-06,10,1000,short,matching,seconds
+KMP_kannada_1000_0047,kannada,ವಿಜಯ್_ಶೇಖರ್_ಶರ್ಮಾ,_ಶರ,3,[11],[11],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.667000000e-06,18,1000,short,matching,seconds
+KMP_kannada_1000_0048,kannada,ಗೊಡ್ಡೆ,ೊಡ್,3,[1],[1],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,7.500000000e-07,6,1000,short,matching,seconds
+KMP_kannada_1000_0049,kannada,ಎಮಕೆ,ಮಕೆ,3,[1],[1],True,True,PASSED,"[0, 0, 0]",3.340000000e-07,5.830000000e-07,4,1000,short,matching,seconds
+KMP_kannada_1000_0050,kannada,೧೬೧೯,೬೧೯,3,[1],[1],True,True,PASSED,"[0, 0, 0]",3.330000000e-07,5.830000000e-07,4,1000,short,matching,seconds
+KMP_kannada_1000_0051,kannada,ಡಾಗ್,ಟಾ_,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,5.420000000e-07,4,1000,short,non_matching,seconds
+KMP_kannada_1000_0052,kannada,ಮಿಲಿಟರಿ_ಶಿಕ್ಷಣ_ಮತ್ತು_ತರಬೇತಿ,ೀನ್,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,1.959000000e-06,27,1000,short,non_matching,seconds
+KMP_kannada_1000_0053,kannada,ಅತುಲೆ_ಮೇಟ್,್ನ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,9.160000000e-07,10,1000,short,non_matching,seconds
+KMP_kannada_1000_0054,kannada,ವಿದ್ಯಾ_ಕೃಷ್ಣನ್,ತೋಟ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,1.083000000e-06,14,1000,short,non_matching,seconds
+KMP_kannada_1000_0055,kannada,ಹೈದರಾಬಾದು,_(,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,8.340000000e-07,9,1000,short,non_matching,seconds
+KMP_kannada_1000_0056,kannada,ಮಾಲಾವಿ,ಂಡಿ,3,[],[],False,False,PASSED,"[0, 0, 0]",4.170000000e-07,6.670000000e-07,6,1000,short,non_matching,seconds
+KMP_kannada_1000_0057,kannada,ನ್ಯಾನ್ಸಿ_ಕುನಾರ್ಡ್,ಚೇ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.375000000e-06,17,1000,short,non_matching,seconds
+KMP_kannada_1000_0058,kannada,ಅತ್ತಿರಾಂಪಾಕ್ಕಂ,ಂಕ್,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,1.250000000e-06,15,1000,short,non_matching,seconds
+KMP_kannada_1000_0059,kannada,ಟೊಂಗಾ,ುಜ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,5.420000000e-07,5,1000,short,non_matching,seconds
+KMP_kannada_1000_0060,kannada,ಅನ್ನೆ_ಬೊನ್ನಿ,್ರ),3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,1.292000000e-06,14,1000,short,non_matching,seconds
+KMP_kannada_1000_0061,kannada,ನಾಗರಿಕ_ವಿಮಾನಯಾನ_ಸಚಿವಾಲಯ_(ಭಾರತ),ಿ.ಜ,3,[],[],False,False,PASSED,"[0, 0, 0]",4.170000000e-07,2.459000000e-06,33,1000,short,non_matching,seconds
+KMP_kannada_1000_0062,kannada,"ಕೇದಾರೇಶ್ವರ_ದೇವಸ್ಥಾನ,_ಹಳೇಬೀಡು",ಹಿಕ,3,[],[],False,False,PASSED,"[0, 0, 0]",4.170000000e-07,2.166000000e-06,29,1000,short,non_matching,seconds
+KMP_kannada_1000_0063,kannada,ಶಾಲ್ಮಲಾ_ನದಿ,ತಕ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,9.160000000e-07,11,1000,short,non_matching,seconds
+KMP_kannada_1000_0064,kannada,ಮರೆಯದ_ಮಾಣಿಕ್ಯ_(ಚಲನಚಿತ್ರ),ಳಕ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.709000000e-06,24,1000,short,non_matching,seconds
+KMP_kannada_1000_0065,kannada,ಅಕ್ಷಿ,ಿಂ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,5.840000000e-07,5,1000,short,non_matching,seconds
+KMP_kannada_1000_0066,kannada,ಆಂಗಸ್_ಡೀಟನ್,ಿಲ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,9.160000000e-07,11,1000,short,non_matching,seconds
+KMP_kannada_1000_0067,kannada,ಹ್ಯೂಗೋ_ಮೇರಿ_ಡಿ_ವ್ರೈಸ್,ಾಮ,2,[],[],False,False,PASSED,"[0, 0]",2.080000000e-07,1.541000000e-06,21,1000,short,non_matching,seconds
+KMP_kannada_1000_0068,kannada,ಇಗರ್ಜಿ,ಗೋ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,7.080000000e-07,7,1000,short,non_matching,seconds
+KMP_kannada_1000_0069,kannada,ಜೀರಿಗೆ,ಚಲ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,6.250000000e-07,6,1000,short,non_matching,seconds
+KMP_kannada_1000_0070,kannada,ಮಿಲಿಟರಿ_ಶಿಕ್ಷಣ_ಮತ್ತು_ತರಬೇತಿ,ಮರಿ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,2.125000000e-06,29,1000,short,non_matching,seconds
+KMP_kannada_1000_0071,kannada,ಸಂಪೀಡಿತ_ವಾಯು,ೆಚ್,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,1.000000000e-06,12,1000,short,non_matching,seconds
+KMP_kannada_1000_0072,kannada,ಭಕ್ತಿ_ಶರ್ಮಾ,ಿತ್,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,1.000000000e-06,12,1000,short,non_matching,seconds
+KMP_kannada_1000_0073,kannada,ಬಿಜಾಪೂರ_ಸಿಟಿ,ಸೆಡ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,6.375000000e-06,13,1000,short,non_matching,seconds
+KMP_kannada_1000_0074,kannada,ಕಲ್ಯಾಣ_ಕುಮಾರ್,=ಅನ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,1.000000000e-06,13,1000,short,non_matching,seconds
+KMP_kannada_1000_0075,kannada,ಕಸ,ಚಲನ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,3.750000000e-07,2,1000,short,non_matching,seconds
+KMP_kannada_1000_0076,kannada,ವೈಶಾಲಿ,ರಾಜ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,6.250000000e-07,6,1000,short,non_matching,seconds
+KMP_kannada_1000_0077,kannada,ತಾಂತ್ರಿಕ_ಲೇಖನ,._ಜ,3,[],[],False,False,PASSED,"[0, 0, 0]",2.910000000e-07,1.000000000e-06,13,1000,short,non_matching,seconds
+KMP_kannada_1000_0078,kannada,ರಂಜನ್_ಸೋಧಿ,_ಕೆ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,9.580000000e-07,11,1000,short,non_matching,seconds
+KMP_kannada_1000_0079,kannada,ಶಶಿ_ಪಂಜ,ಲೇಯ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,7.090000000e-07,7,1000,short,non_matching,seconds
+KMP_kannada_1000_0080,kannada,ಹಾಲಪೇನ್ಯೊ,ಣ್,2,[],[],False,False,PASSED,"[0, 0]",2.920000000e-07,9.170000000e-07,9,1000,short,non_matching,seconds
+KMP_kannada_1000_0081,kannada,೧೬೨೧,ರಾ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,5.000000000e-07,4,1000,short,non_matching,seconds
+KMP_kannada_1000_0082,kannada,ಕಾರ್ಕಳ_ಶ್ರೀ_ವೆಂಕಟರಮಣ_ದೇವಸ್ಥಾನ,ಹಕೀ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,2.166000000e-06,29,1000,short,non_matching,seconds
+KMP_kannada_1000_0083,kannada,ದಿಶಾ_ವಾಕಾನಿ,ಸ್_,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,9.590000000e-07,11,1000,short,non_matching,seconds
+KMP_kannada_1000_0084,kannada,ಸುನಿಲ್_ಭಾರತಿ_ಮಿಟ್ಟಲ್,ಹಾನ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,1.458000000e-06,20,1000,short,non_matching,seconds
+KMP_kannada_1000_0085,kannada,ಶಬರಿಮಲೈ_ಸ್ವಾಮಿ_ಅಯ್ಯಪ್ಪ,ಹೀ,2,[],[],False,False,PASSED,"[0, 0]",2.090000000e-07,1.625000000e-06,22,1000,short,non_matching,seconds
+KMP_kannada_1000_0086,kannada,ಸ್ಕಾಟ್‌_ಸ್ಯಾಟ್-1,ಕ್,2,[],[],False,False,PASSED,"[0, 0]",2.910000000e-07,1.333000000e-06,17,1000,short,non_matching,seconds
+KMP_kannada_1000_0087,kannada,ಮಾರ್ಚ್_೧,ರೋ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,8.340000000e-07,9,1000,short,non_matching,seconds
+KMP_kannada_1000_0088,kannada,ನಾ-ದೆನೆ_ಭಾಷೆಗಳು,ಚಿ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.125000000e-06,15,1000,short,non_matching,seconds
+KMP_kannada_1000_0089,kannada,ಗೋವಿಂದರಾಜ,_(ಚ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,7.080000000e-07,9,1000,short,non_matching,seconds
+KMP_kannada_1000_0090,kannada,ಮಹಾರಾಜ_ಕಾಲೇಜು,ಕ್(,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,1.167000000e-06,14,1000,short,non_matching,seconds
+KMP_kannada_1000_0091,kannada,ಐತಿಹಾಸಿಕ_ಕಾದಂಬರಿ,ೈಸ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.250000000e-06,16,1000,short,non_matching,seconds
+KMP_kannada_1000_0092,kannada,ಹೆರ್ನಾಂಡೊ_ಕಾರ್ಟೆಸ್,ಯಿ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.375000000e-06,18,1000,short,non_matching,seconds
+KMP_kannada_1000_0093,kannada,ಕುಂಗ,ಹಟ್,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,4.590000000e-07,4,1000,short,non_matching,seconds
+KMP_kannada_1000_0094,kannada,ಶಿಶುನಾಗ,ಪಾಸ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,6.670000000e-07,7,1000,short,non_matching,seconds
+KMP_kannada_1000_0095,kannada,ಶ್ರೀನಿವಾಸ_ಹಾವನೂರು,ಿಯ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.417000000e-06,18,1000,short,non_matching,seconds
+KMP_kannada_1000_0096,kannada,ಪಿಡಿಎ_ತಾಂತ್ರಿಕ_ಮಹಾವಿದ್ಯಾಲಯ,೯೯೯,3,[],[],False,False,PASSED,"[0, 1, 2]",3.750000000e-07,1.833000000e-06,26,1000,short,non_matching,seconds
+KMP_kannada_1000_0097,kannada,ಹಿಂದೂ_ಸುಧಾರಣಾ_ಚಳುವಳಿಗಳು,ೇಡ್,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,1.667000000e-06,23,1000,short,non_matching,seconds
+KMP_kannada_1000_0098,kannada,ಉಷ್ಣೀಷ,್ಪ_,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,7.090000000e-07,7,1000,short,non_matching,seconds
+KMP_kannada_1000_0099,kannada,ತಮಿಳುನಾಡಿನ_ಪಿ.ಜಯರಾಜ್_ಮತ್ತು_ಬೆನ್ನಿಕ್ಸ್_ಸಾಥನ್ಕುಲಂ_ಅವರ_ಬಂಧನದಲ್ಲಿ_ಸಾವು,_ಹ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,4.666000000e-06,73,1000,short,non_matching,seconds
+KMP_kannada_1000_0100,kannada,ಆರ್ಥಿಕ_ಬೆಳೆವಣಿಗೆ,ಾಟ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.292000000e-06,16,1000,short,non_matching,seconds
+KMP_kannada_1000_0101,kannada,ಅಜ್ಜಬಸವನಹಳ್ಳಿ,ಬಸವನಹಳ,6,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",6.250000000e-07,1.250000000e-06,13,1000,medium,matching,seconds
+KMP_kannada_1000_0102,kannada,ನೇಟೊ,ನೇಟೊ,4,[0],[0],True,True,PASSED,"[0, 0, 0, 0]",4.590000000e-07,5.840000000e-07,4,1000,medium,matching,seconds
+KMP_kannada_1000_0103,kannada,ಐಸಾಕ್_ಅಸಿಮೋವ್,ಕ್_ಅಸ,5,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,1.209000000e-06,13,1000,medium,matching,seconds
+KMP_kannada_1000_0104,kannada,ಮಳೆಯಲಿ_ಜೊತೆಯಲಿ,ಿ_ಜೊ,4,[5],[5],True,True,PASSED,"[0, 0, 0, 0]",5.000000000e-07,1.250000000e-06,14,1000,medium,matching,seconds
+KMP_kannada_1000_0105,kannada,ಚೇತನ್_ಆನಂದ್,ತನ್_ಆನ,6,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,1.083000000e-06,11,1000,medium,matching,seconds
+KMP_kannada_1000_0106,kannada,ಡ್ರಾವರ್,ರಾವರ್,5,[2],[2],True,True,PASSED,"[0, 0, 0, 1, 0]",6.670000000e-07,8.750000000e-07,7,1000,medium,matching,seconds
+KMP_kannada_1000_0107,kannada,ಬಿ.ಟಿ.ಎಮ್._ಲೇಔಟ್_ವಿಧಾನಸಭಾ_ಕ್ಷೇತ್ರ,ೇಔಟ್_,5,[12],[12],True,True,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,2.709000000e-06,34,1000,medium,matching,seconds
+KMP_kannada_1000_0108,kannada,ರಾಧಾ_ಕೃಷ್ಣ,ರಾಧಾ_,5,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0]",5.410000000e-07,1.125000000e-06,10,1000,medium,matching,seconds
+KMP_kannada_1000_0109,kannada,ಗ್ರಾನ್ಯುಲೋಮ_ಇಂಗ್ವೈನಲಿ,್ಯುಲೋಮ,6,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.830000000e-07,2.166000000e-06,23,1000,medium,matching,seconds
+KMP_kannada_1000_0110,kannada,ಹ್ಯಾರಿ_ಪಾಟರ್,ರಿ_ಪಾ,5,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,1.291000000e-06,13,1000,medium,matching,seconds
+KMP_kannada_1000_0111,kannada,ಕರ್ಕಾಟಕ_ರಾಶಿ,ರಾಶಿ,4,[8],[8],True,True,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.167000000e-06,13,1000,medium,matching,seconds
+KMP_kannada_1000_0112,kannada,ನಾಗರಿಕ_ವಿಮಾನಯಾನ_ಸಚಿವಾಲಯ_(ಭಾರತ),ವಾಲಯ_(,6,[19],[19],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,2.375000000e-06,31,1000,medium,matching,seconds
+KMP_kannada_1000_0113,kannada,ಮಾರ್ಕ್ಸ್‌ವಾದ,್ಸ್‌ವಾ,6,[5],[5],True,True,PASSED,"[0, 0, 1, 0, 0, 0]",6.670000000e-07,1.167000000e-06,13,1000,medium,matching,seconds
+KMP_kannada_1000_0114,kannada,ಭೂದೇವಿ,ಭೂದೇವಿ,6,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,7.080000000e-07,6,1000,medium,matching,seconds
+KMP_kannada_1000_0115,kannada,ಕೇಶವ_ಪ್ರಶಸ್ತಿ,ರಶಸ್ತಿ,6,[7],[7],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,1.209000000e-06,13,1000,medium,matching,seconds
+KMP_kannada_1000_0116,kannada,ಇಂಡೊನೇಷ್ಯ_ಭಾಷೆ,ಂಡೊನ,4,[1],[1],True,True,PASSED,"[0, 0, 0, 0]",7.080000000e-07,1.750000000e-06,14,1000,medium,matching,seconds
+KMP_kannada_1000_0117,kannada,ಚಿಕ್ಕಯ್ಯ_ಮಠಪತಿ,್ಯ_ಮಠ,5,[6],[6],True,True,PASSED,"[0, 0, 0, 0, 0]",6.250000000e-07,1.500000000e-06,15,1000,medium,matching,seconds
+KMP_kannada_1000_0118,kannada,ಭದ್ರಾ,ಭದ್ರ,4,[0],[0],True,True,PASSED,"[0, 0, 0, 0]",5.000000000e-07,7.500000000e-07,5,1000,medium,matching,seconds
+KMP_kannada_1000_0119,kannada,ಲೆಫ್ಟಿನಂಟ್_ಜನರಲ್_ಅಪ್ಪಾರಂಡ_ಸಿ_ಅಯ್ಯಪ್ಪ,ಲ್_ಅಪ,5,[14],[14],True,True,PASSED,"[0, 0, 0, 0, 0]",5.410000000e-07,3.125000000e-06,37,1000,medium,matching,seconds
+KMP_kannada_1000_0120,kannada,ಹಕ್ಕಿಪಿಕ್ಕಿ,್ಕಿಪಿಕ,6,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",6.250000000e-07,1.250000000e-06,11,1000,medium,matching,seconds
+KMP_kannada_1000_0121,kannada,ಲೂಯಿಸ್_ಜಾಕಸ್_ಥೆನಾರ್ಡ್,ಿಸ್_ಜ,5,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0]",5.410000000e-07,1.875000000e-06,21,1000,medium,matching,seconds
+KMP_kannada_1000_0122,kannada,ಲೀ_ಬ್ಯುಂಗ್-ಹುನ್,್-ಹು,4,[9],[9],True,True,PASSED,"[0, 0, 0, 0]",4.580000000e-07,1.583000000e-06,16,1000,medium,matching,seconds
+KMP_kannada_1000_0123,kannada,ಎಲೆಕ್ಟ್ರಿಕ್_ಫ಼್ಯೂಸ್,ಕ್_ಫ಼,5,[9],[9],True,True,PASSED,"[0, 0, 0, 0, 0]",5.420000000e-07,1.875000000e-06,20,1000,medium,matching,seconds
+KMP_kannada_1000_0124,kannada,ಯಾದವ,ಯಾದವ,4,[0],[0],True,True,PASSED,"[0, 0, 0, 0]",4.580000000e-07,6.670000000e-07,4,1000,medium,matching,seconds
+KMP_kannada_1000_0125,kannada,ಅಪರ್ಣೆ,ಅಪರ್ಣ,5,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,7.920000000e-07,6,1000,medium,matching,seconds
+KMP_kannada_1000_0126,kannada,ಕ್ರೀಡೆಗಳು,ೀಡೆಗ,4,[3],[3],True,True,PASSED,"[0, 0, 0, 0]",4.590000000e-07,1.042000000e-06,9,1000,medium,matching,seconds
+KMP_kannada_1000_0127,kannada,ಟೊಂಗಾ,ಟೊಂಗ,4,[0],[0],True,True,PASSED,"[0, 0, 0, 0]",4.580000000e-07,7.500000000e-07,5,1000,medium,matching,seconds
+KMP_kannada_1000_0128,kannada,ಅರ್ನ್_ಬರಿಯಲ್,್ನ್_,4,[2],[2],True,True,PASSED,"[0, 0, 1, 0]",5.840000000e-07,1.250000000e-06,12,1000,medium,matching,seconds
+KMP_kannada_1000_0129,kannada,ಅಲ್ಲಮ_ಪ್ರಭು,_ಪ್ರ,4,[5],[5],True,True,PASSED,"[0, 0, 0, 0]",4.580000000e-07,1.166000000e-06,11,1000,medium,matching,seconds
+KMP_kannada_1000_0130,kannada,ಕಂಪನಿ/ಸಂಘ_(ಕಾನೂನು_),/ಸಂಘ_,5,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0]",5.840000000e-07,1.709000000e-06,19,1000,medium,matching,seconds
+KMP_kannada_1000_0131,kannada,ಬೆಂಗಳೂರು_ಗಾಯನ_ಸಮಾಜ,ಗಳೂರ,4,[3],[3],True,True,PASSED,"[0, 0, 0, 0]",4.580000000e-07,1.792000000e-06,19,1000,medium,matching,seconds
+KMP_kannada_1000_0132,kannada,ಹಳ್ಳಿ_ಕೃಷ್ಣ_ಡೆಲ್ಲಿ_ರಾಧ_(ಚಲನಚಿತ್ರ),ಿ_ರಾಧ_,6,[17],[17],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",6.250000000e-07,3.000000000e-06,35,1000,medium,matching,seconds
+KMP_kannada_1000_0133,kannada,ಬೋರ್_ಘಾಟ್,ರ್_ಘಾಟ,6,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",6.250000000e-07,1.042000000e-06,9,1000,medium,matching,seconds
+KMP_kannada_1000_0134,kannada,ಕರವಾನ್,ರವಾನ,4,[1],[1],True,True,PASSED,"[0, 0, 0, 0]",4.580000000e-07,8.330000000e-07,6,1000,medium,matching,seconds
+KMP_kannada_1000_0135,kannada,ಜೇನುಪ್ರಪಂಚ,ನುಪ್ರಪ,6,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",6.660000000e-07,1.125000000e-06,10,1000,medium,matching,seconds
+KMP_kannada_1000_0136,kannada,ಲೆಫ್ಟಿನಂಟ್_ಜನರಲ್_ಅಪ್ಪಾರಂಡ_ಸಿ_ಅಯ್ಯಪ್ಪ,ಅಯ್ಯಪ,5,[29],[29],True,True,PASSED,"[0, 0, 0, 0, 0]",5.830000000e-07,3.083000000e-06,37,1000,medium,matching,seconds
+KMP_kannada_1000_0137,kannada,ನೌಕಾಪಡೆಯ_ದಿನ,ಪಡೆಯ,4,[4],[4],True,True,PASSED,"[0, 0, 0, 0]",5.000000000e-07,1.292000000e-06,12,1000,medium,matching,seconds
+KMP_kannada_1000_0138,kannada,"ಅಂಕಲಿ,_ಬೆಳಗಾವಿ",ಂಕಲಿ,4,[1],[1],True,True,PASSED,"[0, 0, 0, 0]",4.580000000e-07,1.375000000e-06,14,1000,medium,matching,seconds
+KMP_kannada_1000_0139,kannada,ಅರೋರ,ಅರೋರ,4,[0],[0],True,True,PASSED,"[0, 0, 0, 0]",4.580000000e-07,6.670000000e-07,4,1000,medium,matching,seconds
+KMP_kannada_1000_0140,kannada,ಆಸ್ಟ್ರೊ-ಏಷ್ಯಾಟಿಕ್_ಭಾಷೆಗಳು,ಯಾಟಿಕ,5,[11],[11],True,True,PASSED,"[0, 0, 0, 0, 0]",5.420000000e-07,2.166000000e-06,25,1000,medium,matching,seconds
+KMP_kannada_1000_0141,kannada,ಜಿ.ಎಸ್.ಜಯದೇವ,ಎಸ್.ಜ,5,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0]",5.410000000e-07,1.292000000e-06,12,1000,medium,matching,seconds
+KMP_kannada_1000_0142,kannada,ಬೆಳ್ತಂಗಡಿ_ಚರ್ಚ್,_ಚರ್ಚ್,6,[9],[9],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.840000000e-07,1.459000000e-06,15,1000,medium,matching,seconds
+KMP_kannada_1000_0143,kannada,೧೮೨೧,೧೮೨೧,4,[0],[0],True,True,PASSED,"[0, 0, 0, 1]",5.000000000e-07,7.090000000e-07,4,1000,medium,matching,seconds
+KMP_kannada_1000_0144,kannada,ಐಸಾಕ್_ಅಸಿಮೋವ್,ಿಮೋವ್,5,[8],[8],True,True,PASSED,"[0, 0, 0, 0, 0]",5.420000000e-07,1.334000000e-06,13,1000,medium,matching,seconds
+KMP_kannada_1000_0145,kannada,ಮಲೇಷ್ಯಾದ_ಜಾನಪದ,ಜಾನಪದ,5,[9],[9],True,True,PASSED,"[0, 0, 0, 0, 0]",5.420000000e-07,1.334000000e-06,14,1000,medium,matching,seconds
+KMP_kannada_1000_0146,kannada,ಶರಣ್‌_ಪಾಟೀಲ್,್‌_ಪಾ,5,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,1.250000000e-06,12,1000,medium,matching,seconds
+KMP_kannada_1000_0147,kannada,ಕುಂದಾದ್ರಿ_ಬೆಟ್ಟ,ಂದಾದ,4,[2],[2],True,True,PASSED,"[0, 0, 0, 0]",4.580000000e-07,1.542000000e-06,15,1000,medium,matching,seconds
+KMP_kannada_1000_0148,kannada,ಹಾಂಗ್_ಯಿಂಗ್,ಂಗ್_ಯ,5,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0]",6.250000000e-07,1.416000000e-06,11,1000,medium,matching,seconds
+KMP_kannada_1000_0149,kannada,"ಅಡ್ಡಗೇರಿ_ಭಗವಾನ್_ಶ್ರೀ_ಪಾರ್ಶ್ವನಾಥ_ಸ್ವಾಮಿ_ಬಸದಿ,_ಹಿರಿಯಂಗಡಿ",್ರೀ_ಪಾ,6,[17],[17],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",7.090000000e-07,5.250000000e-06,59,1000,medium,matching,seconds
+KMP_kannada_1000_0150,kannada,ಬಡಗ_ಚಿತ್ರರಂಗ,ಡಗ_ಚಿ,5,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0]",5.830000000e-07,1.417000000e-06,12,1000,medium,matching,seconds
+KMP_kannada_1000_0151,kannada,ಶಂಕರ್_ನಾಗ್,ದರಾಬ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.580000000e-07,1.000000000e-06,10,1000,medium,non_matching,seconds
+KMP_kannada_1000_0152,kannada,ಶ್ವೇತವರ್ಣ_ಪೀಳಿಗೆ,ಡ್ಟಿ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.160000000e-07,1.416000000e-06,16,1000,medium,non_matching,seconds
+KMP_kannada_1000_0153,kannada,ರಾಹ್ಮ್_ಶ್ಟೈನ್,ಾಖ್ಯ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.590000000e-07,1.333000000e-06,14,1000,medium,non_matching,seconds
+KMP_kannada_1000_0154,kannada,ಜಯನ್,ಅಲೆಪ್ಪ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",6.250000000e-07,5.420000000e-07,4,1000,medium,non_matching,seconds
+KMP_kannada_1000_0155,kannada,ರೋಬಾಟ್(ನೃತ್ಯ),ರಿ_ಚರ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 1]",5.840000000e-07,1.334000000e-06,14,1000,medium,non_matching,seconds
+KMP_kannada_1000_0156,kannada,ಕೆ._ಪಿ._ಪುಟ್ಟಣ್ಣ_ಚೆಟ್ಟಿ,ಕಾರ್ಕ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 1]",5.420000000e-07,2.000000000e-06,24,1000,medium,non_matching,seconds
+KMP_kannada_1000_0157,kannada,ಸಪ್ತರ್ಷಿ,ಯ_ನಾಯಕ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0]",7.090000000e-07,7.920000000e-07,8,1000,medium,non_matching,seconds
+KMP_kannada_1000_0158,kannada,ಪೌಡರ್_(ಚಲನಚಿತ್ರ),ವಿಂದರ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.410000000e-07,1.375000000e-06,16,1000,medium,non_matching,seconds
+KMP_kannada_1000_0159,kannada,ಉತ್ಪಾದನೆ,ರೋಡಾ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.160000000e-07,7.910000000e-07,8,1000,medium,non_matching,seconds
+KMP_kannada_1000_0160,kannada,ಧರಣಿದೇವಿ_ಮಾಲಗತ್ತಿ,ಹೆರಾ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.459000000e-06,17,1000,medium,non_matching,seconds
+KMP_kannada_1000_0161,kannada,ಶಕ್ತಿ_(ಹಿಂದೂ_ಧರ್ಮ),ರಿಚರ್,5,[],[],False,False,PASSED,"[0, 0, 0, 1, 0]",7.080000000e-07,1.666000000e-06,19,1000,medium,non_matching,seconds
+KMP_kannada_1000_0162,kannada,ಇಂಗಾಲ_ಸಂಯುಕ್ತ_ರಸಾಯನಶಾಸ್ತ್ರ,(ತ್ರ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.580000000e-07,2.042000000e-06,26,1000,medium,non_matching,seconds
+KMP_kannada_1000_0163,kannada,ಶಬರಿಮಲೈ_ಸ್ವಾಮಿ_ಅಯ್ಯಪ್ಪ,ೇಶ್ವ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.580000000e-07,1.834000000e-06,22,1000,medium,non_matching,seconds
+KMP_kannada_1000_0164,kannada,ಕ್ರುಲಾಕ್-ಮೆಂಡೆನ್‌ಹಾಲ್_ಕಾರ್ಯಾಚರಣೆ,ಚೇತನಾ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,2.667000000e-06,33,1000,medium,non_matching,seconds
+KMP_kannada_1000_0165,kannada,ಘಾನಾ,ಾ_ಮೋಟ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,6.660000000e-07,5,1000,medium,non_matching,seconds
+KMP_kannada_1000_0166,kannada,ಜೋಗೇಶ್_ಚಂದ್ರ_ಚಟರ್ಜಿ,ಂದಾವನ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,1.750000000e-06,20,1000,medium,non_matching,seconds
+KMP_kannada_1000_0167,kannada,ಅಂಜಾ_ಸೋಫಿಯಾ_ಟೆಸ್_ಪಾರ್ಸನ್,ಪಕ್ಕ_(,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",6.250000000e-07,2.042000000e-06,25,1000,medium,non_matching,seconds
+KMP_kannada_1000_0168,kannada,ಕೌಮೋದಕಿ,ರ_ಶಾಸ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,7.500000000e-07,7,1000,medium,non_matching,seconds
+KMP_kannada_1000_0169,kannada,ಗದ್ದ,ಾರಿಸ್_,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.840000000e-07,5.840000000e-07,4,1000,medium,non_matching,seconds
+KMP_kannada_1000_0170,kannada,ಮಹಾತ್ಮ_ಕಬೀರ್_(೧೯೪೭),್ಮ_ಬ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",6.250000000e-07,2.125000000e-06,21,1000,medium,non_matching,seconds
+KMP_kannada_1000_0171,kannada,ಬಾಗಲಕೋಟ_ನಾಟಕ_ಪರಂಪರೆ,ಗಭದ್ರಾ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.830000000e-07,1.500000000e-06,20,1000,medium,non_matching,seconds
+KMP_kannada_1000_0172,kannada,ಅವ್ಯಾಪ್ಯ_ಶಿಲೆ,ಾಯುದ್ಧ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.830000000e-07,1.166000000e-06,14,1000,medium,non_matching,seconds
+KMP_kannada_1000_0173,kannada,ಶಪಥ_(ಚಲನಚಿತ್ರ),ರಾವಿಕ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,1.250000000e-06,15,1000,medium,non_matching,seconds
+KMP_kannada_1000_0174,kannada,ತಿಲಕ,ಕ್ರೇಜಿ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,5.000000000e-07,4,1000,medium,non_matching,seconds
+KMP_kannada_1000_0175,kannada,ಹೈದರಾಬಾದ_ಸಮಾಚಾರ,ಕಿತವ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.208000000e-06,15,1000,medium,non_matching,seconds
+KMP_kannada_1000_0176,kannada,ಜೋಡಿ_ನಂ.1_(ಕನ್ನಡ_ರಿಯಾಲಿಟೀ_ಶೋ),್_ಜಾಲ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,2.166000000e-06,30,1000,medium,non_matching,seconds
+KMP_kannada_1000_0177,kannada,ಗೊರಕೆ,ಅಗ್ನ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,5.410000000e-07,5,1000,medium,non_matching,seconds
+KMP_kannada_1000_0178,kannada,ಸುಂಕದಕಟ್ಟೆ_ಆನೆ_ಶಿಬಿರ,ಾನವ_ಮ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,1.459000000e-06,20,1000,medium,non_matching,seconds
+KMP_kannada_1000_0179,kannada,ಜೈಪುರ್,ಆಕಾರ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",3.750000000e-07,5.840000000e-07,6,1000,medium,non_matching,seconds
+KMP_kannada_1000_0180,kannada,ಅಫ್ರಿಕಾಖಂಡ,ಜಯನ್,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.160000000e-07,8.750000000e-07,10,1000,medium,non_matching,seconds
+KMP_kannada_1000_0181,kannada,ಇಹ,ಿಲ್ಡ್,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,3.750000000e-07,2,1000,medium,non_matching,seconds
+KMP_kannada_1000_0182,kannada,ಆಮ್ಲಗಳು_ಮತ್ತು_ಪ್ರತ್ಯಾಮ್ಲಗಳು,ಲ್_ಆರ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.170000000e-07,2.166000000e-06,29,1000,medium,non_matching,seconds
+KMP_kannada_1000_0183,kannada,ಉಪೋದ್ಘಾತ,ದ್ರ_ಹಾ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,8.750000000e-07,9,1000,medium,non_matching,seconds
+KMP_kannada_1000_0184,kannada,ಗುಂಪುಗಳು,ಕ್ಟೋಬ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,7.090000000e-07,8,1000,medium,non_matching,seconds
+KMP_kannada_1000_0185,kannada,ಸಿಪಾಯಿ,ಲ್ಲಿಕೋ,6,[],[],False,False,PASSED,"[0, 0, 1, 0, 0, 0]",6.670000000e-07,6.250000000e-07,6,1000,medium,non_matching,seconds
+KMP_kannada_1000_0186,kannada,ತಮಿಳುನಾಡಿನ_ಪಿ.ಜಯರಾಜ್_ಮತ್ತು_ಬೆನ್ನಿಕ್ಸ್_ಸಾಥನ್ಕುಲಂ_ಅವರ_ಬಂಧನದಲ್ಲಿ_ಸಾವು,ೆರಿಯಾ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,4.583000000e-06,67,1000,medium,non_matching,seconds
+KMP_kannada_1000_0187,kannada,ಕರ್ನಲ್_ಗಡ್ಡಾಫಿ,್ಡ್‌,4,[],[],False,False,PASSED,"[0, 0, 1, 0]",6.250000000e-07,1.666000000e-06,17,1000,medium,non_matching,seconds
+KMP_kannada_1000_0188,kannada,ಅಂತಾರಾಷ್ಟ್ರೀಯ_ಆರ್ಥಿಕ_ಸಂಘಗಳು,ೆಲ್ಸ್,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.420000000e-07,2.167000000e-06,27,1000,medium,non_matching,seconds
+KMP_kannada_1000_0189,kannada,ಕಾಳಗಿ,ಟ್_ಬ್,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,5.830000000e-07,5,1000,medium,non_matching,seconds
+KMP_kannada_1000_0190,kannada,ಕಾಮನ್ವೆಲ್ತ್_ಕ್ರೀಡಾಕೂಟ,ಾ_ಚಕ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.750000000e-06,23,1000,medium,non_matching,seconds
+KMP_kannada_1000_0191,kannada,ಮ್ಲೇಚ್ಛ,್_ಆಳ್ವ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0]",6.670000000e-07,8.750000000e-07,9,1000,medium,non_matching,seconds
+KMP_kannada_1000_0192,kannada,ಸಂಪೀಡಿತ_ವಾಯು,_ಶಿಕ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.160000000e-07,1.042000000e-06,13,1000,medium,non_matching,seconds
+KMP_kannada_1000_0193,kannada,ರಣ_ಹದ್ದು,ವೆಂಕಟ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,8.330000000e-07,8,1000,medium,non_matching,seconds
+KMP_kannada_1000_0194,kannada,ರಾಜಕೀಯ_ಒಕ್ಕೂಟ,F.C.,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",3.750000000e-07,1.000000000e-06,13,1000,medium,non_matching,seconds
+KMP_kannada_1000_0195,kannada,ಮಹಾನಂದಿ,ಿಮಾದೇವ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.840000000e-07,7.090000000e-07,7,1000,medium,non_matching,seconds
+KMP_kannada_1000_0196,kannada,ಮಾತೃವಾತ್ಸಲ್ಯ_(ಚಲನಚಿತ್ರ),ನ್‌ನ_ರ,6,[],[],False,False,PASSED,"[0, 0, 0, 1, 0, 0]",6.670000000e-07,1.833000000e-06,24,1000,medium,non_matching,seconds
+KMP_kannada_1000_0197,kannada,ಟೆಸ್ಲಾ_ಇಂಕ್,೧೬೨೧,4,[],[],False,False,PASSED,"[0, 0, 0, 1]",4.590000000e-07,9.590000000e-07,11,1000,medium,non_matching,seconds
+KMP_kannada_1000_0198,kannada,ಫೆಮಿನಾ,ಹ್ಮಣರ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,6.250000000e-07,6,1000,medium,non_matching,seconds
+KMP_kannada_1000_0199,kannada,ಥಾಮಸ್_ರಾಬರ್ಟ್_ಮಾಲ್ಥಸ್,ಭೂಮಿ_(,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,1.542000000e-06,21,1000,medium,non_matching,seconds
+KMP_kannada_1000_0200,kannada,ಚಿಪ್ಪುಹಂದಿ,ತ್ತಿ,4,[],[],False,False,PASSED,"[0, 0, 1, 0]",5.420000000e-07,8.340000000e-07,10,1000,medium,non_matching,seconds
+KMP_kannada_1000_0201,kannada,ಸಂಚು_(ಚಲನಚಿತ್ರ),ಂಚು_(ಚಲನಚಿ,10,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.375000000e-06,15,1000,long,matching,seconds
+KMP_kannada_1000_0202,kannada,ಸಾಂಸ್ಥಿಕ_ನಡುವಳಿಕೆಯ_ಸಿದ್ಧಾಂತ,ಥಿಕ_ನಡು,7,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,2.084000000e-06,27,1000,long,matching,seconds
+KMP_kannada_1000_0203,kannada,ಶಿಲಾ_ಮೆಹ್ತಾ,ಲಾ_ಮೆಹ್,7,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,1.083000000e-06,11,1000,long,matching,seconds
+KMP_kannada_1000_0204,kannada,ಗಣರಾಜ್ಯೋತ್ಸವ,ಾಜ್ಯೋತ್ಸವ,9,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.167000000e-06,12,1000,long,matching,seconds
+KMP_kannada_1000_0205,kannada,ಸೀಸಪದ್ಯ,ಸೀಸಪದ್ಯ,7,[0],[0],True,True,PASSED,"[0, 0, 1, 0, 0, 0, 0]",7.090000000e-07,8.340000000e-07,7,1000,long,matching,seconds
+KMP_kannada_1000_0206,kannada,ಸೋಸಲೆ_ಅಯ್ಯಾಶಾಸ್ತ್ರಿ,ಯ್ಯಾಶಾಸ್ತ,9,[7],[7],True,True,PASSED,"[0, 0, 1, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.583000000e-06,19,1000,long,matching,seconds
+KMP_kannada_1000_0207,kannada,ಡರ್ಮ್‍ಸ್ಟಾಡ್ಟಿಯಮ್,ಮ್‍ಸ್ಟಾಡ,8,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",7.090000000e-07,1.459000000e-06,17,1000,long,matching,seconds
+KMP_kannada_1000_0208,kannada,ದೇಶ_ಕಾಲ_(ತ್ರೈಮಾಸಿಕ),_ಕಾಲ_(ತ್,8,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0]",7.920000000e-07,1.500000000e-06,19,1000,long,matching,seconds
+KMP_kannada_1000_0209,kannada,ಪಾತಾಳ_ಮೋಹಿನಿ_(ಚಲನಚಿತ್ರ),(ಚಲನಚಿತ,7,[13],[13],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.840000000e-07,1.750000000e-06,23,1000,long,matching,seconds
+KMP_kannada_1000_0210,kannada,ಜೋಗಿ_(ಚಲನಚಿತ್ರ),_(ಚಲನಚಿತ್,9,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.090000000e-07,1.334000000e-06,15,1000,long,matching,seconds
+KMP_kannada_1000_0211,kannada,ಸಿಂಹಿಕಾ,ಸಿಂಹಿಕಾ,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.660000000e-07,7.920000000e-07,7,1000,long,matching,seconds
+KMP_kannada_1000_0212,kannada,ಸುಶೀಲಾ_ಆಚಾರ್ಯ,ುಶೀಲಾ_ಆಚಾ,9,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,1.250000000e-06,13,1000,long,matching,seconds
+KMP_kannada_1000_0213,kannada,ಬೊಂಬಾಟ್_ಹುಡುಗ,ಬಾಟ್_ಹುಡುಗ,10,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.292000000e-06,14,1000,long,matching,seconds
+KMP_kannada_1000_0214,kannada,ಸಮತಾವಾದ,ಸಮತಾವಾದ,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,7.910000000e-07,7,1000,long,matching,seconds
+KMP_kannada_1000_0215,kannada,ಜೋಸೆಫ್_ಹೆನ್ರಿ,ಜೋಸೆಫ್_,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.840000000e-07,1.208000000e-06,13,1000,long,matching,seconds
+KMP_kannada_1000_0216,kannada,ಸಿಟಿಬ್ಯಾಂಕ್_ಇಂಡಿಯಾ,ಿಬ್ಯಾಂಕ್,8,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",7.090000000e-07,1.792000000e-06,20,1000,long,matching,seconds
+KMP_kannada_1000_0217,kannada,ಟಾಟಾ_ಗ್ರೂಪ್,ಟಾ_ಗ್ರೂಪ,8,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.334000000e-06,12,1000,long,matching,seconds
+KMP_kannada_1000_0218,kannada,ಐ.ಎನ್.ಎಸ್_ಮಗರ್_(ಎಲ್೨೦),ಎಸ್_ಮಗರ್_,9,[6],[6],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,2.041000000e-06,24,1000,long,matching,seconds
+KMP_kannada_1000_0219,kannada,ಬಲರಾಮಪುರಂ,ಬಲರಾಮಪುರಂ,9,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,9.580000000e-07,9,1000,long,matching,seconds
+KMP_kannada_1000_0220,kannada,ನಾರ್ಮನ್_ಜೋಸೆಫ್_ವುಡ್ಲ್ಯಾಂಡ್,ಮನ್_ಜೋಸೆಫ,9,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,2.083000000e-06,26,1000,long,matching,seconds
+KMP_kannada_1000_0221,kannada,ಕರ್ನಾಟಕದ_ತಿನಿಸುಗಳು,ಾಟಕದ_ತಿನಿ,9,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,1.542000000e-06,18,1000,long,matching,seconds
+KMP_kannada_1000_0222,kannada,ಥಾಮಸ್_ರಾಬರ್ಟ್_ಮಾಲ್ಥಸ್,ಥಾಮಸ್_ರಾಬರ,10,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.875000000e-06,22,1000,long,matching,seconds
+KMP_kannada_1000_0223,kannada,ಮಣಂಕಲಗಿ,ಮಣಂಕಲಗಿ,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,8.330000000e-07,7,1000,long,matching,seconds
+KMP_kannada_1000_0224,kannada,ಉಕ್ರೇನ್‌ನ_ರಾಜಕೀಯ,‌ನ_ರಾಜಕೀ,8,[7],[7],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.417000000e-06,16,1000,long,matching,seconds
+KMP_kannada_1000_0225,kannada,ಕಣಗಾಲ್_ಪುಟ್ಟಣ್ಣ,ಣಗಾಲ್_ಪುಟ್,10,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.500000000e-06,16,1000,long,matching,seconds
+KMP_kannada_1000_0226,kannada,ನರೇಂದ್ರ_ರೈ_ದೇರ್ಲ,ರೇಂದ್ರ_ರೈ,9,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 1, 0, 1, 0]",9.580000000e-07,1.541000000e-06,17,1000,long,matching,seconds
+KMP_kannada_1000_0227,kannada,ನಾಯಿ_ನೆರಳು,ನಾಯಿ_ನೆರಳು,10,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",9.170000000e-07,1.000000000e-06,10,1000,long,matching,seconds
+KMP_kannada_1000_0228,kannada,ಆಂಡ್ರೊಮಿಡ,ಆಂಡ್ರೊಮಿಡ,9,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,9.580000000e-07,9,1000,long,matching,seconds
+KMP_kannada_1000_0229,kannada,ಕೆ._ಎಸ್._ನಾರಾಯಣಾಚಾರ್ಯ,ಯಣಾಚಾರ್,7,[13],[13],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.840000000e-07,1.625000000e-06,21,1000,long,matching,seconds
+KMP_kannada_1000_0230,kannada,ರಂಜನ್_ಸೋಧಿ,ಜನ್_ಸೋಧ,7,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,9.580000000e-07,10,1000,long,matching,seconds
+KMP_kannada_1000_0231,kannada,ಎನ್.ಶಂಕರಯ್ಯ,್.ಶಂಕರಯ,7,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,1.167000000e-06,12,1000,long,matching,seconds
+KMP_kannada_1000_0232,kannada,ಉಸೇನ್_ಬೋಲ್ಟ್,ೇನ್_ಬೋಲ್,8,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.166000000e-06,12,1000,long,matching,seconds
+KMP_kannada_1000_0233,kannada,ವೇಲುಪಿಳ್ಳೈ_ಪ್ರಭಾಕರನ್,ಿಳ್ಳೈ_ಪ,7,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,1.625000000e-06,20,1000,long,matching,seconds
+KMP_kannada_1000_0234,kannada,ಲೆಫ್ಟಿನಂಟ್_ಜನರಲ್_ಅಪ್ಪಾರಂಡ_ಸಿ_ಅಯ್ಯಪ್ಪ,_ಜನರಲ್_ಅಪ್,10,[10],[10],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",9.170000000e-07,2.708000000e-06,38,1000,long,matching,seconds
+KMP_kannada_1000_0235,kannada,ಲಾರ್ಜ್_ಹ್ಯಾಡ್ರಾನ್_ಕೊಲೈಡರ್,ರ್ಜ್_ಹ್,7,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,2.125000000e-06,26,1000,long,matching,seconds
+KMP_kannada_1000_0236,kannada,"ಕೇದಾರೇಶ್ವರ_ದೇವಸ್ಥಾನ,_ಹಳೇಬೀಡು",ವರ_ದೇವಸ್ಥಾ,10,[8],[8],True,True,PASSED,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",9.580000000e-07,2.125000000e-06,28,1000,long,matching,seconds
+KMP_kannada_1000_0237,kannada,ಶಕ್ತಿ_(ಹಿಂದೂ_ಧರ್ಮ),ಹಿಂದೂ_ಧರ್ಮ,10,[7],[7],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.910000000e-07,1.500000000e-06,18,1000,long,matching,seconds
+KMP_kannada_1000_0238,kannada,ಸೂಕ್ಷ್ಮಜೀವಶಾಸ್ತ್ರ,್ಷ್ಮಜೀವಶ,8,[3],[3],True,True,PASSED,"[0, 0, 1, 0, 0, 0, 0, 0]",7.910000000e-07,1.625000000e-06,19,1000,long,matching,seconds
+KMP_kannada_1000_0239,kannada,ಹ್ಯಾಲೋವೀನ್_ಜೋನ್_ಮಾರ್ಟಿನ್,ಯಾಲೋವೀನ್_ಜ,10,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.916000000e-06,24,1000,long,matching,seconds
+KMP_kannada_1000_0240,kannada,ಅಧಿಕ_ಮಾಸ,ಅಧಿಕ_ಮಾಸ,8,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,8.750000000e-07,8,1000,long,matching,seconds
+KMP_kannada_1000_0241,kannada,ಹ್ಯಾರಿ_ಪಾಟರ್,ಹ್ಯಾರಿ_ಪಾ,9,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.250000000e-06,12,1000,long,matching,seconds
+KMP_kannada_1000_0242,kannada,ಐ.ಎನ್.ಎಸ್_ಮಗರ್_(ಎಲ್೨೦),್.ಎಸ್_ಮ,7,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 1, 0, 0]",8.330000000e-07,2.208000000e-06,24,1000,long,matching,seconds
+KMP_kannada_1000_0243,kannada,ಬಿಪಿನ್_ಚಂದ್ರ_ಪಾಲ್,ಬಿಪಿನ್_ಚಂದ,10,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.910000000e-07,1.583000000e-06,17,1000,long,matching,seconds
+KMP_kannada_1000_0244,kannada,ಗೋವಾದ_ಜಿಲ್ಲೆಗಳು,ಾದ_ಜಿಲ್ಲೆಗ,10,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.910000000e-07,1.333000000e-06,15,1000,long,matching,seconds
+KMP_kannada_1000_0245,kannada,ಅಶ್ವತಿ_ಪಿಳ್ಳೈ,ಅಶ್ವತಿ_ಪ,8,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.167000000e-06,13,1000,long,matching,seconds
+KMP_kannada_1000_0246,kannada,ಲೀ_ಬ್ಯುಂಗ್-ಹುನ್,ಯುಂಗ್-ಹುನ್,10,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.340000000e-07,1.334000000e-06,15,1000,long,matching,seconds
+KMP_kannada_1000_0247,kannada,ಹ್ಯೂಗೋ_ಮೇರಿ_ಡಿ_ವ್ರೈಸ್,್ಯೂಗೋ_ಮೇರ,9,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.834000000e-06,22,1000,long,matching,seconds
+KMP_kannada_1000_0248,kannada,ಆರನ್ಮುಲ_ಪಾರ್ಥಸಾರಥಿ_ದೇವಸ್ಥಾನ,ಸಾರಥಿ_ದೇ,8,[13],[13],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,2.209000000e-06,28,1000,long,matching,seconds
+KMP_kannada_1000_0249,kannada,ಇಳಕಲ್_ಸೀರೆ,ಕಲ್_ಸೀರೆ,8,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.000000000e-06,10,1000,long,matching,seconds
+KMP_kannada_1000_0250,kannada,ಸೈಬರ್‌ನೆಟಿಕ್ಸ್,ಸೈಬರ್‌ನೆಟಿ,10,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.375000000e-06,15,1000,long,matching,seconds
+KMP_kannada_1000_0251,kannada,ಬರೋಡಾ,"ೆ,_ಬೆಂಗಳೂ",9,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0, 0]",8.330000000e-07,5.000000000e-07,5,1000,long,non_matching,seconds
+KMP_kannada_1000_0252,kannada,ಪಂಜಾಬ್_ಆಂಡ್_ಸಿಂಧ್_ಬ್ಯಾಂಕ್,ಲನಚಿತ್ರ),8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.792000000e-06,25,1000,long,non_matching,seconds
+KMP_kannada_1000_0253,kannada,ಶ್ಯಾಮಲಾ_ಮಾಧವ,್ಮಿಗನೂರ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.084000000e-06,13,1000,long,non_matching,seconds
+KMP_kannada_1000_0254,kannada,"ಹೊಸ್ಪೇಟೆ,_ಚರ್ಚ್",ಅನುಕ್ರೋಶ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,1.167000000e-06,15,1000,long,non_matching,seconds
+KMP_kannada_1000_0255,kannada,ಪೌಡರ್_(ಚಲನಚಿತ್ರ),ಣ_ಹದ್ದು,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,1.208000000e-06,16,1000,long,non_matching,seconds
+KMP_kannada_1000_0256,kannada,ಹುಮಾಯೂನ್,ೇನುಪ್ರಪಂಚ,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,7.500000000e-07,8,1000,long,non_matching,seconds
+KMP_kannada_1000_0257,kannada,ಹಕ್ಕಿಪಿಕ್ಕಿ,ಗಿಲ್ಬರ್ಟ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",7.090000000e-07,9.170000000e-07,11,1000,long,non_matching,seconds
+KMP_kannada_1000_0258,kannada,ಜನಪದ_ಆಭರಣಗಳು,ರಂಜನ್_ಸೋ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,1.042000000e-06,13,1000,long,non_matching,seconds
+KMP_kannada_1000_0259,kannada,ಅಗ್ನಿಮಾಂದ್ಯ,ಿಕ್ರಮ್_(ನಟ,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.042000000e-06,12,1000,long,non_matching,seconds
+KMP_kannada_1000_0260,kannada,ಜಾತಕ,ಬೆಟ್ಟದ_ಜೀವ,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.910000000e-07,5.000000000e-07,4,1000,long,non_matching,seconds
+KMP_kannada_1000_0261,kannada,ಅಡಿಲೇಡ್,ಸ್ತ್ರಿ_(ಚಲ,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,6.670000000e-07,7,1000,long,non_matching,seconds
+KMP_kannada_1000_0262,kannada,ಕೂರ್ಗ್_ರಾಜ್ಯ,ಅನುಕ್ರೋ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,9.580000000e-07,12,1000,long,non_matching,seconds
+KMP_kannada_1000_0263,kannada,ಕಬ್ಬಿಣ_ಮತ್ತು_ಉಕ್ಕಿನ_ಕಾರ್ಕಾನೆ,್ಕಿಪಿಕ್ಕ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 1, 2]",7.500000000e-07,2.417000000e-06,32,1000,long,non_matching,seconds
+KMP_kannada_1000_0264,kannada,ಎಮಕೆ,ಅನುಕ್ರೋಶ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,5.000000000e-07,4,1000,long,non_matching,seconds
+KMP_kannada_1000_0265,kannada,ಕುನಾಲ್,ಹಡಗಿನಾಳ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,5.840000000e-07,6,1000,long,non_matching,seconds
+KMP_kannada_1000_0266,kannada,ಹಾಂಗ್_ಕಾಂಗ್_ಸ್ಟಾಕ್_ವಿನಿಮಯ,ಕಾಟಕ_ರಾ,7,[],[],False,False,PASSED,"[0, 0, 0, 1, 0, 0, 0]",7.080000000e-07,2.042000000e-06,27,1000,long,non_matching,seconds
+KMP_kannada_1000_0267,kannada,ಮಹಿಳಾ_ಟೆಸ್ಟ್_ಕ್ರಿಕೆಟ್,ುವನೇಶ್ವರ್‌,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.590000000e-07,1.709000000e-06,21,1000,long,non_matching,seconds
+KMP_kannada_1000_0268,kannada,ಶ್ರೀನಿವಾಸ_ಹಾವನೂರು,ಮ_ದೇವಸ್ಥಾ,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",8.340000000e-07,1.417000000e-06,17,1000,long,non_matching,seconds
+KMP_kannada_1000_0269,kannada,೨೦೧೪_ಏಷ್ಯನ್_ಕ್ರೀಡಾಕೂಟ,್ಡ್_ಎಚ್._,9,[],[],False,False,PASSED,"[0, 0, 1, 0, 0, 0, 1, 0, 0]",9.580000000e-07,1.834000000e-06,24,1000,long,non_matching,seconds
+KMP_kannada_1000_0270,kannada,ಕೆನ್ನಾಯಿ,ಧನದಲ್ಲಿ_ಸ,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,7.500000000e-07,8,1000,long,non_matching,seconds
+KMP_kannada_1000_0271,kannada,"ಉಡುಪಿನ_ಉದ್ಯಮ,_ಮಾರಾಟ",ಲ್ತಾನಿ_,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,1.375000000e-06,19,1000,long,non_matching,seconds
+KMP_kannada_1000_0272,kannada,ಸಾಸಬಾಳ,ರ್ನಾಟಕದ_ನ,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,5.840000000e-07,6,1000,long,non_matching,seconds
+KMP_kannada_1000_0273,kannada,ಆಂಡ್ರೊಮಿಡ,ಕ್ರೀಡೆಗಳು,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,7.920000000e-07,9,1000,long,non_matching,seconds
+KMP_kannada_1000_0274,kannada,ಹಿಂದೂ_ಸುಧಾರಣಾ_ಚಳುವಳಿಗಳು,ಕಾರ್ಕಳ_ಶ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0]",1.042000000e-06,2.084000000e-06,23,1000,long,non_matching,seconds
+KMP_kannada_1000_0275,kannada,ಅರ್ನ್_ಬರಿಯಲ್,"_ಚುನಾವಣೆ,_",10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",7.910000000e-07,1.041000000e-06,13,1000,long,non_matching,seconds
+KMP_kannada_1000_0276,kannada,ಅರೋರ,ಂತಾಲಿ_ಭಾಷ,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,5.000000000e-07,4,1000,long,non_matching,seconds
+KMP_kannada_1000_0277,kannada,"ಆಸ್ತಿಕ_ಸಮಾಜ,_ಮಾಟುಂಗ,_ಮುಂಬೈ-೧೯",ಕಾಡಿನ_ರ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,2.125000000e-06,30,1000,long,non_matching,seconds
+KMP_kannada_1000_0278,kannada,ಪೂಜಾ_ಕುಣಿತ,ಲಿತಾಂಬ_ವೃ,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,8.750000000e-07,10,1000,long,non_matching,seconds
+KMP_kannada_1000_0279,kannada,ಅಗ್ನಿಮಾಂದ್ಯ,ಕ_ನಡುವಳ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,9.170000000e-07,11,1000,long,non_matching,seconds
+KMP_kannada_1000_0280,kannada,ಕೋಫಿ_ಅನ್ನಾನ್,ಸಂಧಿ_ದೋ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,9.580000000e-07,12,1000,long,non_matching,seconds
+KMP_kannada_1000_0281,kannada,ಕರ್ನಾಟಕದ_ರಾಜ್ಯಪಾಲರುಗಳ_ಪಟ್ಟಿ,ಕ್ರೀಡಾಕೂಟ,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0]",8.750000000e-07,2.125000000e-06,29,1000,long,non_matching,seconds
+KMP_kannada_1000_0282,kannada,ನಾ.ಡಿಸೋಜಾ,ಡೆಬಿಯನ್,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,9.170000000e-07,10,1000,long,non_matching,seconds
+KMP_kannada_1000_0283,kannada,ಅಂತರ್‌ಚತುರ್ಥಕ_ವ್ಯಾಪ್ತಿ,್ಧವ್_ಭರಾಲ,9,[],[],False,False,PASSED,"[0, 0, 0, 1, 0, 0, 0, 0, 0]",8.340000000e-07,2.042000000e-06,26,1000,long,non_matching,seconds
+KMP_kannada_1000_0284,kannada,ಸಾವರಕರ್,ೂಪಾಲ್_ತೋ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,6.660000000e-07,7,1000,long,non_matching,seconds
+KMP_kannada_1000_0285,kannada,ಭಾರತದ_ಸೇನೆ,ಚರ್ಡ್_ಎಚ್,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 1, 0]",8.750000000e-07,8.330000000e-07,10,1000,long,non_matching,seconds
+KMP_kannada_1000_0286,kannada,ಕರೆಂಪುಡಿ,ಯೂಯಾರ್ಕ_ನಗ,10,[],[],False,False,PASSED,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,7.090000000e-07,8,1000,long,non_matching,seconds
+KMP_kannada_1000_0287,kannada,ಅಕ್ಕ_ಪಕ್ಕ_(ಚಲನಚಿತ್ರ),ಟಾಲಂಪ್ರಾ_,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.500000000e-06,20,1000,long,non_matching,seconds
+KMP_kannada_1000_0288,kannada,ಅಬ್ದುಲ್ಲಾ_ಝಕಿರೋವ್,ು_ಮತ್ತು_ಪ್,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 1, 2, 0, 0]",9.160000000e-07,1.417000000e-06,18,1000,long,non_matching,seconds
+KMP_kannada_1000_0289,kannada,ಬೆಂಗಳೂರು_ಗಾಯನ_ಸಮಾಜ,್ಟು_ವರಿ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,1.333000000e-06,18,1000,long,non_matching,seconds
+KMP_kannada_1000_0290,kannada,ಬಿ.ವಿ.ಭೂಮರಡ್ಡಿ_ತಾಂತ್ರಿಕ_ಮತ್ತು_ಅಭಿಯಾಂತ್ರಿಕ_ಮಹಾವಿದ್ಯಾಲಯ,ುಡಿದ_ತಾವರೆ,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,3.667000000e-06,54,1000,long,non_matching,seconds
+KMP_kannada_1000_0291,kannada,ವಿಂಡೋಸ್‌‌_೮,್_ಕ್ರಿಕೆಟ,9,[],[],False,False,PASSED,"[0, 0, 0, 1, 0, 0, 0, 0, 0]",1.000000000e-06,1.083000000e-06,12,1000,long,non_matching,seconds
+KMP_kannada_1000_0292,kannada,ಗೀತಿಕೆ,್_ಕೊಲೈಡರ್,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 1]",7.920000000e-07,6.670000000e-07,6,1000,long,non_matching,seconds
+KMP_kannada_1000_0293,kannada,ಇಗರ್ಜಿ,್ರಮ್_(ನಟ),9,[],[],False,False,PASSED,"[0, 0, 0, 1, 0, 0, 0, 0, 0]",7.910000000e-07,7.080000000e-07,7,1000,long,non_matching,seconds
+KMP_kannada_1000_0294,kannada,ನಗರ,ತ್ಮಸಂಯಮ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.840000000e-07,4.170000000e-07,3,1000,long,non_matching,seconds
+KMP_kannada_1000_0295,kannada,ನೌಕಾಪಡೆಯ_ದಿನ,‌ಚತುರ್ಥಕ_ವ,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.000000000e-06,12,1000,long,non_matching,seconds
+KMP_kannada_1000_0296,kannada,ಮಾರ್ವೆಲ್_ಕಾಮಿಕ್ಸ್,ಭಿನ್ನಾಂ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.291000000e-06,17,1000,long,non_matching,seconds
+KMP_kannada_1000_0297,kannada,ಒಪೆಕ್,ಡ್_ಓವೆನ್,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,5.420000000e-07,5,1000,long,non_matching,seconds
+KMP_kannada_1000_0298,kannada,ಮೈಸೂರು_ಮಿತ್ರ,ಕಂಬೋಡಿಯ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,1.000000000e-06,12,1000,long,non_matching,seconds
+KMP_kannada_1000_0299,kannada,ಕೊಮ್ರಂ_ಭೀಮ್_ಅಸಿಫಾಬಾದ್_ಜಿಲ್ಲೆ,ಧರಣಿದೇವಿ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.660000000e-07,1.958000000e-06,28,1000,long,non_matching,seconds
+KMP_kannada_1000_0300,kannada,ಹಿಮಾಲಯ,ರಮದಾನ್‌,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,5.830000000e-07,6,1000,long,non_matching,seconds
+KMP_kannada_1000_0301,kannada,ಮಹಾಲಕ್ಷ್ಮಿ_(ನಟಿ),ಹಾಲಕ್ಷ್ಮಿ_(ನಟಿ,14,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.083000000e-06,1.458000000e-06,16,1000,very_long,matching,seconds
+KMP_kannada_1000_0302,kannada,ಪೂರ್ಣಿಮಾ_ಮಹತೋ,ಪೂರ್ಣಿಮಾ_ಮಹತೋ,13,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.208000000e-06,13,1000,very_long,matching,seconds
+KMP_kannada_1000_0303,kannada,ಮಾರ್ವೆಲ್_ಕಾಮಿಕ್ಸ್,ಮಾರ್ವೆಲ್_ಕಾ,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.625000000e-06,18,1000,very_long,matching,seconds
+KMP_kannada_1000_0304,kannada,ಉಪ್ಪುನೀರಿನ_ಮಾವಿನಕಾಯಿ_ಚಟ್ನಿ,್ಪುನೀರಿನ_ಮಾವಿ,13,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,2.208000000e-06,27,1000,very_long,matching,seconds
+KMP_kannada_1000_0305,kannada,ಅಗ್ನಿ_ಸಾಕ್ಷಿ_(ಧಾರಾವಾಹಿ),_(ಧಾರಾವಾಹಿ),11,[12],[12],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.340000000e-07,1.833000000e-06,24,1000,very_long,matching,seconds
+KMP_kannada_1000_0306,kannada,ಎಲೆಕ್ಟ್ರಿಕ್_ಫ಼್ಯೂಸ್,್ಟ್ರಿಕ್_ಫ಼್,11,[4],[4],True,True,PASSED,"[0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1]",1.084000000e-06,1.750000000e-06,20,1000,very_long,matching,seconds
+KMP_kannada_1000_0307,kannada,ಕುಲೋತ್ತುಂಗ_ಚೋಳ-೧,ುಲೋತ್ತುಂಗ_ಚೋಳ-೧,15,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",1.250000000e-06,1.458000000e-06,16,1000,very_long,matching,seconds
+KMP_kannada_1000_0308,kannada,ಲೂಯಿಸ್_ಜಾಕಸ್_ಥೆನಾರ್ಡ್,ಲೂಯಿಸ್_ಜಾಕಸ್_ಥ,14,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.750000000e-06,21,1000,very_long,matching,seconds
+KMP_kannada_1000_0309,kannada,ರೋಬಾಟ್(ನೃತ್ಯ),ೋಬಾಟ್(ನೃತ್ಯ),12,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,1.250000000e-06,13,1000,very_long,matching,seconds
+KMP_kannada_1000_0310,kannada,ಪಾತಾಳ_ಮೋಹಿನಿ_(ಚಲನಚಿತ್ರ),ಿನಿ_(ಚಲನಚಿತ,11,[9],[9],True,True,PASSED,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]",1.041000000e-06,1.875000000e-06,23,1000,very_long,matching,seconds
+KMP_kannada_1000_0311,kannada,ವಿದ್ಯಾ_ಕೃಷ್ಣನ್,ಿದ್ಯಾ_ಕೃಷ್ಣನ್,13,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.042000000e-06,1.333000000e-06,14,1000,very_long,matching,seconds
+KMP_kannada_1000_0312,kannada,ಧರಣಿದೇವಿ_ಮಾಲಗತ್ತಿ,ಧರಣಿದೇವಿ_ಮಾ,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.500000000e-06,17,1000,very_long,matching,seconds
+KMP_kannada_1000_0313,kannada,ನೆದರ್ಲ್ಯಾಂಡ್ಸ್,ನೆದರ್ಲ್ಯಾಂಡ,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.291000000e-06,14,1000,very_long,matching,seconds
+KMP_kannada_1000_0314,kannada,ಹಕೀಂ_ಅಜ್ಮಲ್_ಖಾನ್,ಹಕೀಂ_ಅಜ್ಮಲ್_ಖ,13,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.590000000e-07,1.417000000e-06,16,1000,very_long,matching,seconds
+KMP_kannada_1000_0315,kannada,ತಾಯಿಗೊಬ್ಬ_ಕರ್ಣ_(ಚಲನಚಿತ್ರ),ಬ_ಕರ್ಣ_(ಚಲನಚಿ,13,[8],[8],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,2.125000000e-06,26,1000,very_long,matching,seconds
+KMP_kannada_1000_0316,kannada,"ಕೇದಾರೇಶ್ವರ_ದೇವಸ್ಥಾನ,_ಹಳೇಬೀಡು","ೇವಸ್ಥಾನ,_ಹಳೇ",12,[12],[12],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",1.000000000e-06,2.458000000e-06,31,1000,very_long,matching,seconds
+KMP_kannada_1000_0317,kannada,ಮತಿಘಟ್ಟ_ಕೃಷ್ಣಮೂರ್ತಿ,್ಟ_ಕೃಷ್ಣಮೂರ್,12,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]",1.083000000e-06,1.666000000e-06,20,1000,very_long,matching,seconds
+KMP_kannada_1000_0318,kannada,ಸುಧೀಂದ್ರ_ಹಾಲ್ದೊಡ್ಡೇರಿ,ರ_ಹಾಲ್ದೊಡ್ಡೇರಿ,14,[7],[7],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",1.167000000e-06,1.750000000e-06,21,1000,very_long,matching,seconds
+KMP_kannada_1000_0319,kannada,ಟೆಸ್ಲಾ_ಇಂಕ್,ಟೆಸ್ಲಾ_ಇಂಕ್,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.084000000e-06,11,1000,very_long,matching,seconds
+KMP_kannada_1000_0320,kannada,ಪಂಜಾಬ್_ಆಂಡ್_ಸಿಂಧ್_ಬ್ಯಾಂಕ್,ಾಬ್_ಆಂಡ್_ಸಿಂಧ,13,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,2.083000000e-06,26,1000,very_long,matching,seconds
+KMP_kannada_1000_0321,kannada,ಎಲೆಕ್ಟ್ರಿಕ್_ಫ಼್ಯೂಸ್,ಲೆಕ್ಟ್ರಿಕ್_ಫ,12,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,1.625000000e-06,19,1000,very_long,matching,seconds
+KMP_kannada_1000_0322,kannada,ಸುಶೀಲಾ_ಆಚಾರ್ಯ,ಶೀಲಾ_ಆಚಾರ್ಯ,11,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,1.292000000e-06,13,1000,very_long,matching,seconds
+KMP_kannada_1000_0323,kannada,ಡಿಸೆಂಬರ್_೨೧,ಡಿಸೆಂಬರ್_೨೧,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.125000000e-06,11,1000,very_long,matching,seconds
+KMP_kannada_1000_0324,kannada,ಸ್ಥಿರ_ಠೇವಣಿ_ಖಾತೆ,ಸ್ಥಿರ_ಠೇವಣಿ_ಖಾತ,15,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.125000000e-06,1.542000000e-06,16,1000,very_long,matching,seconds
+KMP_kannada_1000_0325,kannada,ಹಳದಿ_ನೋಂದಣಿಗಳು,ಹಳದಿ_ನೋಂದಣಿಗಳು,14,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.291000000e-06,14,1000,very_long,matching,seconds
+KMP_kannada_1000_0326,kannada,ಮಾಹಿಮ್_ಕೋಟೆ,ಮಾಹಿಮ್_ಕೋಟೆ,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",9.590000000e-07,1.167000000e-06,11,1000,very_long,matching,seconds
+KMP_kannada_1000_0327,kannada,ಆಲ್ಬರ್ಟ್_ಎ.ಮೈಕೆಲ್‍ಸನ್,್_ಎ.ಮೈಕೆಲ್‍ಸನ್,14,[7],[7],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1]",1.208000000e-06,2.000000000e-06,23,1000,very_long,matching,seconds
+KMP_kannada_1000_0328,kannada,ರಾಜನಹಳ್ಳಿ_ಹನುಮಂತಪ್ಪ,ಹಳ್ಳಿ_ಹನುಮಂತಪ,13,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",1.083000000e-06,1.625000000e-06,19,1000,very_long,matching,seconds
+KMP_kannada_1000_0329,kannada,ಕೋಲಾರ_ಜಿಲ್ಲೆ,ಕೋಲಾರ_ಜಿಲ್ಲ,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.125000000e-06,12,1000,very_long,matching,seconds
+KMP_kannada_1000_0330,kannada,ಲಾಲ_ಬಹದ್ದೂರ_ಶಾಸ್ತ್ರಿ_ಸಾಗರ,ಾಸ್ತ್ರಿ_ಸಾಗರ,12,[13],[13],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",1.041000000e-06,2.083000000e-06,26,1000,very_long,matching,seconds
+KMP_kannada_1000_0331,kannada,ಉಲಾನ್_ಬತೊರ್,ಉಲಾನ್_ಬತೊರ್,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.125000000e-06,11,1000,very_long,matching,seconds
+KMP_kannada_1000_0332,kannada,ಟ್ರ್ಯಾನ್ಸ್‌ವಾಲ್,ಟ್ರ್ಯಾನ್ಸ್‌ವಾಲ್,15,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.292000000e-06,1.458000000e-06,15,1000,very_long,matching,seconds
+KMP_kannada_1000_0333,kannada,ಪಿ._ಕೋದಂಡ_ರಾವ್,ಪಿ._ಕೋದಂಡ_ರಾವ್,14,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.166000000e-06,1.375000000e-06,14,1000,very_long,matching,seconds
+KMP_kannada_1000_0334,kannada,ಸುಜಾತಾ_ಸ್ತೂಪ,ಸುಜಾತಾ_ಸ್ತೂಪ,12,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",1.083000000e-06,1.167000000e-06,12,1000,very_long,matching,seconds
+KMP_kannada_1000_0335,kannada,ಚಿತ್ರಾ_ನಾಯ್ಕ್,ಚಿತ್ರಾ_ನಾಯ್,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.208000000e-06,13,1000,very_long,matching,seconds
+KMP_kannada_1000_0336,kannada,ಸಂಗೀತ_ಕಛೇರಿ,ಸಂಗೀತ_ಕಛೇರಿ,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.340000000e-07,1.042000000e-06,11,1000,very_long,matching,seconds
+KMP_kannada_1000_0337,kannada,ಝಮ್_ಝಮ್_(ಚಲನಚಿತ್ರ),ಝಮ್_(ಚಲನಚಿತ,11,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.625000000e-06,19,1000,very_long,matching,seconds
+KMP_kannada_1000_0338,kannada,ಗುರು_ಗ್ರಂಥ_ಸಾಹೀಬ,ುರು_ಗ್ರಂಥ_ಸಾಹೀ,14,[1],[1],True,True,PASSED,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.083000000e-06,1.458000000e-06,16,1000,very_long,matching,seconds
+KMP_kannada_1000_0339,kannada,ಲೀ_ಬ್ಯುಂಗ್-ಹುನ್,_ಬ್ಯುಂಗ್-ಹುನ,12,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.333000000e-06,15,1000,very_long,matching,seconds
+KMP_kannada_1000_0340,kannada,ಸುಪ್ರಿಯಾ_ಪಾಠಕ್,ುಪ್ರಿಯಾ_ಪಾಠಕ್,13,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.292000000e-06,14,1000,very_long,matching,seconds
+KMP_kannada_1000_0341,kannada,ಕುಬಿ_ಮತ್ತು_ಇಯಾಲ_(ಚಲನಚಿತ್ರ),ಇಯಾಲ_(ಚಲನಚಿ,11,[11],[11],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,2.084000000e-06,26,1000,very_long,matching,seconds
+KMP_kannada_1000_0342,kannada,ಆಲಿಗುಂ_ಕುಣಿತ,ಆಲಿಗುಂ_ಕುಣಿ,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.125000000e-06,12,1000,very_long,matching,seconds
+KMP_kannada_1000_0343,kannada,ಪುಣ್ಯ_ಪುರುಷ_(ಚಲನಚಿತ್ರ),ಣ್ಯ_ಪುರುಷ_(ಚಲನಚ,15,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.083000000e-06,1.833000000e-06,22,1000,very_long,matching,seconds
+KMP_kannada_1000_0344,kannada,ಇಂದಿನ_ಭಾರತ_(ಚಲನಚಿತ್ರ),ದಿನ_ಭಾರತ_(ಚ,11,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.708000000e-06,21,1000,very_long,matching,seconds
+KMP_kannada_1000_0345,kannada,ಮಾಂಗಲ್ಯ_ಬಂಧನ_(ಚಲನಚಿತ್ರ),ಗಲ್ಯ_ಬಂಧನ_(ಚಲ,13,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.590000000e-07,1.917000000e-06,23,1000,very_long,matching,seconds
+KMP_kannada_1000_0346,kannada,ಲಾರೆನ್ಸ್‌_ಪಿಯರ್ಸಾಲ್_ಜ್ಯಾಕ್ಸ್‌,್ಸಾಲ್_ಜ್ಯಾಕ್ಸ್,14,[14],[14],True,True,PASSED,"[0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 2, 1]",1.459000000e-06,2.583000000e-06,32,1000,very_long,matching,seconds
+KMP_kannada_1000_0347,kannada,ಕಾರ್ನಾಡ್_ಸದಾಶಿವ_ರಾವ್,್ನಾಡ್_ಸದಾಶಿವ_,13,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",1.083000000e-06,1.708000000e-06,20,1000,very_long,matching,seconds
+KMP_kannada_1000_0348,kannada,ಅನುರಾಗ_ಅರಳಿತು,ನುರಾಗ_ಅರಳಿತ,11,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.167000000e-06,13,1000,very_long,matching,seconds
+KMP_kannada_1000_0349,kannada,ಟಾಟಾ_ಗ್ರೂಪ್,ಟಾಟಾ_ಗ್ರೂಪ್,11,[0],[0],True,True,PASSED,"[0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,1.083000000e-06,11,1000,very_long,matching,seconds
+KMP_kannada_1000_0350,kannada,೨೦೧೮_ಕಾಮನ್‍ವೆಲ್ತ್_ಕ್ರೀಡಾಕೂಟದಲ್ಲಿ_ಭಾರತ,ೂಟದಲ್ಲಿ_ಭಾರತ,12,[25],[25],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.160000000e-07,2.750000000e-06,37,1000,very_long,matching,seconds
+KMP_kannada_1000_0351,kannada,ಗೀತಿಕೆ,"ಟ್ಲ್ಯಾಂಡ್,_",11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,5.830000000e-07,6,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0352,kannada,ಸೈಬರ್‌ನೆಟಿಕ್ಸ್,ಗ್ರಾನ್ಯುಲೋಮ_,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,1.084000000e-06,14,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0353,kannada,ದಿ_ಎಕನಾಮಿಕ್_ಟೈಮ್ಸ್,ಕಲ್ಲುಸಕ್ಕರೆ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]",1.041000000e-06,1.583000000e-06,20,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0354,kannada,ವಾಸಿಂ_ಅಕ್ರಂ,ಂತಾರಾ_ರಾಜವಂಶ,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",1.000000000e-06,1.042000000e-06,12,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0355,kannada,ಕೊಮ್ರಂ_ಭೀಮ್_ಅಸಿಫಾಬಾದ್_ಜಿಲ್ಲೆ,ಕರ್ಟ್_ಕೊಬೈನ್,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",1.042000000e-06,2.084000000e-06,29,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0356,kannada,ಹಟ್ಟಿಅಂಗಡಿ,ಗಲಾಟೆ_(ಚಲನಚಿ,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,9.580000000e-07,11,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0357,kannada,ಬಿಪಿನ್_ಚಂದ್ರ_ಪಾಲ್,ೈನಾ_ಪೆಕ್ಟೋರ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.292000000e-06,17,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0358,kannada,ಕಾಡಿನ_ರಹಸ್ಯ_(ಚಲನಚಿತ್ರ),ಾವತಿ_ವ್ಯವಸ್ಥೆ,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.708000000e-06,23,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0359,kannada,ಭಾಷಾ_ಶಾಸ್ತ್ರ,್_ಆಂಡ್_ಸಿಂಧ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0]",1.000000000e-06,1.125000000e-06,14,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0360,kannada,ಉತ್ತರಮೇರು_ಶೋಧನೆ,ೆನಾಜಿರ್_ಭುಟ್ಟ,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.167000000e-06,15,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0361,kannada,ಕಾರ್ಕಳ_ಶ್ರೀ_ವೆಂಕಟರಮಣ_ದೇವಸ್ಥಾನ,ಸೇಡಿಗೆ_ಸೇಡು,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 0]",1.000000000e-06,2.167000000e-06,30,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0362,kannada,ಪೆರ್ಮೂಡೆ,ಪೋಲಿಯನ್_ಬೋನಪಾರ್,15,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",1.250000000e-06,8.330000000e-07,9,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0363,kannada,ಭಾಗವತ_ಮೇಳ,ಆಶಾಪೂರ್ಣ_ದೇವಿ,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,7.910000000e-07,9,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0364,kannada,ಕರ್ನಾಟಕದ_ತಿನಿಸುಗಳು,ಶಿಲಾ_ಮೆಹ್ತಾ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.375000000e-06,18,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0365,kannada,ಇಗರ್ಜಿ,ಚಿಕ್ಕ_ತಿರುಪತಿ,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.041000000e-06,6.250000000e-07,6,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0366,kannada,ಉತ್ಪಾದನಾ_ತೆರಿಗೆ,ಮಾನ_ಏರಿಕೆಯ_ಪರಿಣ,15,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.083000000e-06,1.167000000e-06,15,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0367,kannada,ಮುಳ್ಳು,್‌_ಸ್ಯಾಟ್-1,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]",1.041000000e-06,7.500000000e-07,7,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0368,kannada,ಸಿ.ಪಿ.ಕೆ,ಿಪಿನ್_ಚಂದ್ರ,11,[],[],False,False,PASSED,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,9.590000000e-07,10,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0369,kannada,ಡಾಗ್,ಲಗ್ನಪತ್ರಿಕೆ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.340000000e-07,4.580000000e-07,4,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0370,kannada,ವಾತ್ಸಾಯನ,ಾಶಾಸ್ತ್ರಿ_(ಚಲನಚ,15,[],[],False,False,PASSED,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.250000000e-06,9.160000000e-07,10,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0371,kannada,ರಾಜಶೇಖರ_ಭೂಸನೂರುಮಠ,ವಿಕ್ರಮ್_(ನಟ),12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.291000000e-06,17,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0372,kannada,ಕಬ್ಬು,"ಸ್ಪೇಟೆ,_ಚರ್ಚ್",13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,5.830000000e-07,5,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0373,kannada,ಬೆಳೆಗೆರೆ_ಕೃಷ್ಣ_ಶಾಸ್ತ್ರಿ,ನ್_ಟವರ್_ನ_ತಿರು,14,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",1.125000000e-06,1.666000000e-06,23,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0374,kannada,"ಸ್ವರ್ಣಮಂದಿರ,_ಅಮೃತಸರ",ಿ.ಪಿ.ರಾಜರತ್ನಂ,13,[],[],False,False,PASSED,"[0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]",1.125000000e-06,1.542000000e-06,20,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0375,kannada,ಮರಿಯ_ಜಯಂತಿ,ಗೂರ್ಖಾಲ್ಯಾಂಡ್,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,8.750000000e-07,10,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0376,kannada,ರಾಯಚೂರು_ಜಿಲ್ಲೆ,"ಟಿಕುದ್ರು,_ಕುಂ",13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.125000000e-06,14,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0377,kannada,ಜೇನುಪ್ರಪಂಚ,ತಾಂತ್ರಿಕ_ಲೇಖನ,13,[],[],False,False,PASSED,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.125000000e-06,8.330000000e-07,10,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0378,kannada,ಲಲಿತಾಂಬ_ವೃಷಭೇಂದ್ರಸ್ವಾಮಿ,ಿ.ರೈಟ್_ಮಿಲ್ಸ್,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",1.083000000e-06,1.750000000e-06,24,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0379,kannada,ಚರಕ_ಸಂಹಿತೆ,ಯಿಗೊಬ್ಬ_ಕರ್,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,9.170000000e-07,10,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0380,kannada,ನ್ಯೂಯಾರ್ಕ_ನಗರ,_ರಾಬರ್ಟ್_ಮಾ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",9.160000000e-07,1.042000000e-06,14,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0381,kannada,ಅಂತರ್ಕೀಲಕ,ಮೈಕಲ್_ಫಿಲ್ಡ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,8.750000000e-07,9,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0382,kannada,ಆನೇಹಳ್ಳಿ(ಗುಬ್ಬಿ),ಲಿಗುಂ_ಕುಣಿತ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.590000000e-07,1.417000000e-06,16,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0383,kannada,ಮಾರ್ಕ್ಸ್‌ವಾದ,ಜ್ಯೋತಿ_ಗುರುಪ್ರಸ,15,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.166000000e-06,1.041000000e-06,12,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0384,kannada,ಆಂಗಸ್_ಡೀಟನ್,ಷ್ಣ_ಡೆಲ್ಲಿ_,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,9.590000000e-07,11,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0385,kannada,ಬಿಂಬಿಸಾರ,ಲಿ(ಕ್ಯಾಲಿಗ್ರಫಿ,14,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0]",1.208000000e-06,7.500000000e-07,8,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0386,kannada,ಕೆ೨,ಿಬ್_ಮರುಭೂಮಿ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",9.160000000e-07,4.170000000e-07,3,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0387,kannada,ಉತ್ಪಾದನಾ_ತೆರಿಗೆ,ದ್ಧಕಾಂಡ_(ಚಲ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.291000000e-06,16,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0388,kannada,ವ್ಯಾಲರ್ಪಡಂ_ಬ್ಯಾಸಿಲಿಕಾ,ರ್ಸೆನಲ್_F.C.,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,1.750000000e-06,22,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0389,kannada,ಸೆಣಬು,ಗಣಪತಿ_ಶಾಸ್ತ್ರ,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.590000000e-07,5.420000000e-07,5,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0390,kannada,ಚಂಡಿ,ಿ_ಗುರುಪ್ರಸಾದ್,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.084000000e-06,5.000000000e-07,4,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0391,kannada,ಜ್ಞಾನಪೀಠ,ರೈ_ಮಣಿ_ಅಯ್ಯರ,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",9.580000000e-07,7.500000000e-07,8,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0392,kannada,ಬೇಡಿ_ಬಂದವಳು_(ಚಲನಚಿತ್ರ),ಿಂದಗಿ_ಪಟ್ಟಣ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",9.170000000e-07,1.750000000e-06,24,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0393,kannada,ಆಕಾಶ್,ತ್ತರಮೇರು_ಶೋಧನೆ,14,[],[],False,False,PASSED,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.166000000e-06,5.420000000e-07,5,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0394,kannada,ಲಲಿತಾಂಬ_ವೃಷಭೇಂದ್ರಸ್ವಾಮಿ,ೌಳೀಶ್ವರ_ದೇವಾ,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,1.666000000e-06,23,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0395,kannada,ಮಹಾಗೌರಿ,ೋ_ಮೇರಿ_ಡಿ_ವ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,6.670000000e-07,7,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0396,kannada,ಸವದತ್ತಿ_ಕೋಟೆ,ರಸಾಯನಶಾಸ್ತ್ರ,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",9.170000000e-07,1.000000000e-06,12,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0397,kannada,ಟಾಟಾ_ಗ್ರೂಪ್,ಂದ್ರಮೌಳೀಶ್ವರ,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,9.160000000e-07,11,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0398,kannada,ಮಾನು,ಲಾರೆನ್ಸ್‌_ಪಿ,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,4.590000000e-07,4,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0399,kannada,ಬೆಟ್ಟದ_ಮಲ್ಲೇಶ್ವರ_ದೇವಸ್ಥಾನ,ಡಿನ_ರಹಸ್ಯ_(ಚ,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.160000000e-07,1.750000000e-06,25,1000,very_long,non_matching,seconds
+KMP_kannada_1000_0400,kannada,ಕುನಾಲ್,ೆಫ್_ಎರ್ಲಾಂಗರ್,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,6.250000000e-07,6,1000,very_long,non_matching,seconds

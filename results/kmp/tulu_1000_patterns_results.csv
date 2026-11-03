@@ -1,0 +1,401 @@
+query_id,language,source_title,pattern,pattern_length,expected_match_positions,actual_match_positions,expected_match_status,actual_match_status,correctness_status,lps_array,lps_construction_time,kmp_search_time,kmp_character_comparisons,sample_size,pattern_category,pattern_type,time_unit
+KMP_tulu_1000_0001,tulu,ಮಟ್ಟು,ಟು,2,[3],[3],True,True,PASSED,"[0, 0]",5.410000000e-07,1.250000000e-06,6,1000,short,matching,seconds
+KMP_tulu_1000_0002,tulu,ಶ್ರೀ_ಜನಾರ್ಧನ_ಮಹಾಕಾಳಿ_ದೇವಸ್ತಾನ_ಅಂಬಲಪಾಡಿ,_ದ,2,[20],[20],True,True,PASSED,"[0, 0]",3.750000000e-07,3.084000000e-06,41,1000,short,matching,seconds
+KMP_tulu_1000_0003,tulu,ಸೂರ್ಯಕಾಂತಿ,ಸೂ,2,[0],[0],True,True,PASSED,"[0, 0]",2.910000000e-07,1.042000000e-06,10,1000,short,matching,seconds
+KMP_tulu_1000_0004,tulu,ಮಾರ್ಪು,ಪು,2,[4],[4],True,True,PASSED,"[0, 0]",2.500000000e-07,7.500000000e-07,6,1000,short,matching,seconds
+KMP_tulu_1000_0005,tulu,ಉದ್ಯಾವರ,ವರ,2,[5],[5],True,True,PASSED,"[0, 0]",2.910000000e-07,7.920000000e-07,7,1000,short,matching,seconds
+KMP_tulu_1000_0006,tulu,ಜಪಾನ್ದ_ಸಾಂಪ್ರದಾಯಿಕ_ನಲಿಕೆ,ಾಯಿ,3,[14],[14],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,2.083000000e-06,26,1000,short,matching,seconds
+KMP_tulu_1000_0007,tulu,ಸ್ವಾಮಿ_ಯುಕ್ತೇಶ್ವರ_ಗಿರಿ,ಕ್ತ,3,[9],[9],True,True,PASSED,"[0, 0, 0]",4.160000000e-07,2.000000000e-06,22,1000,short,matching,seconds
+KMP_tulu_1000_0008,tulu,ಸೌತಡ್ಕ_ಮಹಾಗಣಪತಿ_ದೇವಸ್ಥಾನೊ,ಗಣ,2,[10],[10],True,True,PASSED,"[0, 0]",2.500000000e-07,1.958000000e-06,25,1000,short,matching,seconds
+KMP_tulu_1000_0009,tulu,ಏಲಂ_ಗೊಬ್ಬು,_ಗೊ,3,[3],[3],True,True,PASSED,"[0, 0, 0]",3.330000000e-07,1.125000000e-06,10,1000,short,matching,seconds
+KMP_tulu_1000_0010,tulu,ಅಹಲ್ಯಾಬಾಯಿ_ಹೋಳ್ಕರ್,ಹಲ್,3,[1],[1],True,True,PASSED,"[0, 0, 0]",3.330000000e-07,1.625000000e-06,19,1000,short,matching,seconds
+KMP_tulu_1000_0011,tulu,ಹೌ_ಬೊ,ೌ_,2,[1],[1],True,True,PASSED,"[0, 0]",2.920000000e-07,6.250000000e-07,5,1000,short,matching,seconds
+KMP_tulu_1000_0012,tulu,ಮೌಂಟ್_ಫುಜಿ,ಫುಜ,3,[6],[6],True,True,PASSED,"[0, 0, 0]",3.340000000e-07,9.580000000e-07,10,1000,short,matching,seconds
+KMP_tulu_1000_0013,tulu,ಜಾಂಗ್_ಮೋಜೂನ್,ಗ್,2,[3],[3],True,True,PASSED,"[0, 0]",2.500000000e-07,1.084000000e-06,12,1000,short,matching,seconds
+KMP_tulu_1000_0014,tulu,ಕೆದಂಬಾಡಿ_ರಾಮಯ್ಯ_ಗೌಡ,ಾಮ,2,[10],[10],True,True,PASSED,"[0, 0]",2.500000000e-07,1.625000000e-06,20,1000,short,matching,seconds
+KMP_tulu_1000_0015,tulu,ಜ್ಞಾನಪೀಠ,ನಪೀ,3,[4],[4],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,8.340000000e-07,8,1000,short,matching,seconds
+KMP_tulu_1000_0016,tulu,ಮೈಪು_ಸೂಡಿ,ಮೈಪ,3,[0],[0],True,True,PASSED,"[0, 0, 0]",3.330000000e-07,9.580000000e-07,9,1000,short,matching,seconds
+KMP_tulu_1000_0017,tulu,ಬ್ಯಾರಿ_ಬಾಸೆ,ಿ_,2,[5],[5],True,True,PASSED,"[0, 0]",2.920000000e-07,1.041000000e-06,11,1000,short,matching,seconds
+KMP_tulu_1000_0018,tulu,ಸ್ವಕೇಂದ್ರಿತೊ_ವ್ಯಕ್ತಿತ್ವೊ_ಮನೋರೋಗೊ,್ತಿ,3,[17],[17],True,True,PASSED,"[0, 0, 0]",3.330000000e-07,2.833000000e-06,36,1000,short,matching,seconds
+KMP_tulu_1000_0019,tulu,ರುಕ್ಮಿಣಿ,್ಮಿ,3,[3],[3],True,True,PASSED,"[0, 0, 0]",3.330000000e-07,8.340000000e-07,8,1000,short,matching,seconds
+KMP_tulu_1000_0020,tulu,ಚೆಂಡ್,ಡ್,2,[3],[3],True,True,PASSED,"[0, 0]",2.500000000e-07,6.250000000e-07,5,1000,short,matching,seconds
+KMP_tulu_1000_0021,tulu,ಕಾಮಾಕ್ಯ,ಕ್ಯ,3,[4],[4],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,8.750000000e-07,8,1000,short,matching,seconds
+KMP_tulu_1000_0022,tulu,ಲಿಯು_ಯಾಂಗ್,ಯು_,3,[2],[2],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.083000000e-06,11,1000,short,matching,seconds
+KMP_tulu_1000_0023,tulu,ವನಿತಾ_ವಿಜಯಕುಮಾರ್,ಾರ್,3,[13],[13],True,True,PASSED,"[0, 0, 0]",3.330000000e-07,1.500000000e-06,17,1000,short,matching,seconds
+KMP_tulu_1000_0024,tulu,ಅಶೋಕ,ೋಕ,2,[2],[2],True,True,PASSED,"[0, 0]",2.920000000e-07,5.410000000e-07,4,1000,short,matching,seconds
+KMP_tulu_1000_0025,tulu,ವರ್ಷಾ_ಬೊಳ್ಳಮ್ಮ,್ಳಮ,3,[9],[9],True,True,PASSED,"[0, 0, 0]",3.330000000e-07,1.500000000e-06,16,1000,short,matching,seconds
+KMP_tulu_1000_0026,tulu,ಸೂರ್ಯಕಾ೦ತಿ,ೂರ್,3,[1],[1],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,9.170000000e-07,10,1000,short,matching,seconds
+KMP_tulu_1000_0027,tulu,ಘಾನಾ_ಅಲಿ,ಅಲಿ,3,[5],[5],True,True,PASSED,"[0, 0, 0]",3.330000000e-07,8.330000000e-07,8,1000,short,matching,seconds
+KMP_tulu_1000_0028,tulu,ಪಂಜಿ,ಂಜಿ,3,[1],[1],True,True,PASSED,"[0, 0, 0]",3.340000000e-07,5.840000000e-07,4,1000,short,matching,seconds
+KMP_tulu_1000_0029,tulu,ಅಗ್ನಿಸಾಕ್ಷಿ(೧೯೯೯_ಚಿತ್ರ),ಿತ,2,[18],[18],True,True,PASSED,"[0, 0]",2.500000000e-07,2.000000000e-06,25,1000,short,matching,seconds
+KMP_tulu_1000_0030,tulu,ಕೋಸಂಬರಿ,ಸಂ,2,[2],[2],True,True,PASSED,"[0, 0]",2.920000000e-07,7.500000000e-07,7,1000,short,matching,seconds
+KMP_tulu_1000_0031,tulu,ಅವಿನಾಶ್_ಕಾಮತ್,ಅವ,2,[0],[0],True,True,PASSED,"[0, 0]",2.500000000e-07,1.125000000e-06,13,1000,short,matching,seconds
+KMP_tulu_1000_0032,tulu,ಕಕ್ಕುನೆ,ಕಕ,2,[0],[0],True,True,PASSED,"[0, 1]",3.330000000e-07,1.041000000e-06,9,1000,short,matching,seconds
+KMP_tulu_1000_0033,tulu,ತುಳುನಾಡ_ಸ್ಥಳನಾಮೊ,ಥಳನ,3,[10],[10],True,True,PASSED,"[0, 0, 0]",3.330000000e-07,1.375000000e-06,16,1000,short,matching,seconds
+KMP_tulu_1000_0034,tulu,ತರ್ಕತ್ತಿ,ತಿ,2,[6],[6],True,True,PASSED,"[0, 0]",2.500000000e-07,1.042000000e-06,10,1000,short,matching,seconds
+KMP_tulu_1000_0035,tulu,ಲಸೋಫ್ನ_ಗೊಬ್ಬುಲೆಡ್_ಭಾರತ,ಾರತ,3,[19],[19],True,True,PASSED,"[0, 0, 0]",3.750000000e-07,1.709000000e-06,22,1000,short,matching,seconds
+KMP_tulu_1000_0036,tulu,ನಾಲಯಿ,ಾಲಯ,3,[1],[1],True,True,PASSED,"[0, 0, 0]",3.340000000e-07,6.250000000e-07,5,1000,short,matching,seconds
+KMP_tulu_1000_0037,tulu,ತೆಲುಗು_ಪಾತೆರೊ,ಗು,2,[4],[4],True,True,PASSED,"[0, 0]",2.500000000e-07,1.167000000e-06,13,1000,short,matching,seconds
+KMP_tulu_1000_0038,tulu,ಉಂಡ್ಲುಗೊ,್ಲ,2,[3],[3],True,True,PASSED,"[0, 0]",2.500000000e-07,8.330000000e-07,8,1000,short,matching,seconds
+KMP_tulu_1000_0039,tulu,ಈಂದ್‌ದ_ಮರ,ದ_ಮ,3,[5],[5],True,True,PASSED,"[0, 0, 0]",4.170000000e-07,1.041000000e-06,10,1000,short,matching,seconds
+KMP_tulu_1000_0040,tulu,ತರೆಬೇನೆ,ರೆ,2,[1],[1],True,True,PASSED,"[0, 0]",2.500000000e-07,7.920000000e-07,7,1000,short,matching,seconds
+KMP_tulu_1000_0041,tulu,ಕಪ್ಪಲ್,ಲ್,2,[4],[4],True,True,PASSED,"[0, 0]",2.500000000e-07,7.090000000e-07,6,1000,short,matching,seconds
+KMP_tulu_1000_0042,tulu,ನೇಮಿಚಂದ್ರ,ಿಚ,2,[3],[3],True,True,PASSED,"[0, 0]",2.500000000e-07,9.160000000e-07,9,1000,short,matching,seconds
+KMP_tulu_1000_0043,tulu,ಆವೇಶಂ_(2024_ಚಿತ್ರ),ಚಿ,2,[12],[12],True,True,PASSED,"[0, 0]",2.500000000e-07,1.458000000e-06,18,1000,short,matching,seconds
+KMP_tulu_1000_0044,tulu,ಸತೀಶ್_ಆಚಾರ್ಯ,ಾರ್,3,[8],[8],True,True,PASSED,"[0, 0, 0]",3.340000000e-07,1.084000000e-06,12,1000,short,matching,seconds
+KMP_tulu_1000_0045,tulu,ಗೂಂಜಿ,ಜಿ,2,[3],[3],True,True,PASSED,"[0, 0]",2.500000000e-07,7.090000000e-07,5,1000,short,matching,seconds
+KMP_tulu_1000_0046,tulu,ಆಡ್_ಸೊಗೆ,ಗೆ,2,[6],[6],True,True,PASSED,"[0, 0]",2.500000000e-07,8.340000000e-07,8,1000,short,matching,seconds
+KMP_tulu_1000_0047,tulu,ಬಿಲ್ವ_ಪತ್ರೆ,ಿಲ,2,[1],[1],True,True,PASSED,"[0, 0]",2.080000000e-07,1.000000000e-06,11,1000,short,matching,seconds
+KMP_tulu_1000_0048,tulu,ಕೇನೆದ_ಪುಂಡಿ,_ಪ,2,[5],[5],True,True,PASSED,"[0, 0]",2.910000000e-07,1.042000000e-06,11,1000,short,matching,seconds
+KMP_tulu_1000_0049,tulu,ಬೇವುರೆದ_ಚಟ್ನಿ,ಚಟ್,3,[8],[8],True,True,PASSED,"[0, 0, 0]",3.330000000e-07,1.167000000e-06,13,1000,short,matching,seconds
+KMP_tulu_1000_0050,tulu,ಕೇದಗೆ,ೇದಗ,3,[1],[1],True,True,PASSED,"[0, 0, 0]",3.340000000e-07,6.670000000e-07,5,1000,short,matching,seconds
+KMP_tulu_1000_0051,tulu,ಕೈಪುಳು,ಳಿ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,7.090000000e-07,7,1000,short,non_matching,seconds
+KMP_tulu_1000_0052,tulu,ಮೀನ್,ದ_,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,5.000000000e-07,4,1000,short,non_matching,seconds
+KMP_tulu_1000_0053,tulu,ಗೂಂಜಿ,ರಿಯ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,5.000000000e-07,5,1000,short,non_matching,seconds
+KMP_tulu_1000_0054,tulu,ಫ್ಲಾರೆನ್ಸ್_ನೈಟಿಂಗೇಲ್,ಮೊಳ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,1.500000000e-06,20,1000,short,non_matching,seconds
+KMP_tulu_1000_0055,tulu,ಯನ್,ೇಶೆ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,4.170000000e-07,3,1000,short,non_matching,seconds
+KMP_tulu_1000_0056,tulu,ಗಂಗೊಳ್ಳಿ,ಯೋಜ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,7.910000000e-07,8,1000,short,non_matching,seconds
+KMP_tulu_1000_0057,tulu,ಶೆಫಾಲಿ_ವರ್ಮ,ಘಾ,2,[],[],False,False,PASSED,"[0, 0]",2.920000000e-07,1.042000000e-06,11,1000,short,non_matching,seconds
+KMP_tulu_1000_0058,tulu,ರಾಜ್_ಸೌಂಡ್ಸ್_ಆಂಡ್_ಲೈಟ್ಸ್,ಿ_,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.792000000e-06,24,1000,short,non_matching,seconds
+KMP_tulu_1000_0059,tulu,ಅಡ್ಯರ,ಂಬಾ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,5.410000000e-07,5,1000,short,non_matching,seconds
+KMP_tulu_1000_0060,tulu,ಮಧ್ವಾಚಾರ್ಯ,._,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,7.920000000e-07,10,1000,short,non_matching,seconds
+KMP_tulu_1000_0061,tulu,ಸಂತ_ಅಲೋಶಿಯಸ್_ಗೊಂಜಾಗ,ಿಕು,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,1.542000000e-06,20,1000,short,non_matching,seconds
+KMP_tulu_1000_0062,tulu,ಮಂಡೆಕೋಲು,ಬಡ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,7.080000000e-07,8,1000,short,non_matching,seconds
+KMP_tulu_1000_0063,tulu,ಸುಶ್ಮಿತಾ_ಬ್ಯಾನರ್ಜಿ,ಯಿ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.458000000e-06,19,1000,short,non_matching,seconds
+KMP_tulu_1000_0064,tulu,ಗಂಜಿಗಟ್ಟೆ,್ಮೆ,3,[],[],False,False,PASSED,"[0, 0, 0]",2.910000000e-07,9.580000000e-07,10,1000,short,non_matching,seconds
+KMP_tulu_1000_0065,tulu,ಲಿಲಿಯನ್_ಬ್ಲ್ಯಾಂಡ್,ೀನ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.333000000e-06,17,1000,short,non_matching,seconds
+KMP_tulu_1000_0066,tulu,ಗಂಗೊಳ್ಳಿ,ರಾ,2,[],[],False,False,PASSED,"[0, 0]",2.080000000e-07,7.500000000e-07,8,1000,short,non_matching,seconds
+KMP_tulu_1000_0067,tulu,ಧಾರವಾಡ,ಮ್,2,[],[],False,False,PASSED,"[0, 0]",2.920000000e-07,6.250000000e-07,6,1000,short,non_matching,seconds
+KMP_tulu_1000_0068,tulu,ಬ೦ಟ್ವಾಳ,ಬಿ,2,[],[],False,False,PASSED,"[0, 0]",2.920000000e-07,7.910000000e-07,8,1000,short,non_matching,seconds
+KMP_tulu_1000_0069,tulu,ಬಜಿಲ್ದ_ತೆನಸುಲು,್_ದ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,1.208000000e-06,15,1000,short,non_matching,seconds
+KMP_tulu_1000_0070,tulu,ಜರ್ಮನಿ,ಕೇ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,5.830000000e-07,6,1000,short,non_matching,seconds
+KMP_tulu_1000_0071,tulu,ಮಿನ್ಪುರಿ,ಲಾ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,7.500000000e-07,8,1000,short,non_matching,seconds
+KMP_tulu_1000_0072,tulu,ಟೊಯಾಮಾ,_ಬ,2,[],[],False,False,PASSED,"[0, 0]",2.080000000e-07,5.420000000e-07,6,1000,short,non_matching,seconds
+KMP_tulu_1000_0073,tulu,ಕುದುರೆ_ಗೊಬ್ಬು,ದೇ,2,[],[],False,False,PASSED,"[0, 0]",2.080000000e-07,1.250000000e-06,14,1000,short,non_matching,seconds
+KMP_tulu_1000_0074,tulu,ಅರಸಾಯ,ಳಲ,2,[],[],False,False,PASSED,"[0, 0]",2.080000000e-07,5.000000000e-07,5,1000,short,non_matching,seconds
+KMP_tulu_1000_0075,tulu,ಅಲೆಕ್ಸಾಂಡರ್,ೊಸಂ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,9.160000000e-07,11,1000,short,non_matching,seconds
+KMP_tulu_1000_0076,tulu,ಉರ್ಲ್,ೂಪತ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,5.420000000e-07,5,1000,short,non_matching,seconds
+KMP_tulu_1000_0077,tulu,ಉದ್ಯಾವರೊದ_ಪರ್ವಲು,_ಜ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.334000000e-06,17,1000,short,non_matching,seconds
+KMP_tulu_1000_0078,tulu,ಬೀಜದ_ಮರ,ಿಸ್,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,7.090000000e-07,7,1000,short,non_matching,seconds
+KMP_tulu_1000_0079,tulu,ಕೆ_ಕೆ_ಶೈಲಜ,್_,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,8.340000000e-07,10,1000,short,non_matching,seconds
+KMP_tulu_1000_0080,tulu,ಸಂತೆಮಗಳೂರು,ಿಳ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,8.750000000e-07,10,1000,short,non_matching,seconds
+KMP_tulu_1000_0081,tulu,ಸಂಕೇತಿ_ಬಾಸೆ,ು_ಯ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,9.170000000e-07,11,1000,short,non_matching,seconds
+KMP_tulu_1000_0082,tulu,ರವಿ_ಬೆಳಗೆರೆ,ಯಮ,2,[],[],False,False,PASSED,"[0, 0]",2.920000000e-07,1.042000000e-06,11,1000,short,non_matching,seconds
+KMP_tulu_1000_0083,tulu,ಪಿ_ಲಲಿತಾ_ಕುಮಾರಿ,್ರ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.209000000e-06,15,1000,short,non_matching,seconds
+KMP_tulu_1000_0084,tulu,ಪ್ರಮ್ಲೋಚ,ಲ್,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,7.910000000e-07,9,1000,short,non_matching,seconds
+KMP_tulu_1000_0085,tulu,ಇಳಾ_ಭಟ್,ುಬ್,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,6.250000000e-07,7,1000,short,non_matching,seconds
+KMP_tulu_1000_0086,tulu,ಸ್ವಾಹಾ,ಶೆಟ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,5.830000000e-07,6,1000,short,non_matching,seconds
+KMP_tulu_1000_0087,tulu,ಕೊರೋನಾ_ವೈರಸ್‍,ಾಂ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.166000000e-06,14,1000,short,non_matching,seconds
+KMP_tulu_1000_0088,tulu,ಕ್ಸಿಯಾಸಿ_ನಾಯಿ,ೌಧ,2,[],[],False,False,PASSED,"[0, 0]",2.080000000e-07,1.041000000e-06,13,1000,short,non_matching,seconds
+KMP_tulu_1000_0089,tulu,ಇಳಾ_ಭಟ್,ತುಳ,3,[],[],False,False,PASSED,"[0, 0, 0]",4.160000000e-07,6.670000000e-07,7,1000,short,non_matching,seconds
+KMP_tulu_1000_0090,tulu,ಭಾರ್ಗವಿ_ನಾರಾಯಣ್,್ಸೊ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,1.292000000e-06,16,1000,short,non_matching,seconds
+KMP_tulu_1000_0091,tulu,ಭಾರ್ಗವಿ_ನಾರಾಯಣ್,್ಯ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.292000000e-06,16,1000,short,non_matching,seconds
+KMP_tulu_1000_0092,tulu,ಕುಕ್ಕು_ಅಡ್ಂಗಾಯಿ,ಿವ,2,[],[],False,False,PASSED,"[0, 0]",2.080000000e-07,1.166000000e-06,15,1000,short,non_matching,seconds
+KMP_tulu_1000_0093,tulu,ತುಳುನಾಡ್ದ_ಭೌಗೋಳಿಕ_ಪ್ರದೇಶ,ೋಲಿ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.330000000e-07,1.833000000e-06,25,1000,short,non_matching,seconds
+KMP_tulu_1000_0094,tulu,ನಾಲಯಿ,ಮೌ,2,[],[],False,False,PASSED,"[0, 0]",3.330000000e-07,5.410000000e-07,5,1000,short,non_matching,seconds
+KMP_tulu_1000_0095,tulu,ಜಾಂಗ್_ಹುಯಿಲಾನ್,ಮೈ,2,[],[],False,False,PASSED,"[0, 0]",2.090000000e-07,1.083000000e-06,14,1000,short,non_matching,seconds
+KMP_tulu_1000_0096,tulu,ದಯಾನಂದ_ಶೆಟ್ಟಿ,ಸ್,2,[],[],False,False,PASSED,"[0, 0]",2.080000000e-07,1.041000000e-06,13,1000,short,non_matching,seconds
+KMP_tulu_1000_0097,tulu,ಭೂವಿಜ್ಞಾನ,ಂಭೆ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,7.500000000e-07,9,1000,short,non_matching,seconds
+KMP_tulu_1000_0098,tulu,ಕ್ಯಾಬೇಜ್_ಬಜೆ,್_ಎ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.340000000e-07,1.167000000e-06,14,1000,short,non_matching,seconds
+KMP_tulu_1000_0099,tulu,ಸುಂದರ್_ರಾಜ್,(ನಟ,3,[],[],False,False,PASSED,"[0, 0, 0]",3.750000000e-07,8.750000000e-07,11,1000,short,non_matching,seconds
+KMP_tulu_1000_0100,tulu,ವಿಜಯಲಕ್ಷ್ಮಿ_ಪಂಡಿತ್,ರೀ,2,[],[],False,False,PASSED,"[0, 0]",2.500000000e-07,1.375000000e-06,18,1000,short,non_matching,seconds
+KMP_tulu_1000_0101,tulu,ಮರ_ತೇವ್,ಮರ_ತೇವ,6,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,7.920000000e-07,7,1000,medium,matching,seconds
+KMP_tulu_1000_0102,tulu,ನಲಿಕೆ,ಲಿಕೆ,4,[1],[1],True,True,PASSED,"[0, 0, 0, 0]",5.410000000e-07,6.250000000e-07,5,1000,medium,matching,seconds
+KMP_tulu_1000_0103,tulu,ಆಮ್ಲಜನಕ,ಆಮ್ಲಜ,5,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0]",4.590000000e-07,7.920000000e-07,7,1000,medium,matching,seconds
+KMP_tulu_1000_0104,tulu,ಬೊಲ್ಲರ_ಮಾನಿಗ,ಲರ_ಮಾ,5,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,1.208000000e-06,13,1000,medium,matching,seconds
+KMP_tulu_1000_0105,tulu,ಒಡಿಶಾ,ಒಡಿಶಾ,5,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,6.660000000e-07,5,1000,medium,matching,seconds
+KMP_tulu_1000_0106,tulu,ಜೇನು_ಕುರುಂಬ_ಬಾಸೆ,ುರುಂ,4,[6],[6],True,True,PASSED,"[0, 0, 1, 0]",5.420000000e-07,1.458000000e-06,17,1000,medium,matching,seconds
+KMP_tulu_1000_0107,tulu,ಅಖಿಲಾಂಡೇಶ್ವರಿ_(ದೇವಿ),ಡೇಶ್ವರ,6,[6],[6],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,1.625000000e-06,20,1000,medium,matching,seconds
+KMP_tulu_1000_0108,tulu,ಆಡ್_ಸೊಗೆ,_ಸೊಗ,4,[3],[3],True,True,PASSED,"[0, 0, 0, 0]",4.160000000e-07,8.330000000e-07,8,1000,medium,matching,seconds
+KMP_tulu_1000_0109,tulu,ಪ್ಟೋಲೆಮಿ_XIII_ಥಿಯೋಸ್_ಫಿಲೋಪೇಟರ್,ಫಿಲೋ,4,[21],[21],True,True,PASSED,"[0, 0, 0, 0]",3.750000000e-07,2.208000000e-06,30,1000,medium,matching,seconds
+KMP_tulu_1000_0110,tulu,ಕುಂಞತ್ತಿ,ತ್ತಿ,4,[4],[4],True,True,PASSED,"[0, 0, 1, 0]",5.420000000e-07,8.340000000e-07,8,1000,medium,matching,seconds
+KMP_tulu_1000_0111,tulu,ಸಜೀವನ್_ಸಜನ,ವನ್_,4,[3],[3],True,True,PASSED,"[0, 0, 0, 0]",3.750000000e-07,1.000000000e-06,10,1000,medium,matching,seconds
+KMP_tulu_1000_0112,tulu,"ಮದ್ದೂರು,_ಆಂಧ್ರ_ಪ್ರದೇಶ",್ರದೇ,4,[16],[16],True,True,PASSED,"[0, 0, 0, 0]",5.000000000e-07,2.167000000e-06,23,1000,medium,matching,seconds
+KMP_tulu_1000_0113,tulu,ಉರ್ಲ್,ಉರ್ಲ,4,[0],[0],True,True,PASSED,"[0, 0, 0, 0]",4.170000000e-07,6.670000000e-07,5,1000,medium,matching,seconds
+KMP_tulu_1000_0114,tulu,ವಿಕಿಮೀಡಿಯ_ಫೌಂಡೇಶನ್,ಿಮೀಡಿ,5,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 1]",4.580000000e-07,1.667000000e-06,20,1000,medium,matching,seconds
+KMP_tulu_1000_0115,tulu,ಕಜಂಬುದ_ಮದಿಮೆ,ಕಜಂಬು,5,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,1.083000000e-06,12,1000,medium,matching,seconds
+KMP_tulu_1000_0116,tulu,ಮಂಚಿ,ಮಂಚಿ,4,[0],[0],True,True,PASSED,"[0, 0, 0, 0]",4.160000000e-07,5.830000000e-07,4,1000,medium,matching,seconds
+KMP_tulu_1000_0117,tulu,ಸರಳಾ_ತುಕ್ರಾಲ್,ುಕ್ರಾಲ,6,[6],[6],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,1.208000000e-06,13,1000,medium,matching,seconds
+KMP_tulu_1000_0118,tulu,ಜಯಲಲಿತಾ,ಯಲಲಿ,4,[1],[1],True,True,PASSED,"[0, 0, 0, 0]",4.580000000e-07,7.920000000e-07,7,1000,medium,matching,seconds
+KMP_tulu_1000_0119,tulu,ಸಾಂತಣಿ,ಸಾಂತಣಿ,6,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,7.090000000e-07,6,1000,medium,matching,seconds
+KMP_tulu_1000_0120,tulu,ಲಿಂಗೊನ್‌ಬೆರಿ_ಜಾಮ್,ೊನ್‌ಬೆ,6,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,1.417000000e-06,17,1000,medium,matching,seconds
+KMP_tulu_1000_0121,tulu,ಆಂಡಿಪುನಾರ್,ಿಪುನಾ,5,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0]",4.590000000e-07,9.590000000e-07,10,1000,medium,matching,seconds
+KMP_tulu_1000_0122,tulu,ಸತ್ಯ_ಮೋಹನ_ಜೋಶಿ,್ಯ_ಮೋ,5,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0]",4.590000000e-07,1.208000000e-06,14,1000,medium,matching,seconds
+KMP_tulu_1000_0123,tulu,ಕಾಂತಬಾರೆ_ಬೂದಬಾರೆ,ತಬಾರೆ_,6,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,1.333000000e-06,16,1000,medium,matching,seconds
+KMP_tulu_1000_0124,tulu,ಕೆ_ಕೆ_ಶೈಲಜ,ಕೆ_ಕೆ_,6,[0],[0],True,True,PASSED,"[0, 0, 0, 1, 2, 3]",6.250000000e-07,1.041000000e-06,11,1000,medium,matching,seconds
+KMP_tulu_1000_0125,tulu,ಜೇನು_ಕುರುಂಬ_ಬಾಸೆ,ನು_ಕ,4,[2],[2],True,True,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.334000000e-06,16,1000,medium,matching,seconds
+KMP_tulu_1000_0126,tulu,ಮುರ್ಕುದು_ನೀಂದುನ_ಗೊಬ್ಬು,_ಗೊಬ್ಬ,6,[15],[15],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,1.875000000e-06,23,1000,medium,matching,seconds
+KMP_tulu_1000_0127,tulu,ಕೆ._ಚಿನ್ನಪ್ಪ_ಗೌಡ,._ಚಿನ್,6,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,1.333000000e-06,16,1000,medium,matching,seconds
+KMP_tulu_1000_0128,tulu,ಶಿವಯೋಗಿ_ಸಿದ್ದರಾಮೆ,್ದರಾಮ,5,[11],[11],True,True,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,1.459000000e-06,17,1000,medium,matching,seconds
+KMP_tulu_1000_0129,tulu,ನರ್ಕಳ_ಮಾರಪ್ಪ_ಶೆಟ್ರ್,ರಪ್ಪ_,5,[8],[8],True,True,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,1.708000000e-06,21,1000,medium,matching,seconds
+KMP_tulu_1000_0130,tulu,ಬೂತ_ಕನ್ನಡಿ,_ಕನ್ನ,5,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0]",5.420000000e-07,1.084000000e-06,10,1000,medium,matching,seconds
+KMP_tulu_1000_0131,tulu,ಕರ್ಪು,ಕರ್ಪ,4,[0],[0],True,True,PASSED,"[0, 0, 0, 0]",4.580000000e-07,6.670000000e-07,5,1000,medium,matching,seconds
+KMP_tulu_1000_0132,tulu,ಮೆತ್ತೆ,ತ್ತೆ,4,[2],[2],True,True,PASSED,"[0, 0, 1, 0]",5.000000000e-07,7.500000000e-07,6,1000,medium,matching,seconds
+KMP_tulu_1000_0133,tulu,ಲಕ್ಷ್ಮೀ,್ಷ್ಮೀ,5,[2],[2],True,True,PASSED,"[0, 0, 1, 0, 0]",5.830000000e-07,7.920000000e-07,7,1000,medium,matching,seconds
+KMP_tulu_1000_0134,tulu,ಶ್ವೇತಾ_ಚೆಂಗಪ್ಪ_(ನಟಿ),(ನಟಿ),5,[15],[15],True,True,PASSED,"[0, 0, 0, 0, 0]",4.590000000e-07,1.584000000e-06,20,1000,medium,matching,seconds
+KMP_tulu_1000_0135,tulu,ಕನಪಡಿತ್ತಾಯೆ,ತ್ತಾಯೆ,6,[5],[5],True,True,PASSED,"[0, 0, 1, 0, 0, 0]",5.840000000e-07,1.083000000e-06,11,1000,medium,matching,seconds
+KMP_tulu_1000_0136,tulu,ಅವತಾರೊ,ತಾರೊ,4,[2],[2],True,True,PASSED,"[0, 0, 0, 0]",4.170000000e-07,7.500000000e-07,6,1000,medium,matching,seconds
+KMP_tulu_1000_0137,tulu,ಈಶಾ_ರೆಬ್ಬಾ,_ರೆಬ್,5,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,1.000000000e-06,10,1000,medium,matching,seconds
+KMP_tulu_1000_0138,tulu,ಕುಮಾರವ್ಯಾಸ,ಕುಮಾ,4,[0],[0],True,True,PASSED,"[0, 0, 0, 0]",3.750000000e-07,1.042000000e-06,10,1000,medium,matching,seconds
+KMP_tulu_1000_0139,tulu,ಆಜಾದಿನ_ಗುಜ್ಜೆ_ಕಡ್ಲೆ,ನ_ಗು,4,[5],[5],True,True,PASSED,"[0, 0, 0, 0]",4.580000000e-07,1.500000000e-06,19,1000,medium,matching,seconds
+KMP_tulu_1000_0140,tulu,ಸಂತೆಮಗಳೂರು,ಂತೆಮಗಳ,6,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,9.580000000e-07,10,1000,medium,matching,seconds
+KMP_tulu_1000_0141,tulu,ರಮೇಶ್_ಚಂದ್ರ_(ಗಾಯಕ),ದ್ರ_,4,[8],[8],True,True,PASSED,"[0, 0, 0, 0]",4.160000000e-07,1.500000000e-06,18,1000,medium,matching,seconds
+KMP_tulu_1000_0142,tulu,ಎಂ_ಕೆ_ಬಿನೋದಿನಿ_ದೇವಿ,ಿ_ದೇವ,5,[13],[13],True,True,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,1.750000000e-06,21,1000,medium,matching,seconds
+KMP_tulu_1000_0143,tulu,ತುಳುಲಿಪಿ_ಇತಿಹಾಸ,ಇತಿಹಾ,5,[9],[9],True,True,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,1.291000000e-06,15,1000,medium,matching,seconds
+KMP_tulu_1000_0144,tulu,ಮತ್ಸ್ಯೇಂದ್ರನಾಥ,್ಸ್ಯೇಂ,6,[2],[2],True,True,PASSED,"[0, 0, 1, 0, 0, 0]",6.250000000e-07,1.334000000e-06,15,1000,medium,matching,seconds
+KMP_tulu_1000_0145,tulu,ಕುತ್ತರಿ,ಕುತ್,4,[0],[0],True,True,PASSED,"[0, 0, 0, 0]",4.580000000e-07,7.920000000e-07,7,1000,medium,matching,seconds
+KMP_tulu_1000_0146,tulu,ದೇವಿಪ್ರಸಾದ್_ಶೆಟ್ಟಿ,_ಶೆಟ್,5,[11],[11],True,True,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,1.334000000e-06,18,1000,medium,matching,seconds
+KMP_tulu_1000_0147,tulu,ಸ್ನೇಹಾ_ಉಲ್ಲಾಳ್,_ಉಲ್ಲಾ,6,[6],[6],True,True,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,1.208000000e-06,14,1000,medium,matching,seconds
+KMP_tulu_1000_0148,tulu,ಗಂಜಿಗಟ್ಟೆ,ಟ್ಟೆ,4,[5],[5],True,True,PASSED,"[0, 0, 1, 0]",5.410000000e-07,8.750000000e-07,9,1000,medium,matching,seconds
+KMP_tulu_1000_0149,tulu,ನಾರ್ವೇಜಿಯನ್_ಜೋಕ್ಲೆನ_ಕಲ್ಯಾಣ_ಸೇವೆಲು,ನಾರ್ವ,5,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,2.625000000e-06,35,1000,medium,matching,seconds
+KMP_tulu_1000_0150,tulu,ಅಂಡೆ,ಅಂಡೆ,4,[0],[0],True,True,PASSED,"[0, 0, 0, 0]",4.590000000e-07,6.250000000e-07,4,1000,medium,matching,seconds
+KMP_tulu_1000_0151,tulu,ಉಪ್ಪಡಚ್ಚಿಲ್,ಿ_ಬಾ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.208000000e-06,12,1000,medium,non_matching,seconds
+KMP_tulu_1000_0152,tulu,ಲಾಂಬು,ಈಂದ್‌ದ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.830000000e-07,6.250000000e-07,5,1000,medium,non_matching,seconds
+KMP_tulu_1000_0153,tulu,ಬಳ್ಳಾರಿ_ಜಿಲ್ಲೆ,ರ್ಮರ,4,[],[],False,False,PASSED,"[0, 0, 0, 1]",4.580000000e-07,1.208000000e-06,15,1000,medium,non_matching,seconds
+KMP_tulu_1000_0154,tulu,ಬೇಕಲ್,್ಬೊಲಿಗ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,5.420000000e-07,5,1000,medium,non_matching,seconds
+KMP_tulu_1000_0155,tulu,ಉಮಾಬಾಯಿ_ಕುಂದಾಪುರ,ಪಂಜಾಬ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,1.333000000e-06,17,1000,medium,non_matching,seconds
+KMP_tulu_1000_0156,tulu,ಕಾಂತಬಾರೆ_ಬೂದಬಾರೆ,ಂದುರ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.333000000e-06,17,1000,medium,non_matching,seconds
+KMP_tulu_1000_0157,tulu,ತೋಶಿಕೊ_ಸೆಕಿಯಾ,_ಅಡ್,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",3.750000000e-07,1.125000000e-06,14,1000,medium,non_matching,seconds
+KMP_tulu_1000_0158,tulu,ಯು_ಕ್ಸಿಯುಹುವಾ,ಮಿನಾರಾ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,1.041000000e-06,13,1000,medium,non_matching,seconds
+KMP_tulu_1000_0159,tulu,ಯುರೋಪ್,ಾ_ಬಚ್,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,5.840000000e-07,6,1000,medium,non_matching,seconds
+KMP_tulu_1000_0160,tulu,ಪಾಣಾಜೆ,ಂಜಾಬ್,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.170000000e-07,5.840000000e-07,6,1000,medium,non_matching,seconds
+KMP_tulu_1000_0161,tulu,ಸರಮಾ,ೆಜಕಾ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.160000000e-07,4.580000000e-07,4,1000,medium,non_matching,seconds
+KMP_tulu_1000_0162,tulu,ಅತುಲೆ_ಮೇಟ್,_ರಾಹು,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,9.170000000e-07,11,1000,medium,non_matching,seconds
+KMP_tulu_1000_0163,tulu,ಕಾಂತೇರಿ_ಜುಮಾದಿ,ಮಾತಾಪು,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,1.250000000e-06,15,1000,medium,non_matching,seconds
+KMP_tulu_1000_0164,tulu,ಅಮ್ಮೆ_ಅಪ್ಪೆ_ಜೋಕುಲಾಟ,ವವಾಹಿನ,6,[],[],False,False,PASSED,"[0, 1, 0, 0, 0, 0]",7.080000000e-07,1.417000000e-06,19,1000,medium,non_matching,seconds
+KMP_tulu_1000_0165,tulu,ಕೇಂದ್ರಾಡಳಿತ_ಪ್ರದೇಸೊಲು,ಿರುವ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.580000000e-07,1.667000000e-06,22,1000,medium,non_matching,seconds
+KMP_tulu_1000_0166,tulu,ಕಲಿ_ಫಾರ್_ವುಮೆನ್_ಯೋಜನೆ,ಅಂಗಾರಕ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,1.541000000e-06,21,1000,medium,non_matching,seconds
+KMP_tulu_1000_0167,tulu,ಕವಲೇದುರ್ಗ,ರ್ಪನ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,8.750000000e-07,10,1000,medium,non_matching,seconds
+KMP_tulu_1000_0168,tulu,ಶಿವಮೊಗ್ಗ,ಕರ್ಪ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",3.750000000e-07,7.080000000e-07,8,1000,medium,non_matching,seconds
+KMP_tulu_1000_0169,tulu,ಚಾಂದಿನಿ_ತಮಿಳರಸನ್,ಆಸ್ಪ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.208000000e-06,16,1000,medium,non_matching,seconds
+KMP_tulu_1000_0170,tulu,ಖೆರ್ಸೊನೆಸುಸ್,ನ್_ಎ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.083000000e-06,13,1000,medium,non_matching,seconds
+KMP_tulu_1000_0171,tulu,ಉನ್_ಸಿಯೋ_ಸಾನ್,್ತಮ_ಪೂ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,1.417000000e-06,14,1000,medium,non_matching,seconds
+KMP_tulu_1000_0172,tulu,ಪೇಶೆನ್ಸ್_ಅಗ್ಬಬಿ,ಬ್_ಶೆಟ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,1.625000000e-06,17,1000,medium,non_matching,seconds
+KMP_tulu_1000_0173,tulu,ಒಲಿಂಪಿಕ್_ಭಾರತದ_ಸಾಧನೆ,ರುಪ್,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.625000000e-06,21,1000,medium,non_matching,seconds
+KMP_tulu_1000_0174,tulu,ಪುದುಚೇರಿ_(ಕೇಂದ್ರಾಡಳಿತ_ಪ್ರದೇಸೊ),್ಯಾವರೊ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,2.375000000e-06,32,1000,medium,non_matching,seconds
+KMP_tulu_1000_0175,tulu,ಕಾಪು_ಪಿಲಿಕೋಲೊ,ಜಿ-ಚೈಲ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,1.042000000e-06,13,1000,medium,non_matching,seconds
+KMP_tulu_1000_0176,tulu,ಶೂರ್ಪನಕಿ,ರ_ತೇವ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,8.340000000e-07,9,1000,medium,non_matching,seconds
+KMP_tulu_1000_0177,tulu,ಅಚ್ಚಿದ_ಮೊಳೆ,ರಂಗ್,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,9.170000000e-07,11,1000,medium,non_matching,seconds
+KMP_tulu_1000_0178,tulu,ಎಸ್.ಎಲ್.ಬೈರಪ್ಪ,ಾಬಾದ,4,[],[],False,False,PASSED,"[0, 0, 1, 0]",5.000000000e-07,1.084000000e-06,14,1000,medium,non_matching,seconds
+KMP_tulu_1000_0179,tulu,ರುಕ್ಮಿಣಿ,ಾಣಪುರ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.590000000e-07,7.090000000e-07,8,1000,medium,non_matching,seconds
+KMP_tulu_1000_0180,tulu,ಬಯಕ್ಕೆದ_ಮದಿಮ್ಮೆ,ಸ್ತಾನೊ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,1.125000000e-06,15,1000,medium,non_matching,seconds
+KMP_tulu_1000_0181,tulu,ಅರವಿಂದ್_ಬೋಳಾರ್,್_ಕಟ್ಟ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0]",6.660000000e-07,1.208000000e-06,15,1000,medium,non_matching,seconds
+KMP_tulu_1000_0182,tulu,ವೊರೊಂಟ್ಸೊವ್_ಅರಮನೆ,_ಗೊಬ್ಬ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.000000000e-07,1.334000000e-06,18,1000,medium,non_matching,seconds
+KMP_tulu_1000_0183,tulu,ಗುರುಗುಙಿ,ತ್ತಿ,4,[],[],False,False,PASSED,"[0, 0, 1, 0]",5.000000000e-07,7.500000000e-07,8,1000,medium,non_matching,seconds
+KMP_tulu_1000_0184,tulu,ಗುರುಗುಙಿ,_.ಕೆ.,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.590000000e-07,7.090000000e-07,8,1000,medium,non_matching,seconds
+KMP_tulu_1000_0185,tulu,ಧೀರು_ಬಾಯಿ_ಅಂಬಾನಿ,ಅಮೀಬಾ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,1.375000000e-06,17,1000,medium,non_matching,seconds
+KMP_tulu_1000_0186,tulu,ನ್ಯೂಕ್ಲೀಯ_ಶಕ್ತಿ,ಬೇವುರ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,1.167000000e-06,15,1000,medium,non_matching,seconds
+KMP_tulu_1000_0187,tulu,ಜುಲನ್_ಗೋಸ್ವಾಮಿ,ನಾಲ್ಪೊ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.410000000e-07,1.291000000e-06,15,1000,medium,non_matching,seconds
+KMP_tulu_1000_0188,tulu,ಲಿಲಿಯನ್_ಬ್ಲ್ಯಾಂಡ್,ಂತ್ರ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",1.291000000e-06,1.583000000e-06,18,1000,medium,non_matching,seconds
+KMP_tulu_1000_0189,tulu,ಜಾಂಗ್_ಹುಯಿಲಾನ್,ಗ್_ಮ,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,1.292000000e-06,15,1000,medium,non_matching,seconds
+KMP_tulu_1000_0190,tulu,ಕೈಕೇಯಿ,ಚಟ್ನಿ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.160000000e-07,6.250000000e-07,6,1000,medium,non_matching,seconds
+KMP_tulu_1000_0191,tulu,ಅಗ್ನಿಸಾಕ್ಷಿ(೧೯೯೯_ಚಿತ್ರ),ನಕ್ಕುರ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.840000000e-07,1.792000000e-06,24,1000,medium,non_matching,seconds
+KMP_tulu_1000_0192,tulu,ಅಫ್ಘಾನಿಸ್ತಾನ,ಮುಟ್ಟ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.580000000e-07,9.170000000e-07,12,1000,medium,non_matching,seconds
+KMP_tulu_1000_0193,tulu,ಶಿವಯೋಗಿ_ಸಿದ್ದರಾಮೆ,ಶಾಖನ್,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,1.375000000e-06,18,1000,medium,non_matching,seconds
+KMP_tulu_1000_0194,tulu,ನಿಟ್ಟೆ_ವಿದ್ಯಾಸಂಸ್ಥೆ_ಬೊಕ್ಕ_ನಿಟ್ಟೆ_ವಿಶ್ವವಿದ್ಯಾಲಯ,ಾರೊದ_,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.590000000e-07,3.375000000e-06,48,1000,medium,non_matching,seconds
+KMP_tulu_1000_0195,tulu,ವಸುಂದರಾ_ಭೂಪತಿ,್ಲೆಗೊ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.590000000e-07,1.042000000e-06,13,1000,medium,non_matching,seconds
+KMP_tulu_1000_0196,tulu,ಸೊಪ್ಪಧಂಡಿ_ಯಶಸ್ರೀ,ಪುಗೆರ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",5.000000000e-07,1.458000000e-06,18,1000,medium,non_matching,seconds
+KMP_tulu_1000_0197,tulu,ಕನಕದಾಸ,ಂಗನ್,4,[],[],False,False,PASSED,"[0, 0, 0, 0]",4.170000000e-07,5.830000000e-07,6,1000,medium,non_matching,seconds
+KMP_tulu_1000_0198,tulu,ಶಂಖ,ಡುಕ್ಕು,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,4.160000000e-07,3,1000,medium,non_matching,seconds
+KMP_tulu_1000_0199,tulu,ಕಂಡೊಕೋರಿ,.ಧೋನಿ,5,[],[],False,False,PASSED,"[0, 0, 0, 0, 0]",4.590000000e-07,7.090000000e-07,8,1000,medium,non_matching,seconds
+KMP_tulu_1000_0200,tulu,ಕನ್ನಡ_ಲಿಪಿಟ್ಟ್_ತುಳು_ಸಾಹಿತ್ಯ,ಧಾರವಾಡ,6,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0]",5.420000000e-07,1.958000000e-06,27,1000,medium,non_matching,seconds
+KMP_tulu_1000_0201,tulu,ಜೆನ್ನಿಫರ್‌_ವಿಂಗೆಟ್‌_(ನಟಿ),ಿಂಗೆಟ್‌,7,[12],[12],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.840000000e-07,2.167000000e-06,27,1000,long,matching,seconds
+KMP_tulu_1000_0202,tulu,ಸರಳಾ_ತುಕ್ರಾಲ್,ಳಾ_ತುಕ್ರಾ,9,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.167000000e-06,13,1000,long,matching,seconds
+KMP_tulu_1000_0203,tulu,ಅಡಮಿಂತೆ_ಮಗನ್_ಅಬು,ತೆ_ಮಗನ್,7,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.660000000e-07,1.375000000e-06,16,1000,long,matching,seconds
+KMP_tulu_1000_0204,tulu,ಕುಕ್ಕು_ಅಡ್ಂಗಾಯಿ,ುಕ್ಕು_ಅಡ್ಂ,10,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",8.750000000e-07,1.334000000e-06,15,1000,long,matching,seconds
+KMP_tulu_1000_0205,tulu,ಯು_ಶುವಾನ್‌ಜಿ,ುವಾನ್‌ಜಿ,8,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.208000000e-06,13,1000,long,matching,seconds
+KMP_tulu_1000_0206,tulu,ಗುರ್ಬಾನಿ_ಜಾಡ್ಜ್,ನಿ_ಜಾಡ್,7,[6],[6],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,1.292000000e-06,15,1000,long,matching,seconds
+KMP_tulu_1000_0207,tulu,ಉಡುಪಿ_ಸೀರೆ,ಡುಪಿ_ಸೀರ,8,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.000000000e-06,10,1000,long,matching,seconds
+KMP_tulu_1000_0208,tulu,ಡಿಸಿಬಿ_ಬ್ಯಾಂಕ್,ಿ_ಬ್ಯಾಂಕ್,9,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.416000000e-06,16,1000,long,matching,seconds
+KMP_tulu_1000_0209,tulu,ಅರಣ್ಮುಲಾ_ಉತ್ತರಾಭಾದ್ರಪದೊ_ಓಡೊ_ಗೊಬ್ಬು,ಉತ್ತರಾಭ,7,[9],[9],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,2.500000000e-06,34,1000,long,matching,seconds
+KMP_tulu_1000_0210,tulu,ಅಟಿಲ್_ಮಲ್ಪುನ_ಗೊಬ್ಬು,ಅಟಿಲ್_ಮಲ್,9,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.090000000e-07,1.583000000e-06,19,1000,long,matching,seconds
+KMP_tulu_1000_0211,tulu,ತುಲುನಾಡ್ದ_ಜನಪದ,ತುಲುನಾಡ್ದ_,10,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.340000000e-07,1.250000000e-06,14,1000,long,matching,seconds
+KMP_tulu_1000_0212,tulu,ಕುರಲ್_ದಿಂಜಾವುನಿ,ರಲ್_ದಿಂಜಾವ,10,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.333000000e-06,15,1000,long,matching,seconds
+KMP_tulu_1000_0213,tulu,ಎಸ್ಕಿ_ಕೆರ್ಮೆನ್,ಸ್ಕಿ_ಕೆರ,8,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.250000000e-06,14,1000,long,matching,seconds
+KMP_tulu_1000_0214,tulu,ಬಾಕಿಮಾರ್,ಬಾಕಿಮಾರ,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,8.750000000e-07,8,1000,long,matching,seconds
+KMP_tulu_1000_0215,tulu,ಪ್ರಿಯಾ_ಜಿಂಗನ್,ಪ್ರಿಯಾ_ಜಿ,9,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,1.292000000e-06,13,1000,long,matching,seconds
+KMP_tulu_1000_0216,tulu,ಬಂಜಾರ_ಬಾಸೆ,ಬಂಜಾರ_ಬ,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 1]",7.080000000e-07,1.083000000e-06,11,1000,long,matching,seconds
+KMP_tulu_1000_0217,tulu,ಕುಕ್ಕೆ_ಶ್ರೀ_ಸುಬ್ರಹ್ಮಣ್ಯ_ಕ್ಷೇತ್ರ,ಯ_ಕ್ಷೇತ್,8,[22],[22],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,2.667000000e-06,31,1000,long,matching,seconds
+KMP_tulu_1000_0218,tulu,ಬಜಿಲ್ದ_ತೆನಸುಲು,ದ_ತೆನಸುಲ,8,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.292000000e-06,14,1000,long,matching,seconds
+KMP_tulu_1000_0219,tulu,ಬಾರೆ_ಪೂ,ಬಾರೆ_ಪೂ,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,7.920000000e-07,7,1000,long,matching,seconds
+KMP_tulu_1000_0220,tulu,ಸೇಮೆದ_ಮನೆ,ಸೇಮೆದ_ಮನ,8,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,9.160000000e-07,9,1000,long,matching,seconds
+KMP_tulu_1000_0221,tulu,ಎಡಕುಮೇರಿ,ಡಕುಮೇರಿ,7,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,9.160000000e-07,8,1000,long,matching,seconds
+KMP_tulu_1000_0222,tulu,ರುಡ್_ಸೆಟ್,ರುಡ್_ಸೆಟ,8,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,9.590000000e-07,9,1000,long,matching,seconds
+KMP_tulu_1000_0223,tulu,ಆಶಾ_ಭೋಂಸ್ಲೆ,ಆಶಾ_ಭೋಂಸ್ಲ,10,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.083000000e-06,11,1000,long,matching,seconds
+KMP_tulu_1000_0224,tulu,ತ್ರಿಜಟೆ,ತ್ರಿಜಟೆ,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,7.920000000e-07,7,1000,long,matching,seconds
+KMP_tulu_1000_0225,tulu,ಕನ್ನಾಜೆ,ಕನ್ನಾಜೆ,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.840000000e-07,7.920000000e-07,7,1000,long,matching,seconds
+KMP_tulu_1000_0226,tulu,ಶ್ರೀದೇವಿ_(ನಟಿ),್ರೀದೇವಿ_,8,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.660000000e-07,1.292000000e-06,14,1000,long,matching,seconds
+KMP_tulu_1000_0227,tulu,ಉಳ್ಳಾಕ್ಲು,ಉಳ್ಳಾಕ್ಲ,8,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,9.590000000e-07,9,1000,long,matching,seconds
+KMP_tulu_1000_0228,tulu,ಎಟ್ಟಿ_ಪೊಡಿ_ಚಟ್ನಿ,ಎಟ್ಟಿ_ಪೊಡಿ,10,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.375000000e-06,16,1000,long,matching,seconds
+KMP_tulu_1000_0229,tulu,ಚೊಂಗ್ಕಿಂಗ್,ಗ್ಕಿಂಗ್,7,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 1, 2]",6.660000000e-07,1.083000000e-06,10,1000,long,matching,seconds
+KMP_tulu_1000_0230,tulu,ಬೆರ್ಮೆರೆ_ಗುಂಡ,ಬೆರ್ಮೆರ,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,1.167000000e-06,13,1000,long,matching,seconds
+KMP_tulu_1000_0231,tulu,ನಾಲ್ಪೊಳು,ನಾಲ್ಪೊಳ,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.840000000e-07,8.330000000e-07,8,1000,long,matching,seconds
+KMP_tulu_1000_0232,tulu,ಬ್ಯಾರಿ_ಬೂಕುಲು,ಾರಿ_ಬೂಕುಲ,9,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,1.167000000e-06,13,1000,long,matching,seconds
+KMP_tulu_1000_0233,tulu,ಚೈತ್ರ_ಶೆಟ್ಟಿ,್ರ_ಶೆಟ್ಟ,8,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0]",7.920000000e-07,1.125000000e-06,12,1000,long,matching,seconds
+KMP_tulu_1000_0234,tulu,ತುಳು_ಅಕ್ಷರಮಾಲೆ,_ಅಕ್ಷರಮಾಲ,9,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.250000000e-06,14,1000,long,matching,seconds
+KMP_tulu_1000_0235,tulu,ಬಾನ್_ಜೆಯು,ಾನ್_ಜೆಯ,7,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,9.170000000e-07,9,1000,long,matching,seconds
+KMP_tulu_1000_0236,tulu,ಭವ್ಯಶ್ರೀ_ಕುಲ್ಕುಂದ,ಕುಲ್ಕುಂದ,8,[9],[9],True,True,PASSED,"[0, 0, 0, 0, 1, 2, 0, 0]",8.330000000e-07,1.416000000e-06,17,1000,long,matching,seconds
+KMP_tulu_1000_0237,tulu,ಕೊರಲ್_ಕಟ್ಟುನು,_ಕಟ್ಟುನ,7,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,1.167000000e-06,13,1000,long,matching,seconds
+KMP_tulu_1000_0238,tulu,ಕರ್ನಾಟಕ_ವಿಧಾನ_ಸಭೆ,ಕ_ವಿಧಾನ_ಸಭ,10,[6],[6],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.910000000e-07,1.500000000e-06,18,1000,long,matching,seconds
+KMP_tulu_1000_0239,tulu,ತಜಂಕ್_ವಡೆ,ತಜಂಕ್_ವಡೆ,9,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,9.170000000e-07,9,1000,long,matching,seconds
+KMP_tulu_1000_0240,tulu,ಬ್ಯಾರಿ_ಬಾಸೆ,ಾರಿ_ಬಾಸೆ,8,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 1, 0, 0]",8.750000000e-07,1.042000000e-06,11,1000,long,matching,seconds
+KMP_tulu_1000_0241,tulu,ಕೊಂಕಣಿ_ಬಾಸೆ,ಕಣಿ_ಬಾಸೆ,8,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.167000000e-06,12,1000,long,matching,seconds
+KMP_tulu_1000_0242,tulu,ವರ್ಷಾ_ಬೊಳ್ಳಮ್ಮ,ಷಾ_ಬೊಳ್ಳಮ್,10,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.834000000e-06,1.417000000e-06,14,1000,long,matching,seconds
+KMP_tulu_1000_0243,tulu,ಒಲೆಸ್ಕೊ_ಕೋಟೆ,ೆಸ್ಕೊ_ಕೋಟ,9,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.334000000e-06,12,1000,long,matching,seconds
+KMP_tulu_1000_0244,tulu,ನೀತು_ಘಂಘಾಸ್,ತು_ಘಂಘಾಸ,8,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.660000000e-07,1.125000000e-06,11,1000,long,matching,seconds
+KMP_tulu_1000_0245,tulu,ಬ್ರಹ್ಮಲೋಕೊ,ಬ್ರಹ್ಮಲ,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,1.000000000e-06,10,1000,long,matching,seconds
+KMP_tulu_1000_0246,tulu,ಕೇರಳದ_ಭಿತ್ತಿಚಿತ್ರ_ಚಿತ್ರಕಲೆ,ಕೇರಳದ_ಭಿತ,9,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,2.125000000e-06,27,1000,long,matching,seconds
+KMP_tulu_1000_0247,tulu,ಈಶಾ_ರೆಬ್ಬಾ,ಈಶಾ_ರೆಬ್ಬಾ,10,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,9.590000000e-07,10,1000,long,matching,seconds
+KMP_tulu_1000_0248,tulu,ನವರಾತ್ರಿ,ನವರಾತ್ರ,7,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,1.000000000e-06,8,1000,long,matching,seconds
+KMP_tulu_1000_0249,tulu,ಕವಲೇದುರ್ಗ,ಲೇದುರ್ಗ,7,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,9.170000000e-07,9,1000,long,matching,seconds
+KMP_tulu_1000_0250,tulu,ಮಲಮುತನ್_ಬಾಸೆ,ಲಮುತನ್_ಬಾಸ,10,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.340000000e-07,1.125000000e-06,12,1000,long,matching,seconds
+KMP_tulu_1000_0251,tulu,ಸ್ವಕೇಂದ್ರಿತೊ_ವ್ಯಕ್ತಿತ್ವೊ_ಮನೋರೋಗೊ,ರಿಯಾ_ಬಾಸ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,2.459000000e-06,34,1000,long,non_matching,seconds
+KMP_tulu_1000_0252,tulu,ಮುದ್ದು_ಮೂಡುಬೆಳ್ಳೆ,ಾಲುಮರತ_ತಿಮ,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.375000000e-06,17,1000,long,non_matching,seconds
+KMP_tulu_1000_0253,tulu,ಗಾಂಧಿ-_ಇರ್ವಿನ್_ಒಪ್ಪಂದ,ಗ್_(ಚೀನದ_ಕ,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.625000000e-06,22,1000,long,non_matching,seconds
+KMP_tulu_1000_0254,tulu,ಕವಿತಾ_(ನಟಿ),._ರಾಘವನ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.420000000e-07,9.170000000e-07,11,1000,long,non_matching,seconds
+KMP_tulu_1000_0255,tulu,ಕಣಿಕ್ಕರನ್_ಬಾಸೆ,ಾಲೆ_ತೊಟ್ಟಿ,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.340000000e-07,1.250000000e-06,15,1000,long,non_matching,seconds
+KMP_tulu_1000_0256,tulu,ಒಲೆಸ್ಕೊ_ಕೋಟೆ,ಯಾಂಗ್‌ಟೊ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,9.590000000e-07,12,1000,long,non_matching,seconds
+KMP_tulu_1000_0257,tulu,ಅಮೃತ_ಪ್ರೀತಮ್,ಸ್ತಿಕಾ_ಭಾ,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,9.590000000e-07,12,1000,long,non_matching,seconds
+KMP_tulu_1000_0258,tulu,ಕುರ್ಸು,ಮ್ಮೆಂಬಳ,7,[],[],False,False,PASSED,"[0, 0, 1, 0, 0, 0, 0]",7.090000000e-07,5.840000000e-07,6,1000,long,non_matching,seconds
+KMP_tulu_1000_0259,tulu,ಕಮಲಾ_ದಾಸ್_ಗುಪ್ತ,ಬಾಯಿ_ದೇಶಮು,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.167000000e-06,15,1000,long,non_matching,seconds
+KMP_tulu_1000_0260,tulu,ಚಾರುಲತಾ,ಜರಿ_ಚತುರ್,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.910000000e-07,6.670000000e-07,7,1000,long,non_matching,seconds
+KMP_tulu_1000_0261,tulu,ಜೈ_ತುಳುನಾಡ್,ಪ್ರಶಸ್ತ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,9.170000000e-07,11,1000,long,non_matching,seconds
+KMP_tulu_1000_0262,tulu,ಲ್ವಿವ್‌ದ_ಪಳಯ_ನಗರ,ದೆಂಗಟ್‌_ದೀ,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",9.170000000e-07,1.458000000e-06,17,1000,long,non_matching,seconds
+KMP_tulu_1000_0263,tulu,"ಉಚ್ಚಿಲ,_ಉಡುಪಿ_ಜಿಲ್ಲೆ",ೇವಸ್ಥಾನ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",5.830000000e-07,1.500000000e-06,20,1000,long,non_matching,seconds
+KMP_tulu_1000_0264,tulu,ಸಾದಿಯಾ_ಅಯ್ಮನ್,ಲ್ಲಡ್ಕ_ಟೀ,9,[],[],False,False,PASSED,"[0, 0, 1, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.000000000e-06,13,1000,long,non_matching,seconds
+KMP_tulu_1000_0265,tulu,ಇಂಡೋನೇಷ್ಯಾ,ಪಾದಲ_ಸಪ್,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0]",8.750000000e-07,7.910000000e-07,10,1000,long,non_matching,seconds
+KMP_tulu_1000_0266,tulu,ಕಾಂತೇರಿ_ಜುಮಾದಿ,_ಬ್ಯಾಂಕ್,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,1.167000000e-06,15,1000,long,non_matching,seconds
+KMP_tulu_1000_0267,tulu,ಮೂರ್ತೆ,್ಸ್_ಆಂಡ್,8,[],[],False,False,PASSED,"[0, 0, 1, 0, 0, 0, 0, 1]",1.750000000e-06,8.330000000e-07,7,1000,long,non_matching,seconds
+KMP_tulu_1000_0268,tulu,ನಾಚಿಕೆ_ಮುಳ್ಳು,ಮಸ್ಜಿದ್_ಝ,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.250000000e-06,14,1000,long,non_matching,seconds
+KMP_tulu_1000_0269,tulu,ಕಡ್ಲೆ_ಬಜಿಲ್,ಾಮೂಹಿಕ_ಗ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.209000000e-06,11,1000,long,non_matching,seconds
+KMP_tulu_1000_0270,tulu,ವರ್ಷಾ_ಬೊಳ್ಳಮ್ಮ,ಿಯೊಲಾಜಿಕಲ್,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",1.209000000e-06,1.167000000e-06,14,1000,long,non_matching,seconds
+KMP_tulu_1000_0271,tulu,ಮಂಗಳಮುಖಿ,ನೆದ_ಪುಂ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,7.080000000e-07,8,1000,long,non_matching,seconds
+KMP_tulu_1000_0272,tulu,ಪಂಜುರ್ಲಿ,ಯಚಂದ್ರ_ಜೈನ,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,7.090000000e-07,8,1000,long,non_matching,seconds
+KMP_tulu_1000_0273,tulu,ಕಲ್ಯಾಣಪುರ,ಯ_ಶೆಟ್ಟಿ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,9.160000000e-07,10,1000,long,non_matching,seconds
+KMP_tulu_1000_0274,tulu,ಸರಸ್ವತಿ_ಸುದೆ,ನ್_ಕ್ಸಿನ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 1]",6.660000000e-07,9.580000000e-07,12,1000,long,non_matching,seconds
+KMP_tulu_1000_0275,tulu,ಪಗ್ಗು,ಉಲ್ಲಾಕುಳ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,5.420000000e-07,5,1000,long,non_matching,seconds
+KMP_tulu_1000_0276,tulu,ಮರ_ತೇವ್,ಲಮಣಿ_ಅಮ್,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.250000000e-07,7.090000000e-07,7,1000,long,non_matching,seconds
+KMP_tulu_1000_0277,tulu,ಶಕುಂತಳಾ_ಭಟ್,್ವೇಜಿಯನ್_ಕ,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",8.750000000e-07,9.580000000e-07,11,1000,long,non_matching,seconds
+KMP_tulu_1000_0278,tulu,ಕಕ್ಕುನೆ,ರ್ಡ್_ಕ್ರಾ,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 1, 0]",7.910000000e-07,6.660000000e-07,7,1000,long,non_matching,seconds
+KMP_tulu_1000_0279,tulu,ಉಡುಪಿ_ಸೀರೆ,_ನೈಟಿಂಗೇಲ್,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.090000000e-07,9.170000000e-07,11,1000,long,non_matching,seconds
+KMP_tulu_1000_0280,tulu,ರೇಡಿಯೋ,್_ದ_ಪೋಡ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,5.830000000e-07,6,1000,long,non_matching,seconds
+KMP_tulu_1000_0281,tulu,ಗಾಡಿ_ಗೊಬ್ಬು,ವರ್ಷಾ_ಬೊಳ್,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,9.160000000e-07,11,1000,long,non_matching,seconds
+KMP_tulu_1000_0282,tulu,ಡಿ._ವಿ._ಸದಾನಂದ_ಗೌಡ,ಕೋಟೆಕೇರಿ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0]",7.500000000e-07,1.333000000e-06,18,1000,long,non_matching,seconds
+KMP_tulu_1000_0283,tulu,ಕಾಟ್_ನೆಲ್ಲಿ,ಕಾಡ_ನರಮನ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.042000000e-06,12,1000,long,non_matching,seconds
+KMP_tulu_1000_0284,tulu,ಗೀತಾಂಜಲಿ_ಮಿಶ್ರಾ_(ನಟಿ),್ವ_ಪತ್ರೆ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 1, 0, 0]",7.500000000e-07,1.666000000e-06,22,1000,long,non_matching,seconds
+KMP_tulu_1000_0285,tulu,ಲಸೋಫ್ನ_ಗೊಬ್ಬುಲೆಡ್_ಭಾರತ,"್,_ಭಾರತ",7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,1.917000000e-06,25,1000,long,non_matching,seconds
+KMP_tulu_1000_0286,tulu,ಕೊರಲ್_ಕಟ್ಟುನು,್._ನಾಗವೇಣ,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.250000000e-06,15,1000,long,non_matching,seconds
+KMP_tulu_1000_0287,tulu,ದಕ್ಷಿಣ_ಅಮೇರಿಕ,ೆ_ಪೆರ್ಗೆ,8,[],[],False,False,PASSED,"[0, 0, 0, 1, 0, 0, 0, 1]",8.340000000e-07,1.042000000e-06,13,1000,long,non_matching,seconds
+KMP_tulu_1000_0288,tulu,ಮಹಿಳಾ_ಪೊಲೀಸ್,ಉದಕಮಂಡಲ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.333000000e-06,12,1000,long,non_matching,seconds
+KMP_tulu_1000_0289,tulu,ನ್ಯಾಕಿಮ್_ಗಟ್ವೆಚ್,ಡೆಲಿಯಾ_ರೆಟ,10,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.125000000e-06,1.833000000e-06,16,1000,long,non_matching,seconds
+KMP_tulu_1000_0290,tulu,ಭಾರತೀಯ_ರಾಷ್ಟ್ರೀಯ_ಕಾಂಗ್ರೆಸ್,ಅಗಸ್ಟ್_ಮೆ,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,2.125000000e-06,26,1000,long,non_matching,seconds
+KMP_tulu_1000_0291,tulu,ಯುವಾನ್ಮಿಂಗ್ಯುವಾನ್,ಗೋಲಿಯಾಟ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",7.080000000e-07,1.542000000e-06,18,1000,long,non_matching,seconds
+KMP_tulu_1000_0292,tulu,ತುಳುನಾಡು_ದ್ವೆವ,ರ್ದಾರ್_ವ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 2, 0, 0]",1.000000000e-06,1.375000000e-06,14,1000,long,non_matching,seconds
+KMP_tulu_1000_0293,tulu,ಹಾಲಕ್ಕಿ_ಜನಾಂಗ,ಂಚಿಲ್_ಪರಕ,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.333000000e-06,14,1000,long,non_matching,seconds
+KMP_tulu_1000_0294,tulu,ವಂದೇ_ಭಾರತ್_ಎಕ್ಸ್‌ಪ್ರೆಸ್,ಯತೀಶ್‌_ರೈ,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.875000000e-06,23,1000,long,non_matching,seconds
+KMP_tulu_1000_0295,tulu,ಇರೆ,ಚೈನದ_ನೃತ,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,5.000000000e-07,3,1000,long,non_matching,seconds
+KMP_tulu_1000_0296,tulu,ಝು_ಕ್ಸಿಯಾಂಗ್_ಯುನ್,ಿತಾ_ನಾಯ,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.660000000e-07,1.583000000e-06,18,1000,long,non_matching,seconds
+KMP_tulu_1000_0297,tulu,ಓಡ್,ಟ್_ಮೆನ್,7,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0]",6.670000000e-07,4.590000000e-07,3,1000,long,non_matching,seconds
+KMP_tulu_1000_0298,tulu,ಬಂಜಾರ_ಬಾಸೆ,ಷ್ಟ್ರೀಯ_,8,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0]",7.500000000e-07,1.000000000e-06,10,1000,long,non_matching,seconds
+KMP_tulu_1000_0299,tulu,ಕೊರಲ್_ಕಟ್ಟುನು,_ಗಹರ್_ಸ್ಟ,9,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 1, 0, 0, 0]",9.590000000e-07,1.250000000e-06,14,1000,long,non_matching,seconds
+KMP_tulu_1000_0300,tulu,ಮೆತ್ತೆಮಣ್ಣಿ,ಳ್ಳಾಕ್ಲು,8,[],[],False,False,PASSED,"[0, 0, 1, 0, 0, 0, 0, 0]",8.750000000e-07,1.041000000e-06,11,1000,long,non_matching,seconds
+KMP_tulu_1000_0301,tulu,ಪೊಳಲಿ_ಶೀನಪ್ಪ_ಹೆಗ್ಡೆ-ಎಸ್._ಆರ್._ಹೆಗ್ಡೆ_ಪ್ರಶಸ್ಥಿಲು,ೆಗ್ಡೆ_ಪ್ರಶಸ,11,[31],[31],True,True,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",1.167000000e-06,4.125000000e-06,49,1000,very_long,matching,seconds
+KMP_tulu_1000_0302,tulu,ಜರ್ಮನ್_ಭಾಷೆ,ಜರ್ಮನ್_ಭಾಷೆ,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.083000000e-06,1.250000000e-06,11,1000,very_long,matching,seconds
+KMP_tulu_1000_0303,tulu,ರಾಜ್ಯೋತ್ಸವ_ಪ್ರಶಸ್ತಿ_೨೦೧೨,ೋತ್ಸವ_ಪ್ರಶಸ್ತ,13,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.125000000e-06,2.208000000e-06,24,1000,very_long,matching,seconds
+KMP_tulu_1000_0304,tulu,ತುಳುನಾಡು_ದ್ವೆವ,ತುಳುನಾಡು_ದ್ವೆವ,14,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.208000000e-06,1.458000000e-06,14,1000,very_long,matching,seconds
+KMP_tulu_1000_0305,tulu,ಹರ್ಲೀನ್_ದಿಯೊಲ್,ರ್ಲೀನ್_ದಿಯೊಲ್,13,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.125000000e-06,1.500000000e-06,14,1000,very_long,matching,seconds
+KMP_tulu_1000_0306,tulu,ಗರ್ಬ_ಪೋಪುನೆ,ಗರ್ಬ_ಪೋಪುನೆ,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.590000000e-07,1.209000000e-06,11,1000,very_long,matching,seconds
+KMP_tulu_1000_0307,tulu,ಆಶ್ಲೇ_ಗಾರ್ಡ್ನರ್,್ಲೇ_ಗಾರ್ಡ್ನ,11,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]",1.209000000e-06,1.542000000e-06,15,1000,very_long,matching,seconds
+KMP_tulu_1000_0308,tulu,ಝು_ಕ್ಸಿಯಾಂಗ್_ಯುನ್,_ಕ್ಸಿಯಾಂಗ್_ಯುನ,14,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",1.208000000e-06,1.583000000e-06,17,1000,very_long,matching,seconds
+KMP_tulu_1000_0309,tulu,ಹಿಂದಿ_ಪಾತೆರೊ,ಹಿಂದಿ_ಪಾತೆರೊ,12,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.042000000e-06,1.334000000e-06,12,1000,very_long,matching,seconds
+KMP_tulu_1000_0310,tulu,ಎನ್_ಎಸ್_ಎಸ್,ಎನ್_ಎಸ್_ಎಸ್,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]",1.166000000e-06,1.125000000e-06,11,1000,very_long,matching,seconds
+KMP_tulu_1000_0311,tulu,ಬಾಂಗ್ಲಾ_ದೇಶ,ಬಾಂಗ್ಲಾ_ದೇಶ,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,1.166000000e-06,11,1000,very_long,matching,seconds
+KMP_tulu_1000_0312,tulu,ಬೀಜ_ಕುಟ್ಟುನ_ಗೊಬ್ಬು,_ಕುಟ್ಟುನ_ಗೊಬ,12,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",1.083000000e-06,1.667000000e-06,18,1000,very_long,matching,seconds
+KMP_tulu_1000_0313,tulu,ಬೊಲ್ಲರ_ಮಾನಿಗ,ಬೊಲ್ಲರ_ಮಾನಿಗ,12,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.042000000e-06,1.250000000e-06,12,1000,very_long,matching,seconds
+KMP_tulu_1000_0314,tulu,ಚಿಮೇರಾಸ್_ನ_ಇಲ್ಲ್,ಮೇರಾಸ್_ನ_ಇಲ್ಲ್,14,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.167000000e-06,1.584000000e-06,16,1000,very_long,matching,seconds
+KMP_tulu_1000_0315,tulu,ಸೈಂಟ್_ಥಾಮಸ್_ಫೋರ್ಟ್,_ಥಾಮಸ್_ಫೋರ್,11,[5],[5],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",1.083000000e-06,1.666000000e-06,18,1000,very_long,matching,seconds
+KMP_tulu_1000_0316,tulu,"ಹೈದರಾಬಾದ್,_ಭಾರತ","ದರಾಬಾದ್,_ಭಾರತ",13,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",1.208000000e-06,1.500000000e-06,15,1000,very_long,matching,seconds
+KMP_tulu_1000_0317,tulu,ಬಳ್ಳಾರಿ_ಜಿಲ್ಲೆ,್ಳಾರಿ_ಜಿಲ್ಲೆ,12,[2],[2],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",1.167000000e-06,1.417000000e-06,14,1000,very_long,matching,seconds
+KMP_tulu_1000_0318,tulu,ಮಾಸ್ತಿಕಲ್ಲ್,ಮಾಸ್ತಿಕಲ್ಲ್,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,1.209000000e-06,11,1000,very_long,matching,seconds
+KMP_tulu_1000_0319,tulu,ತೋಶಿಕೊ_ಸೆಕಿಯಾ,ತೋಶಿಕೊ_ಸೆಕಿಯಾ,13,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.083000000e-06,1.291000000e-06,13,1000,very_long,matching,seconds
+KMP_tulu_1000_0320,tulu,ಕಲಿ_ಫಾರ್_ವುಮೆನ್_ಯೋಜನೆ,ಕಲಿ_ಫಾರ್_ವುಮೆ,13,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.083000000e-06,2.000000000e-06,21,1000,very_long,matching,seconds
+KMP_tulu_1000_0321,tulu,ಎಂ._ಮೋಹನ_ಆಳ್ವ,ಎಂ._ಮೋಹನ_ಆಳ್ವ,13,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.208000000e-06,1.416000000e-06,13,1000,very_long,matching,seconds
+KMP_tulu_1000_0322,tulu,ಕಟೇರಿ_ಅಮ್ಮನ್,ಕಟೇರಿ_ಅಮ್ಮನ,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,1.291000000e-06,12,1000,very_long,matching,seconds
+KMP_tulu_1000_0323,tulu,ಕದಂಬಿನಿ_ಗಂಗೂಲಿ,ಕದಂಬಿನಿ_ಗಂಗೂಲ,13,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.041000000e-06,1.416000000e-06,14,1000,very_long,matching,seconds
+KMP_tulu_1000_0324,tulu,ಮಲಾಲಾ_ಯೂಸಫ್_ಝಾಯಿ,ಮಲಾಲಾ_ಯೂಸಫ್_ಝ,13,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.084000000e-06,1.542000000e-06,16,1000,very_long,matching,seconds
+KMP_tulu_1000_0325,tulu,ನುಂಗೆಲ್_ಮೀನ್_ಚಟ್ನಿ,ನುಂಗೆಲ್_ಮೀನ್_ಚ,14,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",1.291000000e-06,1.833000000e-06,19,1000,very_long,matching,seconds
+KMP_tulu_1000_0326,tulu,ಟ್ರೈಜುಬ್_(ಸಂಸ್ಥೆ),ೈಜುಬ್_(ಸಂಸ್ಥೆ,13,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.125000000e-06,1.667000000e-06,17,1000,very_long,matching,seconds
+KMP_tulu_1000_0327,tulu,ಚಾಂದಿನಿ_ತಮಿಳರಸನ್,ದಿನಿ_ತಮಿಳರಸನ್,13,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.125000000e-06,1.584000000e-06,16,1000,very_long,matching,seconds
+KMP_tulu_1000_0328,tulu,ವರಿಜಾಶ್ರೀ_ವೇಣುಗೋಪಾಲ್,ಜಾಶ್ರೀ_ವೇಣುಗೋ,13,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.125000000e-06,1.875000000e-06,20,1000,very_long,matching,seconds
+KMP_tulu_1000_0329,tulu,ಕರ್ನಾಟಕ_ಬ್ಯಾರಿ_ಸಾಹಿತ್ಯ_ಅಕಾಡೆಮಿ,ಕ_ಬ್ಯಾರಿ_ಸಾ,11,[6],[6],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,2.833000000e-06,32,1000,very_long,matching,seconds
+KMP_tulu_1000_0330,tulu,ಒಳದನಿ_(ಪುಸ್ತಕ),ಳದನಿ_(ಪುಸ್ತಕ),13,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.166000000e-06,1.500000000e-06,14,1000,very_long,matching,seconds
+KMP_tulu_1000_0331,tulu,ಅನಿತಾ_ನಾಯರ್,ಅನಿತಾ_ನಾಯರ್,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.125000000e-06,1.292000000e-06,11,1000,very_long,matching,seconds
+KMP_tulu_1000_0332,tulu,ಕಂಚಿಲ್_ಪರಕೆ,ಕಂಚಿಲ್_ಪರಕೆ,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",1.250000000e-06,1.334000000e-06,11,1000,very_long,matching,seconds
+KMP_tulu_1000_0333,tulu,ಅಬ್ಬೊಲಿಗೆದ_ಪೂ,ಬ್ಬೊಲಿಗೆದ_ಪ,11,[1],[1],True,True,PASSED,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",1.167000000e-06,1.416000000e-06,13,1000,very_long,matching,seconds
+KMP_tulu_1000_0334,tulu,ತ್ರ್ಯಂಬಕೇಶ್ವರ,ತ್ರ್ಯಂಬಕೇಶ್ವರ,13,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.125000000e-06,1.417000000e-06,13,1000,very_long,matching,seconds
+KMP_tulu_1000_0335,tulu,ಕುಟ್ಟಿದೊಣ್ಣೆ,ಕುಟ್ಟಿದೊಣ್ಣ,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,1.250000000e-06,12,1000,very_long,matching,seconds
+KMP_tulu_1000_0336,tulu,ಸುಂದರ್_ರಾಜ್,ಸುಂದರ್_ರಾಜ್,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,1.209000000e-06,11,1000,very_long,matching,seconds
+KMP_tulu_1000_0337,tulu,ನಾರಾಯಣ_ಗುರುಸ್ವಾಮಿ,ಯಣ_ಗುರುಸ್ವಾ,11,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.590000000e-07,1.625000000e-06,17,1000,very_long,matching,seconds
+KMP_tulu_1000_0338,tulu,ಕಡ್ಲೆ_ಬೇಳೆದ_ಪಾಯೊಸ,ಡ್ಲೆ_ಬೇಳೆದ_ಪಾಯೊ,15,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.208000000e-06,1.666000000e-06,17,1000,very_long,matching,seconds
+KMP_tulu_1000_0339,tulu,ಜೇಮ್ಸ್_ಎವಿಂಗ್,ಜೇಮ್ಸ್_ಎವಿಂಗ್,13,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.125000000e-06,1.375000000e-06,13,1000,very_long,matching,seconds
+KMP_tulu_1000_0340,tulu,ಕಮಲಾ_ದಾಸ್_ಗುಪ್ತ,ಕಮಲಾ_ದಾಸ್_ಗು,12,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.041000000e-06,1.500000000e-06,15,1000,very_long,matching,seconds
+KMP_tulu_1000_0341,tulu,ಆರ್_ಶ್ರೀಲೇಖಾ,ಆರ್_ಶ್ರೀಲೇಖ,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.250000000e-06,12,1000,very_long,matching,seconds
+KMP_tulu_1000_0342,tulu,ಉಮಾಬಾಯಿ_ಕುಂದಾಪುರ,ಾಬಾಯಿ_ಕುಂದಾಪು,13,[2],[2],True,True,PASSED,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",1.291000000e-06,1.583000000e-06,16,1000,very_long,matching,seconds
+KMP_tulu_1000_0343,tulu,ತಿರುವಾತಿರಕಳಿ,ತಿರುವಾತಿರಕಳಿ,12,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 1, 2, 3, 0, 0, 0]",1.166000000e-06,1.375000000e-06,12,1000,very_long,matching,seconds
+KMP_tulu_1000_0344,tulu,ಪೂರ್ಣಿಮಾ_ಸಿನ್ಹಾ,್ಣಿಮಾ_ಸಿನ್ಹ,11,[3],[3],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",1.084000000e-06,1.500000000e-06,15,1000,very_long,matching,seconds
+KMP_tulu_1000_0345,tulu,ಭವ್ಯಶ್ರೀ_ಕುಲ್ಕುಂದ,ಶ್ರೀ_ಕುಲ್ಕುಂದ,13,[4],[4],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.167000000e-06,1.791000000e-06,17,1000,very_long,matching,seconds
+KMP_tulu_1000_0346,tulu,ಮಾನಸಿ_ಜೋಶಿ_ರಾಯ್,ಮಾನಸಿ_ಜೋಶಿ_ರಾಯ್,15,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.334000000e-06,1.500000000e-06,15,1000,very_long,matching,seconds
+KMP_tulu_1000_0347,tulu,ಯಾಂಗ್ಜಿ_ನದಿ,ಯಾಂಗ್ಜಿ_ನದಿ,11,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.209000000e-06,11,1000,very_long,matching,seconds
+KMP_tulu_1000_0348,tulu,ಅಮ್ಮೆರ್_ಪೋಲಿಸ,ಅಮ್ಮೆರ್_ಪೋಲಿಸ,13,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.083000000e-06,1.375000000e-06,13,1000,very_long,matching,seconds
+KMP_tulu_1000_0349,tulu,ತುಳುನಾಡುದ_ಬೆನ್ನಿ,ತುಳುನಾಡುದ_ಬೆನ,13,[0],[0],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.041000000e-06,1.583000000e-06,16,1000,very_long,matching,seconds
+KMP_tulu_1000_0350,tulu,ಮತ್ಸ್ಯೇಂದ್ರನಾಥ,ತ್ಸ್ಯೇಂದ್ರನಾ,12,[1],[1],True,True,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,1.291000000e-06,14,1000,very_long,matching,seconds
+KMP_tulu_1000_0351,tulu,ನಾಗಮ್ಮ_ಪಾಟೀಲ್,ಮಿಲನ_ನಾಗರಾಜ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.291000000e-06,15,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0352,tulu,"ಉಚ್ಚಿಲ,_ಉಡುಪಿ_ಜಿಲ್ಲೆ",ದ್ಯುತಿ_ಇರೆಕುಲು,14,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.084000000e-06,1.459000000e-06,20,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0353,tulu,ಮೂರ್ತೆ,ಬ್ರಾಹುಯಿ_ಬಾಸೆ,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",1.125000000e-06,5.840000000e-07,6,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0354,tulu,ಮೀನ್,ಿರಿರಾಜ್_ಆಸ್ಪತ,13,[],[],False,False,PASSED,"[0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.083000000e-06,5.000000000e-07,4,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0355,tulu,ಬಾಕಿಲ್,ೋದಂಡರಾಮ_ದೇವಸ್ಥಾ,15,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.125000000e-06,5.830000000e-07,6,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0356,tulu,ರಸಾಯನ_ಶಾಸ್ತ್ರ,ಬೊಲ್ಲರ_ಮಾನಿಗ,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,1.083000000e-06,13,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0357,tulu,ಎಬೋಲಾ,ವಿ_.ಎಂ._ಗಿರಿಜಾ,14,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.042000000e-06,5.410000000e-07,5,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0358,tulu,ಗಂಗಾವತಿ_ಪ್ರಾಣೇಶ್,ತ್ರ_ಹೆಚ್.ಜಿ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.333000000e-06,17,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0359,tulu,ದೃಶ್ಯಂ,ಕ_ಕೇಂದ್ರಾಡಳಿತ_,14,[],[],False,False,PASSED,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.166000000e-06,6.250000000e-07,6,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0360,tulu,ಮೂಕಜ್ಜಿಯ_ಕನಸುಗಳು,ಗೀತಾಂಜಲಿ_ಮಿಶ್ರ,14,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.042000000e-06,1.375000000e-06,17,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0361,tulu,ಗುರುಗುಙಿ,ಕ್ಲಿಯೋಪಾತ್ರ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,7.090000000e-07,8,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0362,tulu,ಉಷಾ_ಅನಂತಸುಬ್ರಮಣ್ಯಂ,_ವಿಶ್ವ_ಸಸ್ಯವರ,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",1.042000000e-06,1.375000000e-06,19,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0363,tulu,ಅಗಸ್ಟ್_ಮೆನ್ನರ್,ೆಲಕಾಯಿ_ಹಪ್ಪ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.250000000e-06,15,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0364,tulu,ಕುರ್ಸು,ಿಪಂಜಿ_ನಲಿಕೆ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]",1.083000000e-06,5.830000000e-07,6,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0365,tulu,ನೀತಾ_ಲುಲ್ಲಾ,ಂದ್ರಶೇಖರ_ಕಂಬ,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",1.000000000e-06,8.750000000e-07,11,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0366,tulu,ಲಾಂಬು,ಯುವಾನ್_ಕ್ಸಿನ,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,5.420000000e-07,5,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0367,tulu,ಬೈಲಾಂಗ್_ಎಲಿವೇಟರ್,್ರಶಸ್ತಿ_೨೦೧,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",9.580000000e-07,1.333000000e-06,17,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0368,tulu,ಲಿಯು_ಯಾಂಗ್,ನಾಡ್_ಚೆಟ್ಟಿ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,8.750000000e-07,10,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0369,tulu,ಪಲ್ಲೆದ_ಬೂರು,ಬಾಂಗ್ಲಾ_ದೇಶ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.083000000e-06,12,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0370,tulu,ಎಸ್ಕಿ_ಕೆರ್ಮೆನ್,_ಮಲ್ಪುನ_ಗೊಬ್ಬ,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",1.000000000e-06,1.125000000e-06,15,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0371,tulu,ವಿಶ್ವ_ಅಪ್ಪೆ_ಬಾಸೆ_ದಿನೊ,ೊಂಡಿಲ್ದಂಚಿನ_ಗು,14,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.083000000e-06,1.584000000e-06,21,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0372,tulu,ಸಾಂತಣಿ,ವರಿಜಾಶ್ರೀ_ವೇಣು,14,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",1.166000000e-06,5.830000000e-07,6,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0373,tulu,ಲಸೋಫ್ನ_ಗೊಬ್ಬುಲೆಡ್_ಭಾರತ,ತರಾಭಾದ್ರಪದೊ_ಓ,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.667000000e-06,22,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0374,tulu,ರಶ್ಮಿಕಾ_ಮಂದಣ್ಣ,ಒಲ್ಲರಿ_ಬಾಸೆ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.170000000e-07,1.084000000e-06,14,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0375,tulu,ಇಸ್ಲಾಮ್_ಧರ್ಮ,್ರಿಯಾ_ಝಿಂಗನ್,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",9.170000000e-07,1.292000000e-06,15,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0376,tulu,ಯು_ಕ್ಸಿಯುಹುವಾ,ಅವಲುಮ್_ಪೆನ್_ತಾನ,15,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.125000000e-06,1.042000000e-06,13,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0377,tulu,ಸೊಪ್ಪಧಂಡಿ_ಯಶಸ್ರೀ,ಳುನಾಡ_ಸ್ಥಳನಾಮೊ,14,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",1.167000000e-06,1.250000000e-06,16,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0378,tulu,ಬಂಜಾರ_ಬಾಸೆ,ಕ್ಕಮಕ್ಕೆನ_ಬುಡಾರ,15,[],[],False,False,PASSED,"[0, 0, 1, 0, 1, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0]",1.500000000e-06,8.750000000e-07,10,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0379,tulu,ವಂದೇ_ಭಾರತ್_ಎಕ್ಸ್‌ಪ್ರೆಸ್,ಜಿಲ್ದ_ತೆನಸುಲ,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.667000000e-06,23,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0380,tulu,ಹಿಂದೂ_ಮದಿಮೆ,ುಖ-ದೋರಾ_ಬಾಸ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.160000000e-07,1.000000000e-06,11,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0381,tulu,ಕುಮಾರವ್ಯಾಸ,ಬಿನೋದಿನಿ_ದೇವಿ,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",5.250000000e-06,9.580000000e-07,10,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0382,tulu,ಬಿಂದು_ಅಮ್ಮಿನಿ,ಘವೇಂದ್ರ_ರಾವ್,12,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.042000000e-06,1.125000000e-06,13,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0383,tulu,ಉಂಡ್ಲುಗೊ,ಸಾಮೂಹಿಕ_ಗೇನ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,7.920000000e-07,8,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0384,tulu,ಕಪ್ಪರೊಟ್ಟಿ(ಓಡುಪಾಲೆ),ಶ್ರೀ_ವಿಜಯಪುರಮ್,14,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.042000000e-06,1.417000000e-06,19,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0385,tulu,ಮುದ್ದು_ಮೂಡುಬೆಳ್ಳೆ,ನ್_ಜೋಕ್ಲೆನ_,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",9.590000000e-07,1.292000000e-06,17,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0386,tulu,ಜಮಲಾಬಾದ್,ಕಂಚಿಲ್_ಪರಕೆ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",9.590000000e-07,7.090000000e-07,8,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0387,tulu,ಮೂರ್ತೆ,ೇಶ್_ಚಂದ್ರ_(ಗಾಯ,14,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.041000000e-06,6.670000000e-07,6,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0388,tulu,ಬಾಸೆಲ್_ಮಿಶನ್,ವಸುಂದರಾ_ಭೂಪತಿ,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,9.580000000e-07,12,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0389,tulu,ರಾಷ್ಟ್ರೀಯ_ವೈದ್ಯೆರೆ_ದಿನೊ,ಬೆಂದ್ರ_ಮಂಡೆ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.666000000e-06,23,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0390,tulu,ಗಂಗಾವತಿ_ಪ್ರಾಣೇಶ್,ೈತ್ರ_ಹೆಚ್.ಜಿ.,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.208000000e-06,16,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0391,tulu,ಆಲಿಯಾ_ಭಟ್_(ನಟಿ),ಚ್.ಜಿ.ರಾಧಾದೇವ,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.000000000e-06,1.167000000e-06,15,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0392,tulu,ಆಲಿಯಾ_ಭಟ್_(ನಟಿ),ರ್ನಾಟಕ_ವಿಧಾನ_ಸಭ,15,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1.125000000e-06,1.166000000e-06,15,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0393,tulu,ಶುಭಾ_ವೆಂಕಟೇಶ್_ಅಯ್ಯಂಗಾರ್,ಡ್ಲೆ_ಬೇಳೆದ_,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.708000000e-06,23,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0394,tulu,ಕೇರಳದ_ಹಿನ್ನೀರ್,್ನಾನ್_ಬಿನ್_ಉದದ,14,[],[],False,False,PASSED,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]",1.209000000e-06,1.292000000e-06,15,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0395,tulu,ಬ್ರಾಹುಯಿ_ಬಾಸೆ,ಬಾಲೆ_ತೊಟ್ಟಿ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.750000000e-07,1.250000000e-06,15,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0396,tulu,ಮಾಲಾ_ಮಲಸರ್_ಬಾಸೆ,ಬಾಂಗ್ಲಾ_ದೇಶ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",7.920000000e-07,1.250000000e-06,16,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0397,tulu,ಬಂಗುಡೆ,ರವಿ_ಬೆಳಗೆರೆ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",9.580000000e-07,6.250000000e-07,6,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0398,tulu,ತುಳುವೆರ್,ಸಿಂಚನಾ_ಡಿ_ಗೌಡ,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",9.580000000e-07,7.090000000e-07,8,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0399,tulu,ಗುರ್ಬಾನಿ_ಜಾಡ್ಜ್,ಪನಾಡು_ದುರ್ಗಾಪ,13,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",9.580000000e-07,1.125000000e-06,15,1000,very_long,non_matching,seconds
+KMP_tulu_1000_0400,tulu,ಲಿಂತೋಯಿಂಗಂಬಿ_ದೇವಿ_ಮೈಬಾಂ,ಣ್ಯನ್_ಚಂದ್ರ,11,[],[],False,False,PASSED,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",8.330000000e-07,1.666000000e-06,23,1000,very_long,non_matching,seconds

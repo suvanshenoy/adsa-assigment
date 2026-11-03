@@ -1,0 +1,24 @@
+2026-11-02 21:20:23,194 [INFO] Starting KMP Multilingual Wikipedia Experiment Execution
+2026-11-02 21:20:23,194 [INFO] Processing workload: english_10000_patterns.csv
+2026-11-02 21:20:23,200 [INFO] Finished english_10000_patterns.csv: 400 records | Passed: 400 | Failed: 0 | Total Comps: 8,440 | LPS Time: 0.000243s | Search Time: 0.000626s
+2026-11-02 21:20:23,201 [INFO] Processing workload: english_1000_patterns.csv
+2026-11-02 21:20:23,205 [INFO] Finished english_1000_patterns.csv: 400 records | Passed: 400 | Failed: 0 | Total Comps: 8,629 | LPS Time: 0.000237s | Search Time: 0.000628s
+2026-11-02 21:20:23,206 [INFO] Processing workload: english_25000_patterns.csv
+2026-11-02 21:20:23,210 [INFO] Finished english_25000_patterns.csv: 400 records | Passed: 400 | Failed: 0 | Total Comps: 8,782 | LPS Time: 0.000240s | Search Time: 0.000632s
+2026-11-02 21:20:23,211 [INFO] Processing workload: english_5000_patterns.csv
+2026-11-02 21:20:23,215 [INFO] Finished english_5000_patterns.csv: 400 records | Passed: 400 | Failed: 0 | Total Comps: 9,298 | LPS Time: 0.000230s | Search Time: 0.000629s
+2026-11-02 21:20:23,216 [INFO] Processing workload: kannada_10000_patterns.csv
+2026-11-02 21:20:23,220 [INFO] Finished kannada_10000_patterns.csv: 400 records | Passed: 400 | Failed: 0 | Total Comps: 6,749 | LPS Time: 0.000251s | Search Time: 0.000555s
+2026-11-02 21:20:23,222 [INFO] Processing workload: kannada_1000_patterns.csv
+2026-11-02 21:20:23,225 [INFO] Finished kannada_1000_patterns.csv: 400 records | Passed: 400 | Failed: 0 | Total Comps: 6,114 | LPS Time: 0.000259s | Search Time: 0.000543s
+2026-11-02 21:20:23,227 [INFO] Processing workload: kannada_25000_patterns.csv
+2026-11-02 21:20:23,230 [INFO] Finished kannada_25000_patterns.csv: 400 records | Passed: 400 | Failed: 0 | Total Comps: 6,579 | LPS Time: 0.000278s | Search Time: 0.000591s
+2026-11-02 21:20:23,232 [INFO] Processing workload: kannada_5000_patterns.csv
+2026-11-02 21:20:23,235 [INFO] Finished kannada_5000_patterns.csv: 400 records | Passed: 400 | Failed: 0 | Total Comps: 6,411 | LPS Time: 0.000270s | Search Time: 0.000559s
+2026-11-02 21:20:23,236 [INFO] Processing workload: tulu_1000_patterns.csv
+2026-11-02 21:20:23,240 [INFO] Finished tulu_1000_patterns.csv: 400 records | Passed: 400 | Failed: 0 | Total Comps: 5,307 | LPS Time: 0.000264s | Search Time: 0.000473s
+2026-11-02 21:20:23,241 [INFO] Processing workload: tulu_4536_patterns.csv
+2026-11-02 21:20:23,245 [INFO] Finished tulu_4536_patterns.csv: 400 records | Passed: 400 | Failed: 0 | Total Comps: 5,374 | LPS Time: 0.000251s | Search Time: 0.000470s
+2026-11-02 21:20:23,257 [INFO] Saved master benchmark CSV (4000 records): /Users/vasanthpaimd/Documents/MTech/ADSA Assignment/adsa-assignment/results/kmp/kmp_benchmark_results.csv
+2026-11-02 21:20:23,268 [INFO] Saved master benchmark CSV (4000 records): /Users/vasanthpaimd/Documents/MTech/ADSA Assignment/adsa-assignment/results/kmp_benchmark_results.csv
+2026-11-02 21:20:23,273 [INFO] Saved benchmark summary JSON: /Users/vasanthpaimd/Documents/MTech/ADSA Assignment/adsa-assignment/results/kmp/kmp_benchmark_summary.json
