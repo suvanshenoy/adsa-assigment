@@ -1,0 +1,25 @@
+PROJECT: Comparative Performance Analysis of Naive String Matching and KMP Algorithms
+
+PROGRAMMING LANGUAGE: Python
+
+PYTHON VERSION: Python 3.13.14
+
+OPERATING SYSTEM: Windows
+
+IDE: Visual Studio Code
+
+LIBRARIES:
+- pandas
+- numpy
+- matplotlib
+
+DATA FORMAT: CSV
+
+CHARACTER ENCODING: UTF-8 / Unicode
+
+ALGORITHMS:
+- Naive String Matching
+- Knuth-Morris-Pratt (KMP)
+- Longest Prefix Suffix (LPS)
+
+EXECUTION: Python scripts through VS Code terminal
